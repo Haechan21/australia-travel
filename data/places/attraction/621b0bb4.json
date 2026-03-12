@@ -1,0 +1,65 @@
+{
+  "id": "621b0bb4",
+  "name": "Barrenjoey Lighthouse",
+  "name_ko": "바렌조이 등대",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Barrenjoey Lighthouse, 1199D Barrenjoey Rd, Palm Beach NSW 2108 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.32985309999998,
+      "lat": -33.5802133
+    },
+    "address": "1199D Barrenjoey Road, Palm Beach NSW 2108, Australia",
+    "region": "센트럴코스트"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 702,
+    "price_level": null,
+    "opening_hours": "외부: 연중 개방. 가이드 투어: 매주 일요일 (내부는 투어로만 입장 가능)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "태평양, 핏워터, 쿠링가이 국립공원의 360도 파노라마 전망",
+          "1881년 건립된 유서 깊은 등대",
+          "97%의 여행자가 추천하는 높은 만족도"
+        ],
+        "negative": [
+          "약 1km 가파른 오르막 도보 필요",
+          "차량 접근 불가"
+        ],
+        "seasonal_notes": "5월은 선선한 기온으로 등대까지 하이킹하기 좋은 시기. 고래 이동 시즌 시작"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "일몰 시간 방문 시 환상적인 풍경",
+          "화장실, 음수대 등 편의시설 완비"
+        ],
+        "negative": [
+          "여름 성수기 주차 경쟁 치열"
+        ],
+        "status_notes": "정상 운영. 일요일 가이드 투어 유지"
+      },
+      "tips": [
+        "Governor Phillip Park 유료 주차 후 도보 이동",
+        "일요일 가이드 투어 참여 시 등대 내부 관람 가능",
+        "팜비치 록풀과 함께 반나절 코스로 추천",
+        "선크림과 모자 필수"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 120,
+    "cost_aud": 0,
+    "best_time": "오전 또는 일몰 전 (일요일이면 가이드 투어 가능)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Barrenjoey+Lighthouse&query_place_id=ChIJvXoL61RNDWsRSJDrKYXXs1Q"
+}

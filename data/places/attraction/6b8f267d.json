@@ -1,0 +1,66 @@
+{
+  "id": "6b8f267d",
+  "name": "Hunter Valley Wildlife Park",
+  "name_ko": "헌터 밸리 와일드라이프 파크",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Hunter Valley Wildlife Park, 138 Lomas Ln, Nulkaba NSW 2325 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.363399,
+      "lat": -32.796107
+    },
+    "address": "138 Lomas Ln, Nulkaba NSW 2325, Australia",
+    "region": "뉴캐슬/포트스테판스"
+  },
+  "collected_data": {
+    "rating": 4.3,
+    "total_reviews": 2686,
+    "price_level": null,
+    "opening_hours": "매일 9:00 AM - 4:00 PM",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "캥거루 먹이주기, 코알라 사진 촬영 등 인터랙티브 체험",
+          "기린, 사자, 얼룩말 등 이국적 동물도 보유",
+          "가족 단위 방문에 적합"
+        ],
+        "negative": [
+          "입장료가 다소 높은 편",
+          "일부 동물 사육장이 작다는 의견"
+        ],
+        "seasonal_notes": "5월 가을은 야외 관람에 쾌적한 날씨, 비 오는 날에도 실내 전시 일부 있음"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "NSW 최고의 동물원 중 하나라는 평가",
+          "다양한 동물 종류",
+          "친절한 스태프"
+        ],
+        "negative": [
+          "도심에서 거리가 있음 (헌터밸리 지역)"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "오전에 방문하면 동물들이 더 활발",
+        "캥거루 먹이는 입구에서 구매 가능",
+        "최소 2-3시간 소요 예상",
+        "헌터밸리 와이너리 투어와 연계 가능"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 150,
+    "cost_aud": 49,
+    "best_time": "오전 (동물 활동 활발한 시간)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Hunter+Valley+Wildlife/data=!4m2!3m1!1s0x6b73350d49f4e8bf:0xf0a9e989d72c2a15"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "551ff6a1",
+  "name": "Urunga Boardwalk",
+  "name_ko": "우룬가 보드워크",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Urunga Boardwalk, Urunga NSW 2455 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.0237982,
+      "lat": -30.4978016
+    },
+    "address": "Urunga NSW 2455",
+    "region": "콥스하버"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 1849,
+    "price_level": null,
+    "opening_hours": "항상 개방 (단, 2026년 6월까지 대규모 보수공사 중 - 200m 구간만 개방)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "공사 전 마지막 정상 운영 시기였을 수 있음"
+        ],
+        "negative": [
+          "2025년 6월 23일부터 보수공사 시작으로 폐쇄 예정이었음"
+        ],
+        "seasonal_notes": "2025년 5월에는 아직 공사 시작 전이었으나, 2026년 5월에는 공사 완료 직전일 가능성 있음"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "새 보드워크 200m 구간 및 전망대 개방",
+          "강과 주변 경관 전망 가능"
+        ],
+        "negative": [
+          "대부분 구간이 공사 중으로 폐쇄",
+          "전체 보드워크 체험 불가"
+        ],
+        "status_notes": "대규모 보수공사 진행 중 ($12.2M 투자). 2026년 6월 완공 예정. 현재 200m 신규 구간 + 전망대만 개방"
+      },
+      "tips": [
+        "2026년 5월 방문 시 아직 공사 중일 가능성 높음 - 사전 확인 필수",
+        "벨링겐 샤이어 카운슬 웹사이트에서 최신 상태 확인",
+        "공사 완료 시 1.2km 강변~해안 산책로로 재개장 예정",
+        "Urunga Wetlands Boardwalk(d5fa343f)는 별도 장소로 정상 운영 중"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 60,
+    "cost_aud": 0,
+    "best_time": "이른 아침 (일출) 또는 오후",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Urunga+Boardwalk,+Urunga,+NSW&query_place_id=ChIJBV8S1Tc9nGsR6xQ_G3boaeI"
+}

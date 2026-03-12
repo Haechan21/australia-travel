@@ -1,0 +1,66 @@
+{
+  "id": "4d611b52",
+  "name": "Tamborine National Park (Cedar Creek Falls)",
+  "name_ko": "탬보린 국립공원 (시더 크릭 폭포)",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "탬보린 국립공원 Cedar Creek QLD 4207 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.180923,
+      "lat": -27.888245899999998
+    },
+    "address": "Cedar Creek Falls, Tamborine National Park, Cedar Creek QLD 4207, Australia",
+    "region": "골드코스트"
+  },
+  "collected_data": {
+    "rating": 4.5,
+    "total_reviews": 1800,
+    "price_level": null,
+    "opening_hours": "24시간 개방 (일출~일몰 권장)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "장엄한 폭포와 암벽 경관이 인상적",
+          "록풀에서 수영 가능한 천연 수영장",
+          "500m 짧은 산책로로 접근 용이"
+        ],
+        "negative": [
+          "주말 주차 공간 매우 부족",
+          "5월 수온이 낮아 수영하기 다소 차가움"
+        ],
+        "seasonal_notes": "5월은 가을로 수량이 줄어들 수 있으나 여전히 폭포 감상 가능. 수온이 낮아져 수영은 다소 차가울 수 있음."
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "가족 단위 방문에 적합한 쉬운 산책로",
+          "록 슬라이드와 다이빙 스팟이 인기",
+          "무료 입장으로 가성비 우수"
+        ],
+        "negative": [
+          "주말 혼잡으로 도로변 추가 1km 보행 필요",
+          "우기 시 물살이 강해 수영 위험"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "주말 혼잡을 피해 평일 오전 방문 추천",
+        "록풀 수영 시 미끄러운 바위 주의",
+        "5월 방문 시 여분의 옷과 수건 준비 권장"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 60,
+    "cost_aud": 0,
+    "best_time": "오전 이른 시간 (주중 권장)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cedar+Creek+Falls,+Tamborine+Mountain,+QLD&query_place_id=ChIJx7pmTXI9kWsR9lTbo7-zpcY"
+}

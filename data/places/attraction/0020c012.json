@@ -1,0 +1,66 @@
+{
+  "id": "0020c012",
+  "name": "Port Stephens Kangaroo Encounters",
+  "name_ko": "포트 스테판스 캥거루 인카운터스",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "포트 스테판스 캉가루 엔컨터스 57 Dowling St, Nelson Bay NSW 2315 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.14602549999998,
+      "lat": -32.7244378
+    },
+    "address": "57 Dowling St (Nelson Bay Golf Club), Nelson Bay NSW 2315, Australia",
+    "region": "뉴캐슬/포트스테판스"
+  },
+  "collected_data": {
+    "rating": 4.9,
+    "total_reviews": 350,
+    "price_level": null,
+    "opening_hours": "투어 시간: 오후 5시경 (계절에 따라 변동)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "야생 캥거루를 자연 환경에서 관찰하는 독특한 경험",
+          "골프카트로 이동하며 편안하게 투어",
+          "자원봉사 가이드가 매우 지식이 풍부"
+        ],
+        "negative": [
+          "사전 예약 필수 (예약 없이 방문 시 실망 가능)",
+          "현금만 받는 경우 있음"
+        ],
+        "seasonal_notes": "5월 가을에는 일몰이 빨라 투어 시간이 조정될 수 있음, 70헥타르 골프장에서 야생 캥거루 관찰"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "트립어드바이저 넬슨베이 야외 활동 1위",
+          "70개국 이상 3000명 이상 투어 참여",
+          "수익금 전액 캥거루 연구에 사용"
+        ],
+        "negative": [
+          "소규모 투어(최대 6명)라 예약이 빨리 마감"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "반드시 사전 예약 필수",
+        "16세 미만 무료",
+        "골프카트 대여 시 현금 $20 별도 (6인승)",
+        "동물원이 아닌 야생 환경이라 캥거루가 보이지 않을 수도 있으나 확률 높음"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 60,
+    "cost_aud": 20,
+    "best_time": "오후 5시경 (투어 시간)",
+    "weather_dependent": true,
+    "reservation_required": true
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Port+Stephens+Kangaroo+Encounters,+Nelson+Bay,+NSW"
+}

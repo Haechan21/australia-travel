@@ -1,0 +1,68 @@
+{
+  "id": "3e54b21c",
+  "name": "Luna Park Sydney",
+  "name_ko": "루나 파크 시드니",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "루나 파크 시드니 1 Olympic Dr, Milsons Point NSW 2061 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.2098382,
+      "lat": -33.847698699999995
+    },
+    "address": "1 Olympic Dr, Milsons Point NSW 2061, Australia",
+    "region": "시드니"
+  },
+  "collected_data": {
+    "rating": 4.0,
+    "total_reviews": 12000,
+    "price_level": null,
+    "opening_hours": "수~일 11:00~17:00 (주말 ~18:00), 학교 방학 중 매일 운영. 시즌별 변동 있음",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "시드니 하버브리지 바로 아래 위치한 상징적인 놀이공원",
+          "입장 무료 - 놀이기구만 유료",
+          "야간 이벤트(Vivid 등) 시 분위기 좋음"
+        ],
+        "negative": [
+          "놀이기구가 다소 오래되고 낡은 편",
+          "대기 줄이 길 수 있음",
+          "가격 대비 만족도 낮다는 평가"
+        ],
+        "seasonal_notes": "5월은 비수기로 운영일이 제한적일 수 있음 (주로 금~월). 방문 전 홈페이지 확인 필수"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "하버브리지와 오페라하우스 전망 포토스팟",
+          "가족 단위 방문에 적합",
+          "특별 이벤트 시 분위기 좋음"
+        ],
+        "negative": [
+          "$300+ 지출 후 5시간에 3개 놀이기구만 탑승했다는 불만",
+          "시설 노후"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "입장만 무료, 놀이기구 이용 시 무제한 패스 구매 추천",
+        "온라인 사전 구매 시 할인 ($25~$45, 키에 따라)",
+        "밀슨스 포인트역에서 도보 5분",
+        "놀이기구 안 타도 입구의 유명한 얼굴 조형물과 하버 뷰 사진 촬영 가능"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 120,
+    "cost_aud": 0,
+    "best_time": "오후~저녁 (야경 포함)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Luna+Park+Sydney/@-33.8476987,151.2098382"
+}

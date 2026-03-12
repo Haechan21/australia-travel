@@ -1,0 +1,65 @@
+{
+  "id": "54422111",
+  "name": "Tacking Point Lighthouse",
+  "name_ko": "태킹 포인트 등대",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Tacking Point Lighthouse, Lighthouse Rd, Port Macquarie NSW 2444 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.9373573,
+      "lat": -31.4755149
+    },
+    "address": "Lighthouse Rd, Port Macquarie NSW 2444",
+    "region": "포트맥쿼리"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 1161,
+    "price_level": null,
+    "opening_hours": "24시간 개방 (외부 관람)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "라이트하우스 비치의 탁 트인 해안 전망",
+          "5월은 고래 이동 시즌 시작으로 고래 관찰 가능"
+        ],
+        "negative": [
+          "등대 내부 입장 불가"
+        ],
+        "seasonal_notes": "5월부터 고래 이동 시즌 시작. 일몰이 일찍 와서 일몰 감상에 유리"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "최근 재도장 및 울타리 교체로 깔끔해짐",
+          "접근성 개선 - 휠체어 접근 가능한 산책로",
+          "주차장, 전망대, 계단 구비"
+        ],
+        "negative": [
+          "해안 산책로 일부 구간 일시 통행 제한"
+        ],
+        "status_notes": "정상 관람 가능"
+      },
+      "tips": [
+        "일출 또는 일몰 시간 방문 추천",
+        "호주에서 13번째로 오래된 등대 (1879년 건축)",
+        "라이트하우스 비치까지 계단으로 연결",
+        "해안 산책로(Coastal Walk)의 종점",
+        "무료 관람, 무료 주차"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 30,
+    "cost_aud": 0,
+    "best_time": "일출 또는 일몰",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Tacking+Point+Lighthouse,+Port+Macquarie+NSW+2444,+Australia"
+}

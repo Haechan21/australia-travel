@@ -1,0 +1,65 @@
+{
+  "id": "fff3a505",
+  "name": "Blackbutt Reserve",
+  "name_ko": "블랙버트 자연보호지역",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "블랙버트 자연보호지역 Carnley Ave, Kotara NSW 2289 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.6975367,
+      "lat": -32.937368
+    },
+    "address": "Carnley Ave, Kotara NSW 2289, Australia",
+    "region": "뉴캐슬/포트스테판스"
+  },
+  "collected_data": {
+    "rating": 4.6,
+    "total_reviews": 4000,
+    "price_level": null,
+    "opening_hours": "공원: 7:00 AM - 7:00 PM, 야생동물 전시: 10:00 AM - 4:30 PM (매일)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "무료 입장으로 가성비 최고",
+          "코알라, 웜뱃, 왈라비 등 호주 토착 동물 관람 가능",
+          "산책로와 피크닉 시설이 잘 정비됨"
+        ],
+        "negative": [
+          "동물 울타리가 작다는 의견 일부",
+          "주차비 별도 부과"
+        ],
+        "seasonal_notes": "5월 가을은 산책하기 좋은 날씨, 단풍은 없지만 선선한 기온으로 쾌적"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "뉴캐슬의 숨은 보석 같은 장소",
+          "가족 단위에 최적",
+          "무료 BBQ 시설 이용 가능"
+        ],
+        "negative": [
+          "카페 메뉴가 제한적"
+        ],
+        "status_notes": "정상 운영 중, 크리스마스/굿프라이데이/앤작데이 오후 1시 전 휴무"
+      },
+      "tips": [
+        "Carnley Ave 입구 추천 (야생동물 전시와 가까움)",
+        "182헥타르 넓은 부지이므로 걷기 편한 신발 착용",
+        "무료이지만 주차비는 있으므로 동전 준비"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 120,
+    "cost_aud": 0,
+    "best_time": "오전 10시~오후 3시 (동물 전시 시간)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Blackbutt+Reserve+Entrance/@-32.9374967,151.6973616,17z"
+}

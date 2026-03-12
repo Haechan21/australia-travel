@@ -1,0 +1,66 @@
+{
+  "id": "ff4c6964",
+  "name": "Dangar Falls",
+  "name_ko": "댕거 폭포",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Dangar Falls, Coramba Rd, Dorrigo NSW 2453 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.7143427,
+      "lat": -30.323302199999997
+    },
+    "address": "Coramba Rd, Dorrigo NSW 2453",
+    "region": "콥스하버"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 1800,
+    "price_level": null,
+    "opening_hours": "항상 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "가을이라 수영하기엔 차갑지만 폭포 수량이 풍부할 수 있음",
+          "산책에 쾌적한 기온"
+        ],
+        "negative": [
+          "폭포 하단 접근이 일시적으로 제한될 수 있음 (2025년 5월 기준)"
+        ],
+        "seasonal_notes": "5월은 수온이 차가워 수영은 어려울 수 있으나 폭포 감상과 산책에는 좋은 시기"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "30m 높이 현무암 폭포가 장관",
+          "전망대에서 폭포 정면 감상",
+          "주차장에서 도보 10분",
+          "아이 놀이터와 미로 있음",
+          "수영 가능한 웅덩이"
+        ],
+        "negative": [
+          "폭포 하단 접근이 일시적으로 제한될 수 있음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "도리고 타운 중심에서 북쪽으로 2km",
+        "전망대까지 접근성 좋음 (휠체어 가능)",
+        "왕복 약 1km, 30분 소요",
+        "도리고 국립공원(Crystal Shower Falls) 방문과 함께 코스 가능"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 45,
+    "cost_aud": 0,
+    "best_time": "오전 (빛이 폭포에 잘 비침)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dangar+Falls,+Dorrigo,+NSW&query_place_id=ChIJXd8N7_WjnmsRdVINr2kzYC4"
+}

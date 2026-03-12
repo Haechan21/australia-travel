@@ -1,0 +1,67 @@
+{
+  "id": "7ac4516b",
+  "name": "Wooli Breakwater",
+  "name_ko": "울리 방파제",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "4768+8F Wooli Breakwater, Wooli NSW 2462 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.266178,
+      "lat": -29.8891454
+    },
+    "address": "Wooli Breakwater, Wooli NSW 2462, Australia",
+    "region": "야마/그래프턴"
+  },
+  "collected_data": {
+    "rating": 4.3,
+    "total_reviews": 200,
+    "price_level": null,
+    "opening_hours": "24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "낚시 명소 - 도미, 납작어, 멀로웨이 등 다양한 어종",
+          "강과 바다가 만나는 독특한 지형",
+          "한적하고 여유로운 어촌 마을 분위기"
+        ],
+        "negative": [
+          "편의시설이 최소한",
+          "관광 인프라 부족"
+        ],
+        "seasonal_notes": "5월은 가을 낚시 시즌으로 도미와 납작어 잡기 좋은 시기. 해수온 아직 괜찮은 편."
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "가족 친화적 수영 장소 (강 어귀)",
+          "피크닉 테이블, BBQ, 화장실 시설 있음",
+          "4WD 비치 접근 가능"
+        ],
+        "negative": [
+          "접근성이 다소 떨어짐 (외진 위치)",
+          "휴대폰 신호 약할 수 있음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "낚시 면허 필요 (18세 미만 면제)",
+        "1인당 낚싯대 2개 제한",
+        "식수와 식량 충분히 준비해서 방문",
+        "울리-울리 강 어귀가 수영에 안전"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 120,
+    "cost_aud": 0,
+    "best_time": "이른 아침 또는 오후 (낚시 최적)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Wooli+Breakwater,+Wooli+NSW"
+}

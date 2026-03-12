@@ -1,0 +1,65 @@
+{
+  "id": "edbb0857",
+  "name": "Little Bay Picnic Area",
+  "name_ko": "리틀 베이 피크닉 에어리어",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "436F+XV 리틀 베이 피크닉 에어리어 South West Rocks NSW 2431 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.07468749999998,
+      "lat": -30.887562499999998
+    },
+    "address": "Arakoon National Park, South West Rocks NSW 2431",
+    "region": "사우스웨스트록스/켐시"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 105,
+    "price_level": null,
+    "opening_hours": "일출~일몰",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "가족 단위 피크닉에 최적",
+          "동부 회색 캥거루가 자주 출몰"
+        ],
+        "negative": [
+          "장애인 접근성 부족"
+        ],
+        "seasonal_notes": "5월 가을에 쾌적한 피크닉 날씨. 캥거루, 새, 왕도마뱀 등 야생동물 활발"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "새롭게 리노베이션된 시설",
+          "전기 BBQ, 피크닉 쉘터, 깨끗한 화장실",
+          "작은 시내가 흐르는 평화로운 환경"
+        ],
+        "negative": [
+          "야생동물이 음식을 노리므로 주의 필요"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "아라쿤 국립공원 Trial Bay Gaol 구역 내 위치",
+        "전기 BBQ, 피크닉 쉘터, 놀이터 구비",
+        "캥거루가 자주 나타나므로 음식 관리 주의",
+        "무료 이용 (국립공원 입장료 별도)",
+        "장애인 접근성이 제한적"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 60,
+    "cost_aud": 0,
+    "best_time": "오전~오후",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Little+Bay+Picnic+Area,+Arakoon+NSW"
+}

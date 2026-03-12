@@ -1,0 +1,1181 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          153.36399749999998,
+          -29.432469599999997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Yamba Lighthouse, 1 Pilot St, Yamba NSW 2464 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.180923,
+          -27.888245899999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "탬보린 국립공원 Cedar Creek QLD 4207 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.2738856,
+          -33.8492854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "블루 마운틴스 국립공원 New South Wales, 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.92380839999998,
+          -31.4821866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Camel Ride, 161-163 Matthew Flinders Dr, Port Macquarie NSW 2444 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.15157059999999,
+          -30.3053949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "머튼버드 아일랜드 자연보호지역 Muttonbird Island Nature Reserve, 32 Marina Dr, Coffs Harbour NSW 2450 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.6361451,
+          -28.6383938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Cape Byron, Byron Bay NSW 2481 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.499296,
+          -33.3419003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "메모리얼 공원 46 Marine Parade, The Entrance NSW 2261 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.9206423,
+          -31.4419743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "HW49+XQ 매쿠아리 자연보호지역 177 Koala Hospital Track, Port Macquarie NSW 2444 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.1744861,
+          -30.1844176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "무니 비치 자연보호지역 Moonee Beach NSW 2450 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.15,
+          -28.216666699999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "레밍턴 국립공원 Queensland, 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.3884666,
+          -33.5198393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "부디 국립공원 Maitland Bay Track, Bouddi NSW 2251 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.444218,
+          -28.109762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "다비드 플레이 와일드라이프 공원 Loman Ln, Burleigh Heads QLD 4220 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.20120599999998,
+          -33.857208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "바랑가루 보호지역 Hickson Rd, Barangaroo NSW 2000 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.1055247,
+          -30.356423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Boambee Headland Lookout, Sawtell NSW 2452 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.2048859,
+          -33.8594047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "옵저버토리 힐 공원 1001 Upper Fort St, Millers Point NSW 2000 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.64247079999998,
+          -33.0704154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "펠리칸 포쇼어 Lakeview Parade, Pelican NSW 2281 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.3256001,
+          -33.585827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "C87G+M6 Palm Beach Astro, Palm Beach NSW 2108 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.2425625,
+          -30.036312499999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "X67V+F2 가이 포크스 리버 국립공원 The Gulf NSW 2365 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.9068125,
+          -31.428437499999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "HWC4+JP Port Macquarie Coastal Walk, Port Macquarie NSW 2444 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.8630067,
+          -32.807901799999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "콰드 바이크 킹 2130 Nelson Bay Rd, Williamtown NSW 2318 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.07415129999998,
+          -32.782399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Oakfield Ranch Camel Rides, Birubi Beach Lower Public Car park, Anna Bay NSW 2316 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.0370523,
+          -30.8856266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Back Creek Bridge, S W Rocks Rd, South West Rocks NSW 2431 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.6975367,
+          -32.937368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "블랙버트 자연보호지역 Carnley Ave, Kotara NSW 2289 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.2560505,
+          -33.4621613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "브리즈번 워터 국립공원 Hawkesbury Track, Kariong NSW 2250 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.2413418,
+          -33.8435473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "타롱가 주 시드니 Bradleys Head Rd, Mosman NSW 2088 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.342579,
+          -30.403344999999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Ebor Falls, Ebor Walking Track, Ebor NSW 2453 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.32985309999998,
+          -33.5802133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Barrenjoey Lighthouse, 1199D Barrenjoey Rd, Palm Beach NSW 2108 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.5326189,
+          -28.863736199999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "The Big Prawn, 507 River St, West Ballina NSW 2478 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.5763538,
+          -33.2817149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "노라 헤드 등대 40 Bush St, Norah Head NSW 2263 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.5339473,
+          -32.182305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Bennetts Head Lookout, Forster NSW 2428 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.0097602,
+          -30.50413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "우룬가 웨트랜즈 보드웍 1 Hillside Dr, Urunga NSW 2455 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.3431177,
+          -33.729391299999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Greater Blue Mountains drive, Sublime Point Rd, Leura NSW 2780 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.777038,
+          -32.9367076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Newcastle Memorial Walk, 24 Memorial Dr, The Hill NSW 2300 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.1338197,
+          -30.274695599999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "The Big Banana Fun Park, 351 Pacific Hwy, Coffs Harbour NSW 2450 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.363399,
+          -32.796107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Hunter Valley Wildlife Park, 138 Lomas Ln, Nulkaba NSW 2325 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.3120446,
+          -33.7325833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Echo Point Lookout (Three Sisters), Prince Henry Cliff Walk, Katoomba NSW 2780 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.1095289,
+          -30.2664777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Forest Sky Pier",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.483068,
+          -34.646990599999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Fitzroy Falls Lookout, 1301 Nowra Rd, Fitzroy Falls NSW 2577 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.7143427,
+          -30.323302199999997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Dangar Falls, Coramba Rd, Dorrigo NSW 2453 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.3214159,
+          -33.649376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Grand Canyon Walking Track, Blue Mountains National Park, Evans Lookout Rd, Blackheath NSW 2785 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.9300888,
+          -31.4616282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "시 에이커스 레인포레스트 센터 159 Pacific Dr, Port Macquarie NSW 2444 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.2713269,
+          -32.5930913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "C749+H6 Dark Point walking track, Hawks Nest NSW 2324 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.2780355,
+          -33.4184972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Australian Reptile Park, Pacific Highway, Somersby NSW 2250 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.91777729999998,
+          -31.4300917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "포트 매쿠아리 천문대 Rotary Park, 1A Stewart St, Port Macquarie NSW 2444 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.266178,
+          -29.8891454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "4768+8F Wooli Breakwater, Wooli NSW 2462 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.76720269999998,
+          -34.069760699999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "오스트레일리안 보태닉 가든 마운트 아난 362 Narellan Rd, Mount Annan NSW 2567 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.285666,
+          -33.846274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "갭 공원 Gap Road, Watsons Bay NSW 2030 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.8370162,
+          -31.635257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "North Haven Breakwall, Unnamed Road, North Haven NSW 2443 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.1872376,
+          -32.7168327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Tomaree Mountain, Shoal Bay NSW 2315 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.3010359,
+          -33.7286119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "시닉월드 Violet St &, Cliff Dr, Katoomba NSW 2780 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.0237982,
+          -30.4978016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Urunga Boardwalk, Urunga NSW 2455 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.717256,
+          -31.859151999999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "해링턴 비치 주립공원 Crowdy St, Harrington NSW 2430 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.27468679999998,
+          -33.896026299999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Bondi to Bronte Coastal Walk, 1 Notts Ave, Bondi Beach NSW 2026 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.3719979,
+          -33.7260154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Wentworth Falls Lookout, New South Wales, 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.8036981,
+          -31.4689733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "The Big Koala ..The Spirit of All Koalas, Burrawan Forest Dr, Lake Innes NSW 2446 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.0660668,
+          -32.7700674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "이루칸지 샤크 & 레이 인카운터스 2 Jessie Rd, Anna Bay NSW 2316 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.7535723,
+          -31.843442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Crowdy Head Lighthouse, Intersection of Elizabeth Street and, Geoffrey St, Crowdy Head NSW 2427 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.28968749999999,
+          -33.8175625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "57JQ+XV 시드니 하버 국립공원 Manly NSW 2095 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.0700918,
+          -30.884556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "아라쿤 국립공원 Trial Bay Gaol Access Rd, South West Rocks NSW 2431 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.3014253,
+          -33.7291386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Scenic Railway, Violet St &, Cliff Dr, Katoomba NSW 2780 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.7297825,
+          -30.380527599999997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Crystal Shower Falls, Waterfall Way, Dorrigo Mountain NSW 2453 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.2234297,
+          -33.4236801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "워크어바웃 와일드라이프 보호구역 1 Darkinjung Rd, Calga NSW 2250 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.07468749999998,
+          -30.887562499999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "436F+XV 리틀 베이 피크닉 에어리어 South West Rocks NSW 2431 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.314841,
+          -33.7353228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "쓰리 시스터스 Katoomba NSW 2780 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.30431,
+          -33.727691199999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Katoomba Falls, Blue Mountains Tourist Park, Katoomba NSW 2780 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.1149893,
+          -32.7371216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Toboggan Hill Park, 16 Aquatic Cl, Nelson Bay NSW 2315 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.19863279999998,
+          -33.8693567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "오스트레일리아 국립 해양 박물관 2 Murray St, Sydney NSW 2000 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.7816528,
+          -32.9351306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Bogey Hole, Shortland Esplanade, Newcastle NSW 2300 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.1866875,
+          -30.1756875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "R5FP+PM Look At Me Now Headland walk, Emerald Beach NSW 2456 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.6360211,
+          -28.634967699999997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Cape Byron Walking Track, 199 Lighthouse Rd, Byron Bay NSW 2481 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.2921231,
+          -31.611133199999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Ellenborough Falls, Ellenborough Falls Rd, Elands NSW 2429 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.2210312,
+          -33.4773396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Zig Zag Railway, 840 Chifley Rd, Clarence NSW 2790 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.14602549999998,
+          -32.7244378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "포트 스테판스 캉가루 엔컨터스 57 Dowling St, Nelson Bay NSW 2315 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.02258899999998,
+          -33.8188351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "제놀란 케이브즈 4655 Jenolan Caves Rd, Jenolan NSW 2790 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.2098382,
+          -33.847698699999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "루나 파크 시드니 1 Olympic Dr, Milsons Point NSW 2061 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.2009,
+          -33.87488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "달링 하버 Sydney NSW 2000 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.1516404,
+          -32.7144499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Fly Point Dive Site, Victoria Parade, Port Stephens NSW 2315 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.9193525,
+          -31.4427091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "HW49+XQ Koala Conservation Hospital Port Macquarie, Lord St, Port Macquarie NSW 2444 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.42965719999998,
+          -28.0063049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "스카이포인트 전망대 Q1 Building, Level 77/9 Hamilton Ave, Surfers Paradise QLD 4217 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.372104,
+          -33.7401395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Lincoln's Rock, 51 Little Switzerland Dr, Wentworth Falls NSW 2782 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.224358,
+          -33.6272215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Ku-ring-gai Chase National Park, New South Wales, 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          152.9373573,
+          -31.4755149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Tacking Point Lighthouse, Lighthouse Rd, Port Macquarie NSW 2444 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.4591743,
+          -28.0918206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "버레이 헤드 국립공원 Goodwin Terrace, Burleigh Heads QLD 4220 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.2817776,
+          -33.8615097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "디아먼드 베이 보호지역 Craig Ave, Vaucluse NSW 2030 오스트레일리아",
+        "name": "호주여행"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

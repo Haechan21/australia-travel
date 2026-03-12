@@ -1,0 +1,66 @@
+{
+  "id": "b7e6c92f",
+  "name": "Australian National Maritime Museum",
+  "name_ko": "오스트레일리아 국립 해양 박물관",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "오스트레일리아 국립 해양 박물관 2 Murray St, Sydney NSW 2000 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.19863279999998,
+      "lat": -33.8693567
+    },
+    "address": "2 Murray St, Sydney NSW 2000, Australia",
+    "region": "시드니"
+  },
+  "collected_data": {
+    "rating": 4.4,
+    "total_reviews": 8500,
+    "price_level": null,
+    "opening_hours": "매일 10:00~16:00 (학교 방학 중 9:30~17:00), 선박 마지막 탑승 15:10",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "세계 최대 규모의 수상 함대 보유 (잠수함 HMAS Onslow, 구축함 HMAS Vampire 등)",
+          "상설 전시 무료 입장",
+          "가족 단위 방문에 적합 - 아이들 체험 활동"
+        ],
+        "negative": [
+          "일부 전시가 낡은 느낌",
+          "유료 티켓 가격이 다소 비쌈"
+        ],
+        "seasonal_notes": "5월은 비수기라 혼잡하지 않아 여유롭게 관람 가능"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "캡틴 쿡 범선 HMB Endeavour 복제선 관람",
+          "다양한 해양 역사 전시",
+          "달링하버 위치로 접근성 좋음"
+        ],
+        "negative": [
+          "피크타임에 혼잡"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "See It All 티켓($35 성인) 추천 - 모든 선박+전시 포함",
+        "상설 전시만 볼 경우 무료",
+        "달링 하버 다른 관광지와 함께 방문 계획",
+        "가족 티켓 $89 (성인2+아동3)"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 150,
+    "cost_aud": 35,
+    "best_time": "오전 10시 개관 직후",
+    "weather_dependent": false,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps?cid=1517217771534610822"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "a535b048",
+  "name": "The Entrance Memorial Park (Pelican Feeding)",
+  "name_ko": "디 엔트런스 메모리얼 공원 (펠리컨 피딩)",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "메모리얼 공원 46 Marine Parade, The Entrance NSW 2261 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.499296,
+      "lat": -33.3419003
+    },
+    "address": "46 Marine Parade, The Entrance NSW 2261, Australia",
+    "region": "센트럴코스트"
+  },
+  "collected_data": {
+    "rating": 4.3,
+    "total_reviews": 1200,
+    "price_level": null,
+    "opening_hours": "펠리컨 피딩: 매일 15:30 (크리스마스 제외). 공원 자체는 24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "무료로 대형 펠리컨을 가까이서 볼 수 있는 특별한 경험",
+          "아이들과 함께하기 좋은 가족 활동",
+          "공원 주변에 무료 주차 충분"
+        ],
+        "negative": [
+          "성수기에는 매우 혼잡",
+          "관광객들이 새를 함부로 대하는 경우 있음"
+        ],
+        "seasonal_notes": "5월은 비수기로 혼잡도가 낮아 관람하기 좋은 시기"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "오랜 전통의 무료 이벤트",
+          "해설과 함께 진행되어 교육적"
+        ],
+        "negative": [
+          "자연스러움이 부족하다는 의견",
+          "기부금 모금이 다소 압박감"
+        ],
+        "status_notes": "정상 운영 중. 매일 3:30pm 피딩 유지"
+      },
+      "tips": [
+        "피딩 시간(15:30) 15분 전 도착 추천",
+        "주변 카페와 식당도 함께 즐길 수 있음",
+        "기부금은 자율이나 운영 지원을 위해 소액 기부 권장"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 60,
+    "cost_aud": 0,
+    "best_time": "15:00~16:00 (피딩 시간 맞춰 방문)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=46+Marine+Parade,+The+Entrance+NSW+2261,+Australia&query_place_id=ChIJxf_ch5zPcmsRZ_7mv7J96rg"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "e16a2fe5",
+  "name": "Look At Me Now Headland Walk",
+  "name_ko": "룩 앳 미 나우 헤드랜드 워크",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "R5FP+PM Look At Me Now Headland walk, Emerald Beach NSW 2456 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.1866875,
+      "lat": -30.1756875
+    },
+    "address": "Emerald Beach NSW 2456 (Moonee Beach Nature Reserve)",
+    "region": "콥스하버"
+  },
+  "collected_data": {
+    "rating": 4.8,
+    "total_reviews": 500,
+    "price_level": null,
+    "opening_hours": "항상 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "5-11월 고래 관찰 시즌 시작",
+          "캥거루를 연중 관찰 가능",
+          "가을 기온으로 산책에 최적"
+        ],
+        "negative": [
+          "특별한 부정적 리뷰 없음"
+        ],
+        "seasonal_notes": "5월부터 고래 이동 시즌이 시작되어 혹등고래/남방참고래 관찰 가능성. 캥거루는 연중 상주"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "동부 회색 캥거루 무리가 풀밭에서 풀을 뜯는 모습 관찰",
+          "해안 파노라마 전경이 압도적",
+          "쉬운 난이도 (1.8km 루프, 약 25분)",
+          "무료 주차 및 접근 용이"
+        ],
+        "negative": [
+          "특별한 부정적 리뷰 없음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "에메랄드 비치 주차장에서 출발",
+        "이른 아침 방문 시 캥거루 활동이 활발",
+        "물 충분히 챙기기",
+        "셀피 명소로 유명",
+        "AllTrails 4.7점/155 리뷰"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 45,
+    "cost_aud": 0,
+    "best_time": "이른 아침 (캥거루 활동 + 일출)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Look+At+Me+Now+Headland/@-30.17687,153.1828197,15z"
+}

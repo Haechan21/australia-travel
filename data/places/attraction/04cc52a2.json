@@ -1,0 +1,67 @@
+{
+  "id": "04cc52a2",
+  "name": "Sublime Point Lookout",
+  "name_ko": "서블라임 포인트 전망대",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Greater Blue Mountains drive, Sublime Point Rd, Leura NSW 2780 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 150.3431177,
+      "lat": -33.729391299999996
+    },
+    "address": "Sublime Point Rd, Leura NSW 2780, Australia",
+    "region": "블루마운틴"
+  },
+  "collected_data": {
+    "rating": 4.8,
+    "total_reviews": 343,
+    "price_level": null,
+    "opening_hours": "24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "가을 단풍과 함께 파노라마 뷰 감상 가능",
+          "카툼바보다 훨씬 한적함",
+          "쓰리시스터스 뒷면도 볼 수 있음"
+        ],
+        "negative": [
+          "유료 주차(앱으로 결제, 15분당 $3)",
+          "안개 시 전망 불가"
+        ],
+        "seasonal_notes": "5월 일출/일몰 시 황금빛 조명 효과가 뛰어남"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "Leura 지역 1위 관광지",
+          "주차장에서 175m 거리로 접근 용이",
+          "화장실과 피크닉 테이블 구비",
+          "대형 버스 접근 불가하여 조용함"
+        ],
+        "negative": [
+          "유료 주차 도입으로 비용 발생",
+          "주차 공간 제한적"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "일출 또는 일몰 시간에 방문 추천",
+        "주차 앱 미리 설치 권장",
+        "경사가 거의 없어 누구나 쉽게 접근 가능"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 30,
+    "cost_aud": 0,
+    "best_time": "일출 또는 일몰",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Sublime+Point+Lookout,+Sublime+Point+Rd,+Leura+NSW+2780,+Australia"
+}

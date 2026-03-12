@@ -1,0 +1,66 @@
+{
+  "id": "034f4322",
+  "name": "Bondi to Bronte Coastal Walk",
+  "name_ko": "본다이 투 브론테 해안 산책로",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Bondi to Bronte Coastal Walk, 1 Notts Ave, Bondi Beach NSW 2026 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.27468679999998,
+      "lat": -33.896026299999996
+    },
+    "address": "1 Notts Ave, Bondi Beach NSW 2026, Australia",
+    "region": "시드니"
+  },
+  "collected_data": {
+    "rating": 4.8,
+    "total_reviews": 887,
+    "price_level": null,
+    "opening_hours": "24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "본다이~타마라마~브론테 3개 해변 연결하는 절경의 해안 산책로",
+          "2,000년 된 원주민 암각화 관람 가능",
+          "잘 포장된 쉬운 트레일"
+        ],
+        "negative": [
+          "주말 혼잡",
+          "주차 어려움"
+        ],
+        "seasonal_notes": "5월 가을에는 여름보다 덜 붐비고 쾌적한 산책 가능. 자외선 지수도 낮아 편안함"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "브론테 록풀(Bronte Baths)에서 수영 가능",
+          "카페와 레스토랑 인접",
+          "해안절벽과 바다 전망 탁월"
+        ],
+        "negative": [
+          "여름철 극심한 혼잡"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "거리 2.3km, 소요시간 1~1.5시간 (사진 촬영 포함 시 2시간+)",
+        "이른 아침이나 일몰 전 방문 추천",
+        "수분 보충용 물과 선크림 지참",
+        "반려견 동반 가능 (목줄 필수)"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 90,
+    "cost_aud": 0,
+    "best_time": "이른 아침 또는 일몰 전",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps?cid=9236899164659722779"
+}

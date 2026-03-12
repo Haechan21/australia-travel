@@ -1,0 +1,66 @@
+{
+  "id": "795b5f58",
+  "name": "Arakoon National Park (Trial Bay Gaol)",
+  "name_ko": "아라쿤 국립공원 (트라이얼 베이 교도소)",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "아라쿤 국립공원 Trial Bay Gaol Access Rd, South West Rocks NSW 2431 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.0700918,
+      "lat": -30.884556
+    },
+    "address": "Trial Bay Gaol Access Rd, South West Rocks NSW 2431",
+    "region": "사우스웨스트록스/켐시"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 294,
+    "price_level": null,
+    "opening_hours": "매일 9:00am - 4:30pm (크리스마스 제외)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "역사적인 교도소 유적과 해안 절경의 조화",
+          "캥거루 목격 가능",
+          "고래 관찰 시즌 시작"
+        ],
+        "negative": [
+          "별도 입장료 필요"
+        ],
+        "seasonal_notes": "5월은 방문객이 적어 한적하게 즐길 수 있음. 고래 이동 시즌 시작"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "셀프 가이드 투어로 역사 학습",
+          "아름다운 해안 전망",
+          "캠핑장 병행 가능"
+        ],
+        "negative": [
+          "교도소 유적이 생각보다 작을 수 있음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "입장료: 성인 $11, 할인 $8, 가족(2+2) $30",
+        "셀프 가이드 투어 가능",
+        "캠핑장도 있음 ($31/박~)",
+        "낚시, 수영, 고래 관찰 포인트",
+        "역사와 자연을 함께 즐길 수 있는 곳"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 90,
+    "cost_aud": 11,
+    "best_time": "오전",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Trial+Bay+Gaol/data=!4m2!3m1!1s0x0:0x5404fe4a8cd7a8c7"
+}

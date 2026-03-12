@@ -1,0 +1,65 @@
+{
+  "id": "611a9b90",
+  "name": "Bennetts Head Lookout",
+  "name_ko": "베넷츠 헤드 전망대",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Bennetts Head Lookout, Forster NSW 2428 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.5339473,
+      "lat": -32.182305
+    },
+    "address": "Bennetts Head, Forster NSW 2428",
+    "region": "포스터/해링턴"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 59,
+    "price_level": null,
+    "opening_hours": "24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "고래 이동 시즌(5-11월) 최적의 관찰 포인트",
+          "돌고래도 자주 목격됨"
+        ],
+        "negative": [
+          "주차 공간이 제한적일 수 있음"
+        ],
+        "seasonal_notes": "5월은 혹등고래 이동 시즌 시작. 전망대에서 고래 관찰 가능성 높음"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "타스만해의 탁 트인 전망",
+          "휠체어 접근 가능",
+          "해안 절벽 산책로 연결"
+        ],
+        "negative": [
+          "성수기 주차 어려움"
+        ],
+        "status_notes": "정상 이용 가능"
+      },
+      "tips": [
+        "무료 입장, 무료 주차",
+        "One Mile Beach까지 해안 산책로 연결",
+        "휠체어 접근 가능",
+        "5-11월 고래 관찰 최적 장소",
+        "포스터 시내에서 가까움"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 30,
+    "cost_aud": 0,
+    "best_time": "이른 아침 또는 일몰, 5-11월 고래 시즌",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_oE59c2dGsRG9OVEU7GHqs"
+}

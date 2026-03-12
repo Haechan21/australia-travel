@@ -1,0 +1,67 @@
+{
+  "id": "68c6f93e",
+  "name": "Blue Mountains National Park",
+  "name_ko": "블루마운틴스 국립공원",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "블루 마운틴스 국립공원 New South Wales, 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 150.2738856,
+      "lat": -33.8492854
+    },
+    "address": "Blue Mountains National Park, New South Wales, Australia",
+    "region": "블루마운틴"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 15000,
+    "price_level": null,
+    "opening_hours": "24시간 개방 (일부 구역 제한 있음)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "가을 단풍이 절정으로 경관이 매우 아름다움",
+          "인파가 여름 성수기보다 적어 쾌적한 탐방 가능",
+          "트레킹 하기 좋은 선선한 기온"
+        ],
+        "negative": [
+          "새벽/저녁 기온이 낮아 방한복 필수",
+          "안개로 인해 전망대 시야가 제한될 수 있음"
+        ],
+        "seasonal_notes": "5월은 가을 시즌으로 단풍 절정기(4월 중순~6월 초). 기온 10~25도, 아침저녁 쌀쌀함"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "세계유산 지역으로 압도적 자연경관",
+          "다양한 난이도의 트레킹 코스 제공",
+          "시드니에서 당일치기 가능"
+        ],
+        "negative": [
+          "주말 주차장 혼잡",
+          "일부 트레일 우기 후 폐쇄될 수 있음"
+        ],
+        "status_notes": "정상 운영 중. 레인저 가이드 투어 2025-2026 시즌 운영"
+      },
+      "tips": [
+        "주말보다 평일 방문 추천",
+        "걷기 좋은 신발 필수",
+        "날씨 변화가 심하므로 겹쳐입기 권장",
+        "국립공원 웹사이트에서 트레일 상태 확인 후 방문"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 240,
+    "cost_aud": 0,
+    "best_time": "이른 아침 또는 오후 (일출/일몰 시간대)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Blue+Mountains+National+Park/data=!4m2!3m1!1s0x0:0xf017d68f9f2c3a0"
+}

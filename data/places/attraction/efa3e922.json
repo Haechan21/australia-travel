@@ -1,0 +1,66 @@
+{
+  "id": "efa3e922",
+  "name": "Diamond Bay Reserve",
+  "name_ko": "다이아몬드 베이 보호지역",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "디아먼드 베이 보호지역 Craig Ave, Vaucluse NSW 2030 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.2817776,
+      "lat": -33.8615097
+    },
+    "address": "Craig Ave, Vaucluse NSW 2030, Australia",
+    "region": "시드니"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 1000,
+    "price_level": null,
+    "opening_hours": "24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "숨겨진 보석 같은 절벽 전망 명소",
+          "잘 관리된 보드워크와 산책로",
+          "돌고래 관찰 가능성"
+        ],
+        "negative": [
+          "주차 공간 제한적 (노상 주차만 가능)",
+          "절벽 가장자리 안전 주의"
+        ],
+        "seasonal_notes": "5월 가을 시즌에 맑은 날 해안 절벽 전망이 특히 아름다움"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "시드니 헤드가 보이는 파노라마 뷰",
+          "대중교통 접근 용이 (버스 정류장 인근)",
+          "반려견 동반 가능 (산책로 목줄, 별도 오프리시 구역 있음)"
+        ],
+        "negative": [
+          "규모가 작아 오래 머물기 어려움"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "맑은 날 방문 추천 - 해안 전망 극대화",
+        "카메라 필수 지참",
+        "절벽 가장자리 펜스 너머로 가지 말 것 (안전)",
+        "갭 공원(The Gap)과 함께 묶어서 방문 추천"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 30,
+    "cost_aud": 0,
+    "best_time": "맑은 날 오전~오후",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Diamond+Bay+Reserve,+Vaucluse,+NSW"
+}

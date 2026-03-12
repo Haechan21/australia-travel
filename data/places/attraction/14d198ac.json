@@ -1,0 +1,66 @@
+{
+  "id": "14d198ac",
+  "name": "Boambee Headland Lookout",
+  "name_ko": "보암비 헤드랜드 전망대",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Boambee Headland Lookout, Sawtell NSW 2452 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.1055247,
+      "lat": -30.356423
+    },
+    "address": "Boambee Headland, Sawtell NSW 2452",
+    "region": "콥스하버"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 220,
+    "price_level": null,
+    "opening_hours": "항상 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "가을 날씨로 걷기에 최적",
+          "고래 이동 시즌 시작"
+        ],
+        "negative": [
+          "특별한 부정적 리뷰 없음"
+        ],
+        "seasonal_notes": "5월은 고래 이동 시즌 초입으로 해안가 관찰 가능성 있음"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "남쪽 머레이즈 비치와 북쪽 보암비 크릭 양방향 멋진 전망",
+          "잘 정비된 산책로",
+          "넓은 주차장",
+          "TripAdvisor 소텔 1위 명소"
+        ],
+        "negative": [
+          "피크닉 테이블이 적음",
+          "그늘이 부족할 수 있음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "왕복 약 2.9km, 30분-1시간 소요",
+        "고도 상승 약 62m",
+        "피크닉 테이블과 쓰레기통 있음",
+        "소텔(Sawtell) 마을과 함께 방문 추천"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 60,
+    "cost_aud": 0,
+    "best_time": "이른 아침 또는 늦은 오후",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Boambee+Headland+Lookout/@-30.3564183,153.1029498,17z"
+}

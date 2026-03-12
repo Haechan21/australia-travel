@@ -1,0 +1,66 @@
+{
+  "id": "54678851",
+  "name": "Burleigh Head National Park",
+  "name_ko": "버레이 헤드 국립공원",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "버레이 헤드 국립공원 Goodwin Terrace, Burleigh Heads QLD 4220 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.4591743,
+      "lat": -28.0918206
+    },
+    "address": "Goodwin Terrace, Burleigh Heads QLD 4220, Australia",
+    "region": "골드코스트"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 3500,
+    "price_level": null,
+    "opening_hours": "24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "골드코스트 최고의 해안 산책로",
+          "서퍼스 파라다이스~쿨랑가타 양방향 파노라마 뷰",
+          "해안 워크와 열대우림 서킷 두 가지 트랙 선택 가능"
+        ],
+        "negative": [
+          "주말 혼잡",
+          "경사가 가파른 구간 있음"
+        ],
+        "seasonal_notes": "5월은 혹등고래 시즌 시작. 텀건 전망대에서 고래 관찰 가능성 있음. 선선하고 쾌적한 하이킹 날씨."
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "무료 입장으로 가성비 최고",
+          "야생 코알라, 부시 터키, 왕도마뱀 등 야생동물 관찰",
+          "산책로 곳곳에 벤치와 전망대 배치"
+        ],
+        "negative": [
+          "주차 공간 제한적",
+          "일부 구간 계단이 많아 체력 필요"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "오션뷰 워크 + 레인포레스트 서킷 둘 다 걷기 약 1시간",
+        "이른 아침 방문 시 야생 코알라 만날 확률 높음",
+        "버레이 헤드 비치에서 산책 후 카페 방문 추천"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 60,
+    "cost_aud": 0,
+    "best_time": "이른 아침 또는 일몰 시간",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Burleigh+Head+National+Park&query_place_id=ChIJ-WvtxLADkWsRPVRT3wIDlG4"
+}

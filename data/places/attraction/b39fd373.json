@@ -1,0 +1,70 @@
+{
+  "id": "b39fd373",
+  "name": "Scenic World Blue Mountains",
+  "name_ko": "시닉월드",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "시닉월드 Violet St &, Cliff Dr, Katoomba NSW 2780 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 150.3010359,
+      "lat": -33.7286119
+    },
+    "address": "Cnr Violet St & Cliff Dr, Katoomba NSW 2780, Australia",
+    "region": "블루마운틴"
+  },
+  "collected_data": {
+    "rating": 4.4,
+    "total_reviews": 7200,
+    "price_level": null,
+    "opening_hours": "평일 10am-4pm, 주말 9am-5pm (성수기/학교방학 매일 9am-5pm)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "가을 단풍 속 Scenic Walkway 산책 환상적",
+          "비수기라 대기 시간 짧음",
+          "선선한 날씨로 쾌적한 관람"
+        ],
+        "negative": [
+          "입장료가 비쌈 ($61 성인)",
+          "평일 운영시간 짧음 (10am-4pm)",
+          "비/안개 시 Skyway 조망 제한"
+        ],
+        "seasonal_notes": "5월은 비수기로 대기 줄이 짧고 여유로운 관람 가능"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "Railway, Skyway, Cableway, Walkway 4개 어트랙션",
+          "세계에서 가장 가파른 레일웨이 체험",
+          "친절한 직원과 잘 관리된 시설",
+          "Beyond Skyway 신규 체험 추가"
+        ],
+        "negative": [
+          "입장료 부담 (성인 $61-62)",
+          "가족 단위 비용 높음",
+          "피크 시간 긴 대기"
+        ],
+        "status_notes": "정상 운영. 연간 100만 명 이상 방문"
+      },
+      "tips": [
+        "온라인 사전 예매 권장 (성수기 매진 가능)",
+        "평일 오전 방문이 가장 한적",
+        "Scenic Railway는 Cliffhanger 모드(64도) 추천",
+        "Scenic Walkway 열대우림 산책 꼭 할 것"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 180,
+    "cost_aud": 62,
+    "best_time": "오전 개장 직후",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Scenic+World&query_place_id=ChIJTUlBSwJsEmsRVHuAQ15DjzM"
+}

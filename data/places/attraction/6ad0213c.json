@@ -1,0 +1,66 @@
+{
+  "id": "6ad0213c",
+  "name": "Dark Point Walking Track",
+  "name_ko": "다크 포인트 워킹 트랙",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "C749+H6 Dark Point walking track, Hawks Nest NSW 2324 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.2713269,
+      "lat": -32.5930913
+    },
+    "address": "Mungo Brush Rd, Hawks Nest NSW 2324, Australia",
+    "region": "뉴캐슬/포트스테판스"
+  },
+  "collected_data": {
+    "rating": 4.4,
+    "total_reviews": 26,
+    "price_level": null,
+    "opening_hours": "24시간 개방 (국립공원)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "워리미(Worimi) 원주민 문화 유적지로서의 역사적 의미",
+          "브로턴 섬 조망이 뛰어남",
+          "모래 언덕과 해안 경관이 아름다움"
+        ],
+        "negative": [
+          "야간 귀환 시 길 찾기가 어려움",
+          "표지판이 부족할 수 있음"
+        ],
+        "seasonal_notes": "5월은 방문하기 좋은 시기, 8월~2월이 최적이지만 가을에도 쾌적"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "쉬운 난이도로 가족 모두 걸을 수 있음",
+          "마이올 레이크스 국립공원 내 위치",
+          "관광객이 적어 한적한 분위기"
+        ],
+        "negative": [
+          "주변에 편의시설이 없음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "Mungo Brush Rd 주차장에서 출발",
+        "왕복 약 2.4km, 30-60분 소요",
+        "반려견 출입 불가 (국립공원)",
+        "충분한 물과 자외선 차단제 지참"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 60,
+    "cost_aud": 0,
+    "best_time": "오전~오후 (일출/일몰도 추천)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Dark+Point+Walking+Track,+Hawks+Nest+NSW"
+}

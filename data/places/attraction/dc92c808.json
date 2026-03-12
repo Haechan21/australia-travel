@@ -1,0 +1,64 @@
+{
+  "id": "dc92c808",
+  "name": "North Haven Breakwall",
+  "name_ko": "노스 헤이븐 방파제",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "North Haven Breakwall, Unnamed Road, North Haven NSW 2443 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.8370162,
+      "lat": -31.635257
+    },
+    "address": "Unnamed Road, North Haven NSW 2443",
+    "region": "포트맥쿼리"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 72,
+    "price_level": null,
+    "opening_hours": "24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "새로 포장된 산책로로 걷기 편함",
+          "펠리컨, 돌고래 등 야생동물 관찰 가능"
+        ],
+        "negative": [
+          "특별히 부정적 리뷰 없음"
+        ],
+        "seasonal_notes": "5월 가을에도 산책하기 좋은 날씨. 고래 이동 시즌 시작"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "휠체어 접근 가능",
+          "BBQ, 피크닉 테이블, 화장실 구비",
+          "붐비지 않는 한적한 장소"
+        ],
+        "negative": [
+          "특별한 편의시설 외 별다른 액티비티 없음"
+        ],
+        "status_notes": "정상 이용 가능"
+      },
+      "tips": [
+        "산책, 자전거, 낚시 모두 가능",
+        "돌고래와 펠리컨 관찰 포인트",
+        "휠체어 접근 가능한 평탄한 산책로",
+        "무료 주차 및 BBQ 시설"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 45,
+    "cost_aud": 0,
+    "best_time": "이른 아침 또는 일몰",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/North+Haven+Breakwall,+North+Haven+NSW+2443,+Australia"
+}

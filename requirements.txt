@@ -1,0 +1,1 @@
+# 외부 의존성 없음 — 좌표 계산은 scripts/utils/geo.py에서 자체 구현

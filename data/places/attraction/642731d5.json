@@ -1,0 +1,64 @@
+{
+  "id": "642731d5",
+  "name": "Koala Conservation Hospital Port Macquarie",
+  "name_ko": "코알라 보존 병원 포트맥쿼리",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "HW49+XQ Koala Conservation Hospital Port Macquarie, Lord St, Port Macquarie NSW 2444 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.9193525,
+      "lat": -31.4427091
+    },
+    "address": "Lord St & Roto Pl, Port Macquarie NSW 2444",
+    "region": "포트맥쿼리"
+  },
+  "collected_data": {
+    "rating": 4.6,
+    "total_reviews": 3500,
+    "price_level": null,
+    "opening_hours": "현재 재개발 중 - 2026년 재오픈 예정. 임시로 Guulabaa에서 운영",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "호주 최초의 코알라 전문 병원",
+          "자원봉사자들이 매우 헌신적이고 지식이 풍부함"
+        ],
+        "negative": [
+          "2025년 5월 3일부터 원래 위치 폐쇄, Guulabaa로 이전"
+        ],
+        "seasonal_notes": "5월 방문 시 원래 Lord St 위치가 아닌 Guulabaa 방문 필요"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "코알라 보존을 위한 진정성 있는 활동",
+          "연간 200-250마리 코알라 치료"
+        ],
+        "negative": [
+          "입장료 도입 ($12.50)",
+          "원래 위치 재개발 중으로 방문 불가"
+        ],
+        "status_notes": "Lord St 원래 위치는 재개발 중. Wild Koala Breeding Visitor Centre (Guulabaa)에서 임시 운영. 2026년 재오픈 예정"
+      },
+      "tips": [
+        "현재 원래 Lord St 위치는 폐쇄됨 - Guulabaa - Place of Koala 방문 필요",
+        "입장료 성인 $12.50",
+        "오후 3시 무료 가이드 투어 (운영 시)",
+        "669a240e (매쿼리 자연보호구역)와 같은 기관이나 현재 Guulabaa에서 운영"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 60,
+    "cost_aud": 12.5,
+    "best_time": "오전 또는 오후 3시 (가이드 투어)",
+    "weather_dependent": false,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Koala+Hospital,+Port+Macquarie,+NSW&query_place_id=ChIJef64JjP_nWsRsP8Bj5NZD2E"
+}

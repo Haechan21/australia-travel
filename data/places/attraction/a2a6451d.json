@@ -1,0 +1,64 @@
+{
+  "id": "a2a6451d",
+  "name": "Observatory Hill Park",
+  "name_ko": "옵저버토리 힐 공원",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "옵저버토리 힐 공원 1001 Upper Fort St, Millers Point NSW 2000 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.2048859,
+      "lat": -33.8594047
+    },
+    "address": "1001 Upper Fort St, Millers Point NSW 2000, Australia",
+    "region": "시드니"
+  },
+  "collected_data": {
+    "rating": 4.6,
+    "total_reviews": 3800,
+    "price_level": null,
+    "opening_hours": "24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "시드니 하버, 하버브리지, 루나파크의 파노라마 전망",
+          "일몰 시 특히 아름다운 경치",
+          "깨끗하고 잘 관리된 공원"
+        ],
+        "negative": [
+          "언덕 위에 위치해 접근 시 경사가 있음"
+        ],
+        "seasonal_notes": "5월 가을 시즌에 일몰이 빨라 오후 5시경 방문하면 아름다운 일몰 감상 가능"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "피크닉 장소로 인기",
+          "시드니 천문대와 함께 방문 가능",
+          "와이야드역에서 도보 가능"
+        ],
+        "negative": [
+          "공간이 넓지 않아 주말에 붐빌 수 있음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "일몰 시간대 방문 강력 추천",
+        "더 록스(The Rocks) 지역 탐방과 함께 방문",
+        "시드니 천문대 투어(수~토) 1시간 소요"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 45,
+    "cost_aud": 0,
+    "best_time": "일몰 시간대 (오후 늦은 시간)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps?cid=1081283275369082720"
+}

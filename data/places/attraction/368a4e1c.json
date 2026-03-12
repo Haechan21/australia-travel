@@ -1,0 +1,66 @@
+{
+  "id": "368a4e1c",
+  "name": "David Fleay Wildlife Park",
+  "name_ko": "데이비드 플레이 야생동물 공원",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "다비드 플레이 와일드라이프 공원 Loman Ln, Burleigh Heads QLD 4220 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.444218,
+      "lat": -28.109762
+    },
+    "address": "Loman Lane, West Burleigh QLD 4219, Australia",
+    "region": "골드코스트"
+  },
+  "collected_data": {
+    "rating": 4.3,
+    "total_reviews": 1200,
+    "price_level": "$$",
+    "opening_hours": "매일 9:00 AM ~ 5:00 PM (일부 공휴일 휴무)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "골드코스트 유일의 오리너구리 관람 가능",
+          "전문 가이드의 친절하고 해박한 설명",
+          "희귀 동물(화식조, 나무캥거루 등) 관람 가능"
+        ],
+        "negative": [
+          "커럼빈 야생동물 보호구역에 비해 규모가 작음",
+          "일부 시설이 노후화됨"
+        ],
+        "seasonal_notes": "5월은 쾌적한 날씨로 야외 관람에 최적. 동물들도 활발하게 활동하는 시기."
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "가성비 좋은 입장료",
+          "조류(독수리, 올빼미, 화식조 등) 컬렉션 우수",
+          "아이들과 함께하기 좋은 교육적 체험"
+        ],
+        "negative": [
+          "카페/식음 시설 제한적",
+          "주차 공간 협소"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "오리너구리 먹이주기 시간 확인 후 방문",
+        "가이드 투어 참여 시 더 풍부한 경험 가능",
+        "반나절 정도 계획하면 충분"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 120,
+    "cost_aud": 21.5,
+    "best_time": "오전 (가이드 투어 시간 맞춰서)",
+    "weather_dependent": false,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps?cid=1081606475369023280"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "a5b06982",
+  "name": "Harrington Beach State Park",
+  "name_ko": "해링턴 비치 주립공원",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "해링턴 비치 주립공원 Crowdy St, Harrington NSW 2430 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.717256,
+      "lat": -31.859151999999998
+    },
+    "address": "Crowdy St, Harrington NSW 2430",
+    "region": "포스터/해링턴"
+  },
+  "collected_data": {
+    "rating": 4.5,
+    "total_reviews": 100,
+    "price_level": null,
+    "opening_hours": "일출~일몰",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "431헥타르 넓은 자연 공간",
+          "해안과 매닝강 어귀의 아름다운 풍경"
+        ],
+        "negative": [
+          "입장료 필요"
+        ],
+        "seasonal_notes": "5월은 고래 관찰 시즌 시작. 가을 색이 아름다운 열대우림 산책 가능"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "해안 전망대에서 멋진 경치",
+          "반려견 동반 가능 구역 있음",
+          "깨끗한 편의시설"
+        ],
+        "negative": [
+          "차량 진입 시 비포장 도로 구간 있음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "해링턴에서 크라우디 헤드까지 이어지는 431헥타르 공원",
+        "열대우림 산책로 이용 가능 (Crowdy St 진입)",
+        "고래 관찰 포인트 있음",
+        "4WD 비치 접근은 별도 허가 필요"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 90,
+    "cost_aud": 0,
+    "best_time": "오전",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Harrington+Beach+State+Park,+Harrington,+NSW"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "58a28bc3",
+  "name": "Norah Head Lighthouse",
+  "name_ko": "노라 헤드 등대",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "노라 헤드 등대 40 Bush St, Norah Head NSW 2263 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.5763538,
+      "lat": -33.2817149
+    },
+    "address": "40 Bush Street, Norah Head NSW 2263, Australia",
+    "region": "센트럴코스트"
+  },
+  "collected_data": {
+    "rating": 4.6,
+    "total_reviews": 450,
+    "price_level": null,
+    "opening_hours": "가이드 투어: 매일 10:00~13:30. 외부 산책로: 연중 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "$6의 저렴한 투어 비용 대비 높은 만족도",
+          "열정적인 자원봉사자 가이드의 해설",
+          "헤드랜드에서의 탁 트인 바다 전망"
+        ],
+        "negative": [
+          "96개 계단을 올라야 해 체력 필요",
+          "주차 공간 제한적"
+        ],
+        "seasonal_notes": "5월은 고래 이동 시즌 시작으로 등대에서 고래 관찰 가능성 있음"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "잘 관리된 등대와 부지",
+          "록풀과 라이트하우스 비치까지 산책로 연결"
+        ],
+        "negative": [
+          "특별한 부정적 의견 없음"
+        ],
+        "status_notes": "정상 운영. 자원봉사자 가이드 투어 유지"
+      },
+      "tips": [
+        "4단계 96계단으로 나뉘어 천천히 올라갈 수 있음",
+        "등대 옆 숙소(Lighthouse Quarters)에서 숙박도 가능",
+        "아래쪽 록풀과 라이트하우스 비치도 함께 둘러볼 것"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 60,
+    "cost_aud": 6,
+    "best_time": "10:00~13:30 (가이드 투어 운영 시간)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x6b72db07ff415687:0xab7c34ca891f9c68"
+}

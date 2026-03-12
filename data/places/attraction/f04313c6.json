@@ -1,0 +1,66 @@
+{
+  "id": "f04313c6",
+  "name": "Darling Harbour",
+  "name_ko": "달링 하버",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "달링 하버 Sydney NSW 2000 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.2009,
+      "lat": -33.87488
+    },
+    "address": "Darling Harbour, Sydney NSW 2000, Australia",
+    "region": "시드니"
+  },
+  "collected_data": {
+    "rating": 4.5,
+    "total_reviews": 35000,
+    "price_level": null,
+    "opening_hours": "24시간 개방 (개별 시설별 영업시간 상이)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "쇼핑, 식당, 관광이 모두 가능한 종합 관광지",
+          "시드니 상위 3대 관광 명소",
+          "가족, 커플, 개인 여행자 모두에게 적합"
+        ],
+        "negative": [
+          "관광지 물가가 비싼 편",
+          "주말 혼잡"
+        ],
+        "seasonal_notes": "5월 가을 시즌에는 야외 카페에서 편안하게 식사 가능. 관광 비수기로 덜 붐빔"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "SEA LIFE 수족관, WILD LIFE 동물원, 마담 투소 등 도보 거리 내 명소",
+          "워터프론트 레스토랑과 바",
+          "어린이 놀이터 완비"
+        ],
+        "negative": [
+          "일부 식당 가격 높음"
+        ],
+        "status_notes": "정상 운영 중. 연간 200만명 이상 해외 관광객 방문"
+      },
+      "tips": [
+        "2~3시간 산책+식사, 명소 방문 시 반나절 소요",
+        "해양박물관, 중국 우의의 정원 등 인근 명소와 연계",
+        "저녁에 방문하면 야경이 아름다움",
+        "Cockle Bay, King Street Wharf 구역 레스토랑 추천"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 180,
+    "cost_aud": 0,
+    "best_time": "오후~저녁 (야경 포함)",
+    "weather_dependent": false,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps?cid=8327007198099986160"
+}

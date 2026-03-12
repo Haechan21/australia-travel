@@ -1,0 +1,70 @@
+{
+  "id": "ef2de137",
+  "name": "Echo Point Lookout (Three Sisters)",
+  "name_ko": "에코 포인트 전망대 (쓰리 시스터스)",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Echo Point Lookout (Three Sisters), Prince Henry Cliff Walk, Katoomba NSW 2780 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 150.3120446,
+      "lat": -33.7325833
+    },
+    "address": "Echo Point Rd, Katoomba NSW 2780, Australia",
+    "region": "블루마운틴"
+  },
+  "collected_data": {
+    "rating": 4.6,
+    "total_reviews": 8000,
+    "price_level": null,
+    "opening_hours": "전망대 24시간 / 관광안내소 매일 9am-4pm (크리스마스 휴무)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "가을 단풍 배경의 쓰리시스터스 조망 최적",
+          "여름보다 방문객 적어 사진 촬영 여유",
+          "Prince Henry Cliff Walk 연계 산책 가능"
+        ],
+        "negative": [
+          "안개 빈도 증가로 조망 불가 가능",
+          "주차비 시간당 $4로 비쌈",
+          "바람 강할 수 있음"
+        ],
+        "seasonal_notes": "5월 오후 늦게 방문하면 석양에 물든 쓰리시스터스 감상 가능"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "블루마운틴 최고 전망 포인트",
+          "쓰리시스터스와 제이미슨 밸리 파노라마",
+          "화장실/카페/관광안내소 완비",
+          "잘 정비된 전망 플랫폼 다수"
+        ],
+        "negative": [
+          "피크 시간 극도의 혼잡 (관광버스)",
+          "주차 공간 부족 및 비싼 미터 주차",
+          "무료 주차 없음"
+        ],
+        "status_notes": "정상 운영. 686G 버스로 카툼바역에서 접근 가능"
+      },
+      "tips": [
+        "이른 아침 또는 오후 5시 이후 방문 강력 추천",
+        "카툼바역에서 686G 버스 이용 가능 (20분 소요)",
+        "Three Sisters Walk는 20-25분 소요",
+        "Honeymoon Bridge로 내려가려면 이른 시간에 가야 대기 줄 짧음"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 45,
+    "cost_aud": 0,
+    "best_time": "이른 아침 또는 오후 5시 이후",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Echo+Point+Lookout+(Three+Sisters)/@-33.7327357,150.3093598,17z"
+}

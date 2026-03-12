@@ -1,0 +1,67 @@
+{
+  "id": "40947a39",
+  "name": "Moonee Beach Nature Reserve",
+  "name_ko": "무니 비치 자연보호지역",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "무니 비치 자연보호지역 Moonee Beach NSW 2450 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.1744861,
+      "lat": -30.1844176
+    },
+    "address": "Moonee Beach NSW 2450",
+    "region": "콥스하버"
+  },
+  "collected_data": {
+    "rating": 4.8,
+    "total_reviews": 280,
+    "price_level": null,
+    "opening_hours": "항상 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "가을 날씨로 쾌적한 산책 가능",
+          "관광객이 적어 한적함",
+          "캥거루 관찰 가능"
+        ],
+        "negative": [
+          "수온이 내려가 수영하기 다소 차가움"
+        ],
+        "seasonal_notes": "5월은 가을로 기온이 쾌적하고 관광객이 적어 여유로운 방문 가능"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "아름다운 경치와 해양 전망",
+          "캥거루 등 야생동물 관찰",
+          "가족 친화적",
+          "반려견 동반 가능(목줄 착용)",
+          "무료 입장 및 무료 주차"
+        ],
+        "negative": [
+          "특별한 부정적 리뷰 없음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "화장실, 피크닉 테이블 등 편의시설 있음",
+        "콥스하버에서 남쪽으로 약 10분 거리",
+        "스노클링, 낚시, 고래 관찰도 가능",
+        "나무 그늘이 많아 쉬기 좋음"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 90,
+    "cost_aud": 0,
+    "best_time": "이른 아침 (캥거루 관찰) 또는 오후",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moonee+Beach+Nature+Reserve,+NSW&query_place_id=ChIJcRSIc70KnGsRkFqzxM29rb4"
+}

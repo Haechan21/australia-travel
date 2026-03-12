@@ -1,0 +1,68 @@
+{
+  "id": "89376ce6",
+  "name": "The Three Sisters",
+  "name_ko": "쓰리 시스터스",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "쓰리 시스터스 Katoomba NSW 2780 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 150.314841,
+      "lat": -33.7353228
+    },
+    "address": "Echo Point Rd, Katoomba NSW 2780, Australia",
+    "region": "블루마운틴"
+  },
+  "collected_data": {
+    "rating": 4.6,
+    "total_reviews": 5000,
+    "price_level": null,
+    "opening_hours": "24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "가을 빛에 물든 암석 색감이 특히 아름다움",
+          "여름 성수기보다 관광객 적음",
+          "단풍과 함께 사진 촬영 최적"
+        ],
+        "negative": [
+          "안개가 자주 끼어 암석이 안 보일 수 있음",
+          "바람이 세게 불어 체감온도 낮음"
+        ],
+        "seasonal_notes": "5월 석양 시 암석이 황금빛/주황빛으로 물들어 장관. 이른 아침 방문 시 안개 위험"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "블루마운틴 대표 랜드마크",
+          "연간 60만 명 이상 방문",
+          "원주민 전설이 깃든 문화적 가치",
+          "무료 관람"
+        ],
+        "negative": [
+          "관광버스 단체 관광객으로 매우 혼잡",
+          "주차 어려움과 비싼 주차비"
+        ],
+        "status_notes": "정상 운영. Echo Point에서 조망"
+      },
+      "tips": [
+        "Echo Point Lookout에서 가장 잘 보임",
+        "오후 5시 이후 방문하면 인파 줄어듦",
+        "Three Sisters Walk로 직접 다가갈 수 있음 (20-25분)",
+        "Honeymoon Bridge까지 계단 내려가기 가능"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 45,
+    "cost_aud": 0,
+    "best_time": "이른 아침 또는 오후 5시 이후 (인파 회피)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The+Three+Sisters,+Blue+Mountains+National+Park,+NSW&query_place_id=ChIJ16pHja1uEmsRE5JEQtzDxfw"
+}

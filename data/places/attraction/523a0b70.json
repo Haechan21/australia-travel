@@ -1,0 +1,66 @@
+{
+  "id": "523a0b70",
+  "name": "Fly Point Aquatic Reserve",
+  "name_ko": "플라이 포인트 다이브 사이트",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Fly Point Dive Site, Victoria Parade, Port Stephens NSW 2315 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.1516404,
+      "lat": -32.7144499
+    },
+    "address": "Victoria Parade, Nelson Bay NSW 2315, Australia",
+    "region": "뉴캐슬/포트스테판스"
+  },
+  "collected_data": {
+    "rating": 4.6,
+    "total_reviews": 600,
+    "price_level": null,
+    "opening_hours": "24시간 개방 (자연 해양보호구역)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "호주 최고의 해안 다이빙/스노클링 포인트 중 하나",
+          "1983년부터 보호구역으로 해양 생태계가 풍부",
+          "블루 그루퍼, 문어, 워비공 상어, 해마 등 관찰 가능"
+        ],
+        "negative": [
+          "바위가 많아 입수 시 주의 필요",
+          "수영 해변으로는 부적합 (스노클링 전용)"
+        ],
+        "seasonal_notes": "5월은 수온이 내려가 웻수트 필수, 밀물 때 방문이 최적"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "무료 스노클링 가능",
+          "초보자도 접근 가능한 안전한 만",
+          "스펀지 정원과 켈프 숲이 아름다움"
+        ],
+        "negative": [
+          "장비 대여소가 현장에 없음 (별도 준비 필요)"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "밀물(high tide) 때 방문 필수 - 입수가 쉽고 수심이 적당",
+        "오리발 또는 아쿠아슈즈 필수 (바위 바닥)",
+        "스노클링 장비는 넬슨베이 다이브샵에서 대여 가능",
+        "Little Beach 옆에 위치하여 연계 방문 추천"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 90,
+    "cost_aud": 0,
+    "best_time": "밀물 시간대 (조석표 확인)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fly+Point+Aquatic+Reserve,+Nelson+Bay,+NSW&query_place_id=ChIJIXTQ3wI-c2sRsBHx-Wh9AQ8"
+}

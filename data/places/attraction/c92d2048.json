@@ -1,0 +1,66 @@
+{
+  "id": "c92d2048",
+  "name": "Scenic Railway",
+  "name_ko": "시닉 레일웨이",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Scenic Railway, Violet St &, Cliff Dr, Katoomba NSW 2780 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 150.3014253,
+      "lat": -33.7291386
+    },
+    "address": "Cnr Violet St & Cliff Dr, Katoomba NSW 2780, Australia",
+    "region": "블루마운틴"
+  },
+  "collected_data": {
+    "rating": 4.5,
+    "total_reviews": 3500,
+    "price_level": null,
+    "opening_hours": "시닉월드 운영시간과 동일 (평일 10am-4pm, 주말 9am-5pm)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "비수기라 대기 없이 바로 탑승 가능",
+          "가을 숲 사이로 내려가는 스릴 최고"
+        ],
+        "negative": [
+          "시닉월드 입장권 필요 ($61-62)",
+          "짧은 탑승 시간 대비 비싼 느낌"
+        ],
+        "seasonal_notes": "5월 가을 숲 속으로 내려가는 체험이 특히 아름다움"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "세계에서 가장 가파른 케이블 구동 레일웨이 (최대 64도)",
+          "Cliffhanger/Original/Laidback 3가지 모드 선택",
+          "1880년대 탄광 역사와 연계",
+          "숨막히는 경관과 아드레날린"
+        ],
+        "negative": [
+          "시닉월드 통합 입장권만 가능 (단독 구매 불가)",
+          "탑승 시간 자체는 짧음"
+        ],
+        "status_notes": "정상 운영. 시닉월드 4개 어트랙션 중 하나"
+      },
+      "tips": [
+        "Cliffhanger 모드(64도)로 최대 스릴 체험 추천",
+        "하단 Scenic Walkway 열대우림 산책과 연계",
+        "시닉월드 통합 입장권에 포함 (무제한 탑승)"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 15,
+    "cost_aud": 62,
+    "best_time": "오전 개장 직후 (대기 최소)",
+    "weather_dependent": false,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps?cid=3715262289742429012"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "30c337cf",
+  "name": "Crystal Shower Falls",
+  "name_ko": "크리스탈 샤워 폭포",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Crystal Shower Falls, Waterfall Way, Dorrigo Mountain NSW 2453 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.7297825,
+      "lat": -30.380527599999997
+    },
+    "address": "Dorrigo National Park, Waterfall Way, Dorrigo NSW 2453",
+    "region": "콥스하버"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 660,
+    "price_level": null,
+    "opening_hours": "항상 개방 (Dorrigo Rainforest Centre: 매일 운영)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "가을 시기라 거머리가 여름보다 적음",
+          "쾌적한 기온으로 트레킹에 좋음",
+          "폭포 수량이 풍부할 수 있음"
+        ],
+        "negative": [
+          "비 온 뒤 트레일이 미끄러울 수 있음"
+        ],
+        "seasonal_notes": "5월은 겨울 직전으로 거머리가 적고 폭포 수량이 좋을 수 있는 시기. 여름보다 쾌적"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "폭포 뒤로 걸어갈 수 있는 독특한 경험",
+          "현수교에서 폭포 정면 감상",
+          "울창한 열대우림 트레킹",
+          "AllTrails 4.7점/658 리뷰"
+        ],
+        "negative": [
+          "복귀 시 가파른 오르막",
+          "거머리 주의 (특히 비 온 후)",
+          "더운 날에는 힘들 수 있음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "The Glade Picnic Area에서 출발, 왕복 약 2.8km, 1-1.5시간 소요",
+        "전체 Wonga Walk 순환 코스는 6.6km, 2.5시간",
+        "입장료 무료 (Rainforest Centre 골드코인 기부 권장)",
+        "거머리 방지 스프레이/양말 긴 것 추천",
+        "Dangar Falls와 함께 당일 코스로 추천"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 90,
+    "cost_aud": 0,
+    "best_time": "오전 (빛이 좋고 사람이 적음)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Crystal+Shower+Falls,+Dorrigo+National+Park,+NSW"
+}

@@ -1,0 +1,40 @@
+{
+  "attraction": {
+    "criteria": {
+      "google_rating": { "weight": 15, "type": "quantitative", "description": "구글 평점 (4.5+ → 만점)" },
+      "review_count": { "weight": 10, "type": "quantitative", "description": "리뷰 수 / 인기도 (로그 스케일 정규화)" },
+      "scenery": { "weight": 20, "type": "ai_judgment", "description": "경치 / 포토스팟 (리뷰 내 경치, 뷰, 사진 관련 언급 빈도)" },
+      "accessibility": { "weight": 15, "type": "ai_judgment", "description": "접근성 (주차, 도보 난이도 등)" },
+      "value_for_money": { "weight": 10, "type": "ai_judgment", "description": "비용 대비 만족도 (무료=가산, 유료=리뷰 만족도 대비)" },
+      "time_efficiency": { "weight": 10, "type": "ai_judgment", "description": "체류 시간 효율 (예상 체류시간 대비 만족도)" },
+      "uniqueness": { "weight": 20, "type": "ai_judgment", "description": "유니크함 (호주 고유 경험, 희소성)" }
+    }
+  },
+  "restaurant": {
+    "criteria": {
+      "google_rating": { "weight": 20, "type": "quantitative", "description": "구글 평점" },
+      "review_count": { "weight": 10, "type": "quantitative", "description": "리뷰 수" },
+      "food_quality": { "weight": 25, "type": "ai_judgment", "description": "음식 퀄리티 (맛, 신선도, 플레이팅)" },
+      "value_for_money": { "weight": 20, "type": "ai_judgment", "description": "가성비 (가격대 vs 리뷰 만족도)" },
+      "ambiance": { "weight": 15, "type": "ai_judgment", "description": "분위기 / 뷰" },
+      "location_convenience": { "weight": 10, "type": "ai_judgment", "description": "위치 편의성 (관광지/숙소와의 거리)" }
+    }
+  },
+  "accommodation": {
+    "criteria": {
+      "google_rating": { "weight": 15, "type": "quantitative", "description": "구글 평점" },
+      "review_count": { "weight": 10, "type": "quantitative", "description": "리뷰 수" },
+      "cleanliness": { "weight": 25, "type": "ai_judgment", "description": "청결도 / 시설" },
+      "value_for_money": { "weight": 20, "type": "ai_judgment", "description": "가성비 (1박 가격 vs 리뷰 만족도)" },
+      "location": { "weight": 20, "type": "ai_judgment", "description": "위치 (주변 관광지/음식점 접근성)" },
+      "host_response": { "weight": 10, "type": "ai_judgment", "description": "호스트 응대" }
+    }
+  },
+  "grades": {
+    "S": { "min": 90, "max": 100, "description": "반드시 가야 할 곳" },
+    "A": { "min": 75, "max": 89, "description": "강력 추천" },
+    "B": { "min": 60, "max": 74, "description": "선택적" },
+    "C": { "min": 45, "max": 59, "description": "스킵 권장" },
+    "D": { "min": 0, "max": 44, "description": "비추천" }
+  }
+}

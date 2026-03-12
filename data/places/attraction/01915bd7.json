@@ -1,0 +1,65 @@
+{
+  "id": "01915bd7",
+  "name": "Port Macquarie Astronomical Observatory",
+  "name_ko": "포트맥쿼리 천문대",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "포트 매쿠아리 천문대 Rotary Park, 1A Stewart St, Port Macquarie NSW 2444 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.91777729999998,
+      "lat": -31.4300917
+    },
+    "address": "Rotary Park, 1A Stewart St, Port Macquarie NSW 2444",
+    "region": "포트맥쿼리"
+  },
+  "collected_data": {
+    "rating": 3.9,
+    "total_reviews": 72,
+    "price_level": null,
+    "opening_hours": "수요일 7:30pm-10:00pm, 금요일 저녁, 일요일 7:30pm-10:00pm (날씨에 따라 변동)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "토성, 목성, 달 등을 망원경으로 직접 관찰 가능",
+          "자원봉사자들의 열정적인 설명"
+        ],
+        "negative": [
+          "프레젠테이션 주제가 기대와 다를 수 있음",
+          "망원경을 통한 관측이 기대보다 약할 수 있음"
+        ],
+        "seasonal_notes": "5월은 해가 일찍 져서 별 관측에 유리. 가을 밤하늘이 맑은 편"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "2024년 11월 새 천문과학센터 오픈",
+          "가족 단위 방문에 적합 (8세 이상)"
+        ],
+        "negative": [
+          "일부 가이드의 불친절한 태도 보고",
+          "흐린 날 관측 불가"
+        ],
+        "status_notes": "새 Astronomy Science Centre 오픈으로 시설 개선"
+      },
+      "tips": [
+        "날씨에 따라 운영 여부가 달라지므로 사전 확인 필수",
+        "입장료 약 $35 내외",
+        "8세 이상 권장",
+        "수/금/일 저녁에만 운영"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 90,
+    "cost_aud": 35,
+    "best_time": "저녁 7:30pm (수/금/일)",
+    "weather_dependent": true,
+    "reservation_required": true
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Port+Macquarie+Astronomical+Observatory,+1A+Stewart+St,+Port+Macquarie+NSW+2444,+Australia"
+}

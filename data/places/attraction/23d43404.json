@@ -1,0 +1,65 @@
+{
+  "id": "23d43404",
+  "name": "The Big Prawn",
+  "name_ko": "빅 프론 (거대 새우 조형물)",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "The Big Prawn, 507 River St, West Ballina NSW 2478 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.5326189,
+      "lat": -28.863736199999998
+    },
+    "address": "507 River St, West Ballina NSW 2478, Australia",
+    "region": "바이런베이"
+  },
+  "collected_data": {
+    "rating": 3.8,
+    "total_reviews": 1500,
+    "price_level": null,
+    "opening_hours": "24시간 (야외 조형물)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "호주 대표 'Big Things' 중 하나로 독특한 포토존",
+          "도로 여행 중 잠시 쉬어가기 좋은 명소",
+          "2013년 리모델링으로 꼬리 추가, 깔끔해짐"
+        ],
+        "negative": [
+          "5분 이내 볼거리 - 별도 관광지로는 부족",
+          "번닝스 앞 도로 진입이 다소 복잡"
+        ],
+        "seasonal_notes": "계절 무관 방문 가능. 5월에도 문제없이 방문 가능."
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "무료로 즐길 수 있는 유니크한 명소",
+          "아이들이 좋아하는 랜드마크"
+        ],
+        "negative": [
+          "주차는 번닝스 주차장 이용 필요",
+          "조형물 외 별도 볼거리 없음"
+        ],
+        "status_notes": "정상 운영 중 (야외 조형물)"
+      },
+      "tips": [
+        "바이런베이/발리나 이동 중 잠깐 들르는 용도로 적합",
+        "번닝스 주차장에 주차 후 도보 이동",
+        "사진 촬영 5분 내외로 충분"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 10,
+    "cost_aud": 0,
+    "best_time": "이동 중 아무 때나",
+    "weather_dependent": false,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Big+Prawn,+River+St,+West+Ballina+NSW"
+}

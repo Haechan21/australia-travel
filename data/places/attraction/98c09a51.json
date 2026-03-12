@@ -1,0 +1,66 @@
+{
+  "id": "98c09a51",
+  "name": "Walkabout Wildlife Sanctuary",
+  "name_ko": "워크어바웃 와일드라이프 보호구역",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "워크어바웃 와일드라이프 보호구역 1 Darkinjung Rd, Calga NSW 2250 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.2234297,
+      "lat": -33.4236801
+    },
+    "address": "1 Darkinjung Road, corner of Peats Ridge Road, Calga NSW 2250, Australia",
+    "region": "센트럴코스트"
+  },
+  "collected_data": {
+    "rating": 4.5,
+    "total_reviews": 305,
+    "price_level": null,
+    "opening_hours": "매일 09:30~17:00",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "80에이커 자연 서식지에서 자유롭게 다니는 동물들",
+          "전문적이고 열정적인 레인저 해설 (매시간 진행)",
+          "야생 동물 구조/보전 활동에 대한 교육적 가치"
+        ],
+        "negative": [
+          "규모가 작아 반나절이면 충분",
+          "시설이 다소 기본적"
+        ],
+        "seasonal_notes": "5월 가을 시기에도 야외 산책이 쾌적"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "2005년부터 야생동물 구조 활동 지속",
+          "편안한 분위기에서 호주 토착 동물 관찰",
+          "직원들의 동물 토크가 매우 유익"
+        ],
+        "negative": [
+          "대형 동물원 기대 시 실망 가능"
+        ],
+        "status_notes": "정상 운영"
+      },
+      "tips": [
+        "온라인 사전 구매 시 할인",
+        "레인저 토크 시간에 맞춰 방문하면 체험 극대화",
+        "호주 렙타일 파크와 가까워 하루에 함께 방문 가능",
+        "편한 운동화 권장 (80에이커 부지)"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 150,
+    "cost_aud": 33,
+    "best_time": "09:30 개장 직후 (레인저 토크 스케줄 확인)",
+    "weather_dependent": false,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x6b0d49e5fa1eb2b3:0xb69d5157575d216"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "d7b4e922",
+  "name": "Crowdy Head Lighthouse",
+  "name_ko": "크라우디 헤드 등대",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Crowdy Head Lighthouse, Intersection of Elizabeth Street and, Geoffrey St, Crowdy Head NSW 2427 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.7535723,
+      "lat": -31.843442
+    },
+    "address": "Geoffrey St, Crowdy Head NSW 2427",
+    "region": "포스터/해링턴"
+  },
+  "collected_data": {
+    "rating": 4.6,
+    "total_reviews": 395,
+    "price_level": null,
+    "opening_hours": "24시간 개방 (부지만, 등대 내부 비공개)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "해안 양 방향의 탁 트인 전망",
+          "고래 이동 시즌에 혹등고래 관찰 가능"
+        ],
+        "negative": [
+          "등대 내부 입장 불가"
+        ],
+        "seasonal_notes": "5월은 고래 이동 시즌 시작. 곶에서 가까이 지나가는 고래 관찰 가능"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "역사적인 등대 건물이 아름다움",
+          "무료 주차",
+          "멋진 사진 촬영 포인트"
+        ],
+        "negative": [
+          "주차장이 붐빌 수 있음"
+        ],
+        "status_notes": "정상 관람 가능"
+      },
+      "tips": [
+        "무료 관람, 무료 주차",
+        "등대 내부 입장 불가, 외부와 부지만 관람",
+        "해안 양방향 파노라마 뷰",
+        "해링턴 비치 주립공원과 연결"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 30,
+    "cost_aud": 0,
+    "best_time": "일몰 또는 5-11월 고래 시즌",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Crowdy+Head+Lighthouse,+Crowdy+Head,+NSW"
+}

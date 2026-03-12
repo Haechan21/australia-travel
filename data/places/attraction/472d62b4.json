@@ -1,0 +1,66 @@
+{
+  "id": "472d62b4",
+  "name": "The Gap Park",
+  "name_ko": "갭 공원 (더 갭)",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "갭 공원 Gap Road, Watsons Bay NSW 2030 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.285666,
+      "lat": -33.846274
+    },
+    "address": "Gap Road, Watsons Bay NSW 2030, Australia",
+    "region": "시드니"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 668,
+    "price_level": null,
+    "opening_hours": "24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "극적인 절벽과 바다 전망이 압도적",
+          "시드니 하버와 도시 스카이라인 파노라마 뷰",
+          "고래 관찰 가능 시기 (5~11월)"
+        ],
+        "negative": [
+          "바람이 매우 강할 수 있음",
+          "절벽 가장자리 안전 주의 필요"
+        ],
+        "seasonal_notes": "5월부터 고래 이동 시즌 시작 - 절벽에서 고래 관찰 가능성 있음"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "왓슨스 베이 페리 터미널에서 도보 5분",
+          "일출/일몰 시 사진 촬영 최적",
+          "조류 관찰 명소"
+        ],
+        "negative": [
+          "주차 제한적"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "운동화 착용 권장, 약 10분 도보",
+        "바람이 강하므로 따뜻한 날에도 재킷 지참",
+        "이른 아침 방문 시 혼잡 피할 수 있음",
+        "왓슨스 베이까지 페리로 이동하면 경치도 즐길 수 있음"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 45,
+    "cost_aud": 0,
+    "best_time": "이른 아침 또는 일몰 (골든 아워)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gap+Park,+Watsons+Bay,+NSW"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "640b85a3",
+  "name": "Bouddi National Park - Maitland Bay Track",
+  "name_ko": "부디 국립공원 - 메이틀랜드 베이 트랙",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "부디 국립공원 Maitland Bay Track, Bouddi NSW 2251 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.3884666,
+      "lat": -33.5198393
+    },
+    "address": "Maitland Bay Track, Bouddi National Park, Bouddi NSW 2251, Australia",
+    "region": "센트럴코스트"
+  },
+  "collected_data": {
+    "rating": 4.6,
+    "total_reviews": 314,
+    "price_level": null,
+    "opening_hours": "연중 개방. 주차비 $8/일 (차량당)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "숨겨진 아름다운 해변으로 내려가는 매력적인 트랙",
+          "잘 정비된 산책로와 보드워크",
+          "인파가 적어 조용한 자연 체험 가능"
+        ],
+        "negative": [
+          "올라오는 길이 가파르고 체력 소모 큼",
+          "모기가 많아 방충제 필수"
+        ],
+        "seasonal_notes": "5월 가을철은 기온이 쾌적하고 여름 인파가 빠져 하이킹 적기"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "2025년 여름 새 우드칩이 깔려 트랙 상태 매우 양호",
+          "전망이 탁 트여 사진 촬영 명소"
+        ],
+        "negative": [
+          "오르막 구간 체력 요구",
+          "습한 날 미끄러울 수 있음"
+        ],
+        "status_notes": "정상 운영. 트랙 상태 양호"
+      },
+      "tips": [
+        "내리막 15~20분, 오르막 30~40분 소요",
+        "방충제 필수 지참",
+        "썰물 때 방문하면 난파선 잔해 관찰 가능",
+        "주차비 카드 결제 또는 Park'nPay 앱 사용"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 90,
+    "cost_aud": 8,
+    "best_time": "오전 (이른 시간 선선할 때)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bouddi+National+Park&query_place_id=ChIJtdK8VXi0cmsRUE_x-Wh9AQ8"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "5dc8e4b0",
+  "name": "Australian Reptile Park",
+  "name_ko": "오스트레일리안 렙타일 파크 (호주 파충류 공원)",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Australian Reptile Park, Pacific Highway, Somersby NSW 2250 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.2780355,
+      "lat": -33.4184972
+    },
+    "address": "Pacific Highway, Somersby NSW 2250, Australia",
+    "region": "센트럴코스트"
+  },
+  "collected_data": {
+    "rating": 4.4,
+    "total_reviews": 3500,
+    "price_level": null,
+    "opening_hours": "매일 09:00~17:00 (크리스마스 제외)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "코알라 만지기, 캥거루 먹이주기 등 핸즈온 체험 풍부",
+          "독사 시연 등 교육적 프로그램 우수",
+          "열정적이고 지식이 풍부한 직원"
+        ],
+        "negative": [
+          "입장료가 다소 비쌈 (성인 $54.99)",
+          "해외 대형 동물원 대비 규모 작다는 의견"
+        ],
+        "seasonal_notes": "5월 비수기라 대기시간 짧고 여유로운 관람 가능"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "2023 호주 관광 어워드 금상 수상",
+          "2,000마리 이상 동물 보유",
+          "1948년 설립 유서 깊은 시설"
+        ],
+        "negative": [
+          "가격 대비 체류시간이 짧다는 의견 일부"
+        ],
+        "status_notes": "정상 운영"
+      },
+      "tips": [
+        "온라인 사전 구매 시 할인 적용",
+        "일일 쇼 스케줄 확인 후 동선 계획",
+        "반나절(3~4시간)이면 충분히 둘러볼 수 있음",
+        "우천 시에도 실내 전시관 있어 관람 가능"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 210,
+    "cost_aud": 54.99,
+    "best_time": "09:00 개장 직후 (쇼 스케줄에 맞춰)",
+    "weather_dependent": false,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps?cid=15451696282710384923"
+}

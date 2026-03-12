@@ -1,0 +1,63 @@
+{
+  "id": "36dc1295",
+  "name": "Jenolan Caves",
+  "name_ko": "제놀란 케이브즈 (제놀란 동굴)",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "제놀란 케이브즈 4655 Jenolan Caves Rd, Jenolan NSW 2790 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 150.02258899999998,
+      "lat": -33.8188351
+    },
+    "address": "4655 Jenolan Caves Rd, Jenolan NSW 2790, Australia",
+    "region": "블루마운틴"
+  },
+  "collected_data": {
+    "rating": 4.5,
+    "total_reviews": 4000,
+    "price_level": null,
+    "opening_hours": "현재 폐쇄 중 - 2026년 중반 제한적 재개장 예정",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [],
+        "negative": [
+          "2024년 4월 폭우/산사태로 폐쇄 상태"
+        ],
+        "seasonal_notes": "2025년 5월 기준 폐쇄 중이었음"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "호주에서 가장 유명한 석회암 동굴 시스템",
+          "가이드 투어로 다양한 동굴 탐험 가능",
+          "동굴 내부 연중 일정 온도 유지"
+        ],
+        "negative": [
+          "2024년 4월 홍수로 현재 폐쇄 중",
+          "2026년 중반 제한적 재개장 예정이나 확정 아님",
+          "도로 보수 및 접근로 업그레이드 진행 중"
+        ],
+        "status_notes": "2024년 4월 5일 극심한 폭우로 건물 침수 및 산사태 발생하여 폐쇄. 2026년 중반 제한적 재개장 목표. Caves House 리뉴얼, Blue Lake Boardwalk 신설, 트레일 업그레이드 진행 중"
+      },
+      "tips": [
+        "방문 전 공식 웹사이트(jenolancaves.org.au)에서 재개장 상태 반드시 확인",
+        "재개장 시 성인 투어 $42 예상",
+        "투어 1.5-2시간 소요, 계단 많음 (900-1000계단)",
+        "동굴 내부 서늘하므로 겉옷 지참"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 120,
+    "cost_aud": 42,
+    "best_time": "날씨 무관 (동굴 내부)",
+    "weather_dependent": false,
+    "reservation_required": true
+  },
+  "google_maps_url": "https://www.google.com/maps?cid=4714349340171985736"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "047c109a",
+  "name": "Forest Sky Pier",
+  "name_ko": "포레스트 스카이 피어",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Forest Sky Pier",
+  "location": {
+    "coordinates": {
+      "lng": 153.1095289,
+      "lat": -30.2664777
+    },
+    "address": "Sealy Lookout Dr, Korora NSW 2450 (Orara East State Forest)",
+    "region": "콥스하버"
+  },
+  "collected_data": {
+    "rating": 4.6,
+    "total_reviews": 2500,
+    "price_level": null,
+    "opening_hours": "매일 일출~일몰 (차량 접근 가능 시간)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "가을 날씨로 열대우림 산책에 쾌적",
+          "맑은 날 시야가 좋아 전망 극대화"
+        ],
+        "negative": [
+          "카페(Nyanggan Gapi)가 예고 없이 닫힐 수 있음"
+        ],
+        "seasonal_notes": "5월 가을 시즌으로 쾌적한 기온, 습도가 낮아 산책에 좋음"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "22m 캔틸레버 구조로 열대우림 위 15m 높이 전망",
+          "콥스하버 시내, 해안선, 솔리터리 아일랜즈 파노라마 전망",
+          "무료 입장",
+          "주차장에서 바로 접근 가능 (계단 없음)",
+          "1-3시간 열대우림 산책로 연결"
+        ],
+        "negative": [
+          "카페 영업이 불규칙할 수 있음",
+          "일몰 후 차량 접근 불가"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "콥스하버 시내에서 차로 약 10분",
+        "간식/음료 챙겨가기 추천 (카페 영업 불확실)",
+        "피크닉 테이블, 화장실 있음",
+        "열대우림 산책로와 함께 방문하면 1-3시간 소요"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 60,
+    "cost_aud": 0,
+    "best_time": "맑은 날 오전 또는 오후",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Forest+Sky+Pier/@-30.266473,153.106954,17z"
+}

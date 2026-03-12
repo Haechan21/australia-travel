@@ -1,0 +1,27 @@
+{
+  "total_days": 7,
+  "start_date": "2026-05-24",
+  "start_location": "시드니공항 (SYD)",
+  "end_location": "시드니공항 (SYD)",
+  "daily_start_time": "08:00",
+  "daily_end_time": "20:00",
+  "car_available": {
+    "2026-05-24": true,
+    "2026-05-25": true,
+    "2026-05-26": true,
+    "2026-05-27": true,
+    "2026-05-28": true,
+    "2026-05-29": true,
+    "2026-05-30": false
+  },
+  "return_deadline": {
+    "date": "2026-05-29",
+    "time": "21:00"
+  },
+  "min_grade": "B",
+  "must_include": [],
+  "must_exclude": [],
+  "priorities": ["nature", "photo_spot"],
+  "budget_per_day_aud": null,
+  "travel_style": "balanced"
+}

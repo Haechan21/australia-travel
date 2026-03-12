@@ -1,0 +1,64 @@
+{
+  "id": "d3a4be59",
+  "name": "Port Macquarie Coastal Walk",
+  "name_ko": "포트맥쿼리 해안 산책로",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "HWC4+JP Port Macquarie Coastal Walk, Port Macquarie NSW 2444 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.9068125,
+      "lat": -31.428437499999998
+    },
+    "address": "Port Macquarie Coastal Walk, Port Macquarie NSW 2444",
+    "region": "포트맥쿼리"
+  },
+  "collected_data": {
+    "rating": 4.8,
+    "total_reviews": 133,
+    "price_level": null,
+    "opening_hours": "24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "호주에서 가장 멋진 해안 산책로 중 하나",
+          "다양한 해변과 경치를 즐길 수 있음"
+        ],
+        "negative": [
+          "일부 구간이 조수에 따라 통행 어려울 수 있음"
+        ],
+        "seasonal_notes": "5월 가을 날씨에 걷기 좋은 기온 (평균 20도). 고래 이동 시즌 시작"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "9km 전 구간이 잘 정비되어 있음",
+          "4개 구간으로 나뉘어 원하는 만큼만 걸을 수 있음",
+          "대부분 평탄하여 다양한 체력 수준에 적합"
+        ],
+        "negative": [
+          "태킹포인트 등대 부근 일시 통행 제한 (2024년 9월 기준)"
+        ],
+        "status_notes": "대부분 구간 정상 이용 가능. 태킹포인트 인근 일부 우회 필요"
+      },
+      "tips": [
+        "총 9km, 편도 3-4시간 소요",
+        "4구간: Westport~Town Beach(2km), Town Beach~Flynns Beach(2.2km), Flynns~Shelly(2.2km), Shelly~Tacking Point(2.7km)",
+        "조수 시간 확인 후 출발 권장 - 만조 시 해변 구간 젖을 수 있음",
+        "구간별로 나눠 걸어도 좋음"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 180,
+    "cost_aud": 0,
+    "best_time": "이른 아침 또는 일몰 전",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Port+Macquarie+Coastal+Walk,+Port+Macquarie+NSW+2444,+Australia"
+}

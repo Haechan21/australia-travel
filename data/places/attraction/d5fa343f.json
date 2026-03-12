@@ -1,0 +1,65 @@
+{
+  "id": "d5fa343f",
+  "name": "Urunga Wetlands Boardwalk",
+  "name_ko": "우룬가 웨트랜즈 보드웍",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "우룬가 웨트랜즈 보드웍 1 Hillside Dr, Urunga NSW 2455 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.0097602,
+      "lat": -30.50413
+    },
+    "address": "1 Hillside Dr, Urunga NSW 2455",
+    "region": "콥스하버"
+  },
+  "collected_data": {
+    "rating": 4.5,
+    "total_reviews": 120,
+    "price_level": null,
+    "opening_hours": "항상 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "가을 습지 풍경이 아름다움",
+          "수련이 피어 있는 호수 경치"
+        ],
+        "negative": [
+          "짧은 코스라 단독 방문 시 아쉬울 수 있음"
+        ],
+        "seasonal_notes": "5월 가을 시즌으로 습지 산책에 쾌적한 날씨"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "평탄한 지형으로 휠체어 접근 가능",
+          "페이퍼바크 나무 숲이 분위기 있음",
+          "수련이 가득한 작은 호수",
+          "조류 관찰 좋음"
+        ],
+        "negative": [
+          "코스가 짧아 금방 끝남 (약 600m 순환)"
+        ],
+        "status_notes": "정상 운영 중. 별도 장소인 Urunga Boardwalk(551ff6a1)는 공사 중"
+      },
+      "tips": [
+        "Urunga Boardwalk와는 별개의 장소 (이곳은 습지 산책로, Urunga Boardwalk는 강변 산책로)",
+        "약 450m 보드워크 포함 600m 순환 코스",
+        "Urunga Boardwalk와 함께 방문하면 좋음 (단, 현재 Urunga Boardwalk는 공사 중)",
+        "평탄하여 유모차/휠체어 접근 가능"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 30,
+    "cost_aud": 0,
+    "best_time": "아침 (조류 관찰)",
+    "weather_dependent": false,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Urunga+Wetlands+Boardwalk,+Urunga,+NSW"
+}

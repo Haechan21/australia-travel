@@ -1,0 +1,64 @@
+{
+  "id": "6c37b64f",
+  "name": "Sea Acres Rainforest Centre",
+  "name_ko": "시 에이커스 레인포레스트 센터",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "시 에이커스 레인포레스트 센터 159 Pacific Dr, Port Macquarie NSW 2444 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.9300888,
+      "lat": -31.4616282
+    },
+    "address": "159 Pacific Dr, Port Macquarie NSW 2444",
+    "region": "포트맥쿼리"
+  },
+  "collected_data": {
+    "rating": 4.5,
+    "total_reviews": 500,
+    "price_level": null,
+    "opening_hours": "매일 9:00am - 4:30pm",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "1.3km 보드워크가 매우 잘 정비되어 있음",
+          "열대우림 속 평화로운 산책 경험"
+        ],
+        "negative": [
+          "입장료가 다소 비싸다는 의견"
+        ],
+        "seasonal_notes": "5월 가을에도 열대우림이라 초록빛 유지. 비 오는 날에도 보드워크로 편하게 이동 가능"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "카페에서 맛있는 식사 가능",
+          "원주민 문화 전시와 환경 교육 자료가 풍부",
+          "선물가게에서 독특한 환경 제품 구매 가능"
+        ],
+        "negative": [
+          "규모가 크지 않아 빠르게 돌아볼 수 있음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "1.3km 보드워크 산책 약 45분-1시간 소요",
+        "입장료 성인 약 $10",
+        "카페에서 아침/점심 식사 가능",
+        "우천 시에도 보드워크 이용 가능하여 비 오는 날 대안으로 좋음"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 75,
+    "cost_aud": 10,
+    "best_time": "오전",
+    "weather_dependent": false,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sea+Acres+Rainforest+Visitor+Centre&query_place_id=ChIJx-4B_7D4nWsRYGqakLUJBh0"
+}

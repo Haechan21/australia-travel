@@ -1,0 +1,67 @@
+{
+  "id": "123aac43",
+  "name": "Ellenborough Falls",
+  "name_ko": "엘렌버러 폭포",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Ellenborough Falls, Ellenborough Falls Rd, Elands NSW 2429 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.2921231,
+      "lat": -31.611133199999998
+    },
+    "address": "Ellenborough Falls Rd, Elands NSW 2429, Australia",
+    "region": "기타"
+  },
+  "collected_data": {
+    "rating": 4.6,
+    "total_reviews": 900,
+    "price_level": null,
+    "opening_hours": "24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "NSW 최대 단일 낙차(200m) 폭포의 압도적 경관",
+          "상부 전망대는 쉽게 접근 가능",
+          "더 놀(The Knoll) 전망대에서 폭포 전체 조망"
+        ],
+        "negative": [
+          "하부 폭포까지 641계단 - 체력 소모 큼",
+          "외진 위치로 접근에 시간 소요"
+        ],
+        "seasonal_notes": "5월은 수량이 괜찮은 편. 가을 단풍과 함께 폭포 감상 가능. 기온 선선하여 하이킹 쾌적."
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "호주 탑 10 폭포에 선정될 만한 절경",
+          "상부 전망대 + 더 놀만 방문해도 충분히 만족",
+          "무료 입장 및 주차"
+        ],
+        "negative": [
+          "하부까지 내려가면 복귀 시 체력 많이 필요",
+          "비포장 접근 도로 일부 구간"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "체력 좋다면 641계단 하부 전망대 강추",
+        "상부 전망대만 보려면 30분이면 충분",
+        "더 놀 전망대(도보 10분)에서 맞은편 뷰 감상 가능",
+        "식수와 간식 지참 권장"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 90,
+    "cost_aud": 0,
+    "best_time": "오전 (빛 좋은 시간)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/Ellenborough+Falls/data=!4m2!3m1!1s0x6b75970e02733843:0x2e8d88e226a28ebb"
+}

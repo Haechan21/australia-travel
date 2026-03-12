@@ -1,0 +1,67 @@
+{
+  "id": "c8f5dd58",
+  "name": "Ku-ring-gai Chase National Park",
+  "name_ko": "쿠링가이 체이스 국립공원",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Ku-ring-gai Chase National Park, New South Wales, 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.224358,
+      "lat": -33.6272215
+    },
+    "address": "Ku-ring-gai Chase National Park, New South Wales, Australia",
+    "region": "시드니"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 6500,
+    "price_level": null,
+    "opening_hours": "매일 개방. West Head 게이트: 6am~6pm (서머타임 외), 6am~8:30pm (서머타임). Sphinx Memorial 주차장 게이트: ~7pm 폐쇄",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "호주 두 번째로 오래된 국립공원",
+          "아름다운 전망대 (West Head Lookout 등)",
+          "원주민 암각화 등 역사 유적"
+        ],
+        "negative": [
+          "시드니 도심에서 차로 1시간 소요",
+          "대중교통 접근 불편"
+        ],
+        "seasonal_notes": "5월 가을에 하이킹하기 좋은 기온 (15~20도). 비수기라 한적하게 즐길 수 있음"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "다양한 워킹 트랙과 마운틴 바이킹 코스",
+          "The Basin 캠핑장",
+          "Bobbin Head 피크닉 에리어와 카페"
+        ],
+        "negative": [
+          "해변에 인명구조원 없음 - 안전 주의"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "차량 입장료 $12/대",
+        "연간 멀티파크 패스 $65 구매 가능",
+        "West Head Lookout 필수 방문",
+        "The Basin 캠핑장 이용 시 $3/성인 착륙비",
+        "절벽 가장자리와 폭포 근처 주의"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 240,
+    "cost_aud": 12,
+    "best_time": "오전 일찍 출발 (반나절~종일)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps?cid=1081283275369127152"
+}

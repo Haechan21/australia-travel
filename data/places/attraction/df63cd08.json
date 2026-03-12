@@ -1,0 +1,67 @@
+{
+  "id": "df63cd08",
+  "name": "Cape Byron Walking Track",
+  "name_ko": "케이프 바이런 워킹 트랙",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Cape Byron Walking Track, 199 Lighthouse Rd, Byron Bay NSW 2481 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.6360211,
+      "lat": -28.634967699999997
+    },
+    "address": "199 Lighthouse Rd, Byron Bay NSW 2481, Australia",
+    "region": "바이런베이"
+  },
+  "collected_data": {
+    "rating": 4.8,
+    "total_reviews": 2800,
+    "price_level": null,
+    "opening_hours": "24시간 개방 (일출~일몰 권장)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "3.7km 루프 코스로 해안 절벽과 열대우림 모두 경험",
+          "등대까지 이어지는 경로에서 절경 연속",
+          "돌고래, 거북이, 고래(시즌) 관찰 기회"
+        ],
+        "negative": [
+          "불법 주차 시 주차 단속원이 딱지 부과",
+          "일부 구간 경사가 있어 체력 필요"
+        ],
+        "seasonal_notes": "5월은 선선하고 쾌적한 하이킹 날씨. 혹등고래 이동 시작 시기로 고래 관찰 가능성."
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "호주에서 가장 아름다운 해안 산책로 중 하나",
+          "일출 시 환상적인 경험",
+          "방갈로우 팜과 초원 등 다양한 식생 변화"
+        ],
+        "negative": [
+          "주말/공휴일 인파가 많음",
+          "개 동반 불가"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "지정 주차장 이용 필수 (불법주차 단속 엄격)",
+        "일출 워킹 추천 - 인파 적고 경관 최고",
+        "중간 난이도, 약 1.5~2시간 소요 예상",
+        "물과 자외선 차단제 필수 지참"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 120,
+    "cost_aud": 0,
+    "best_time": "일출 또는 이른 아침",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/-28.6391114,153.6362382"
+}

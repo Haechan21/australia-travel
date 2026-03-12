@@ -1,0 +1,66 @@
+{
+  "id": "98dc14f5",
+  "name": "Newcastle Memorial Walk",
+  "name_ko": "뉴캐슬 메모리얼 워크",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Newcastle Memorial Walk, 24 Memorial Dr, The Hill NSW 2300 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.777038,
+      "lat": -32.9367076
+    },
+    "address": "24 Memorial Dr, The Hill NSW 2300, Australia",
+    "region": "뉴캐슬/포트스테판스"
+  },
+  "collected_data": {
+    "rating": 4.8,
+    "total_reviews": 3500,
+    "price_level": null,
+    "opening_hours": "24시간 개방 (야간 조명 설치)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "뉴캐슬 해안선의 숨막히는 경관",
+          "450m 해안 절벽 산책로로 접근성 우수",
+          "1차 세계대전 기념 조형물의 역사적 의미"
+        ],
+        "negative": [
+          "강한 바람이 불 수 있음",
+          "주차 공간이 제한적"
+        ],
+        "seasonal_notes": "5월 가을 일몰이 아름다워 해 질 무렵 방문 추천, 바람이 차가울 수 있으니 겉옷 준비"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "트립어드바이저 뉴캐슬 302개 관광지 중 1위",
+          "160m 절벽 다리의 군인 실루엣 조형물 인상적",
+          "무료 입장"
+        ],
+        "negative": [
+          "짧은 거리라 아쉬울 수 있음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "일몰 시간대 방문 강력 추천",
+        "Bar Beach부터 King Edward Park까지 연결하여 산책 가능",
+        "야간에도 조명이 있어 방문 가능",
+        "인근 Strzelecki Lookout와 함께 방문 추천"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 30,
+    "cost_aud": 0,
+    "best_time": "일몰 시간대",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Anzac+Memorial+Bridge,+24+Memorial+Dr,+The+Hill,+NSW&query_place_id=ChIJp1_kb2sUc2sRbd6AdGNWLSs"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "d2936dd7",
+  "name": "The Big Koala - The Spirit of All Koalas",
+  "name_ko": "빅 코알라 - 모든 코알라의 영혼",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "The Big Koala ..The Spirit of All Koalas, Burrawan Forest Dr, Lake Innes NSW 2446 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.8036981,
+      "lat": -31.4689733
+    },
+    "address": "8 Guulabaa Way, Lake Innes NSW 2446",
+    "region": "포트맥쿼리"
+  },
+  "collected_data": {
+    "rating": 4.5,
+    "total_reviews": 50,
+    "price_level": null,
+    "opening_hours": "24시간 개방 (야외 조각품)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "2.5m 높이의 인상적인 코알라 조각품",
+          "무료로 누구나 관람 가능"
+        ],
+        "negative": [
+          "단순 포토스팟으로 오래 머물 필요 없음"
+        ],
+        "seasonal_notes": "계절 무관. Guulabaa 방문 시 함께 관람"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "Hello Koalas 조각 트레일의 88번째 작품",
+          "호주 스트리트 아트 어워드 수상",
+          "31마리 코알라가 조각된 디테일"
+        ],
+        "negative": [
+          "위치가 시내에서 다소 떨어져 있음"
+        ],
+        "status_notes": "정상 관람 가능. Guulabaa - Place of Koala 단지 내 위치"
+      },
+      "tips": [
+        "무료 관람",
+        "Guulabaa - Place of Koala (코알라 병원 임시 운영지)와 함께 방문 가능",
+        "포토스팟으로 15-20분이면 충분",
+        "호주 스트리트 아트 어워드 금상 수상 작품"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 20,
+    "cost_aud": 0,
+    "best_time": "언제든지",
+    "weather_dependent": false,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/The+Big+Koala+-+The+Spirit+of+All+Koalas,+Lake+Innes+NSW+2446,+Australia"
+}

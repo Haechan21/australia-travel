@@ -1,0 +1,66 @@
+{
+  "id": "71c9aea1",
+  "name": "Yamba Lighthouse (Clarence River Light)",
+  "name_ko": "야마 등대 (클래런스 리버 라이트)",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Yamba Lighthouse, 1 Pilot St, Yamba NSW 2464 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.36399749999998,
+      "lat": -29.432469599999997
+    },
+    "address": "1 Pilot St, Yamba NSW 2464, Australia",
+    "region": "야마/그래프턴"
+  },
+  "collected_data": {
+    "rating": 4.5,
+    "total_reviews": 800,
+    "price_level": null,
+    "opening_hours": "부지 24시간 개방 (등대 내부 비공개)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "해안과 클래런스 강의 탁 트인 전망",
+          "100년 이상 역사를 가진 유서 깊은 등대",
+          "한적하고 평화로운 분위기"
+        ],
+        "negative": [
+          "등대 내부 입장 불가",
+          "별도 안내판이나 시설이 제한적"
+        ],
+        "seasonal_notes": "5월은 고래 이동 초기 시기. 맑은 날 전망 특히 좋음. 피크닉 적합."
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "무료 주차 가능",
+          "사진 촬영 명소로 인기",
+          "타운에서 가까워 접근 편리"
+        ],
+        "negative": [
+          "바람이 강한 날 방문 불편",
+          "그늘이 없어 한낮에는 더울 수 있음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "일몰 시간대 방문 추천 (보름달 뜰 때도 좋음)",
+        "피크닉 도시락 준비하면 좋음",
+        "야마 타운 산책과 연계 방문 추천"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 30,
+    "cost_aud": 0,
+    "best_time": "일몰 시간대",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yamba+Lighthouse,+Pilot+St,+Yamba+NSW"
+}

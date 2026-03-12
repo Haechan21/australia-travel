@@ -1,0 +1,66 @@
+{
+  "id": "64847f13",
+  "name": "SkyPoint Observation Deck",
+  "name_ko": "스카이포인트 전망대",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "스카이포인트 전망대 Q1 Building, Level 77/9 Hamilton Ave, Surfers Paradise QLD 4217 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 153.42965719999998,
+      "lat": -28.0063049
+    },
+    "address": "Q1 Building, Level 77, 9 Hamilton Ave, Surfers Paradise QLD 4217, Australia",
+    "region": "골드코스트"
+  },
+  "collected_data": {
+    "rating": 4.4,
+    "total_reviews": 5000,
+    "price_level": "$$$",
+    "opening_hours": "월~목 7:30 AM ~ 9:00 PM, 금~토 7:30 AM ~ 11:00 PM, 일 7:30 AM ~ 9:00 PM",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "브리즈번~바이런베이까지 360도 파노라마 전망",
+          "하루 종일 이용권으로 낮/야경 모두 감상 가능",
+          "남반구 최고 높이 해변 전망대"
+        ],
+        "negative": [
+          "입장료가 다소 비싼 편 (성인 $33~41)",
+          "흐린 날씨에는 전망이 제한적"
+        ],
+        "seasonal_notes": "5월은 맑은 날이 많아 전망 좋음. 일몰 시간대 방문 추천."
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "금토 야간 라운지 바 분위기 우수",
+          "일요일 선셋 사운즈 이벤트 인기",
+          "온라인 할인 티켓 이용 가능"
+        ],
+        "negative": [
+          "대기 시간이 길 수 있음",
+          "카페/바 메뉴 가격이 높은 편"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "온라인 사전 예매 시 할인 ($21~33)",
+        "일몰 전 입장하여 낮/야경 모두 감상 추천",
+        "맑은 날 방문이 필수 - 날씨 확인 후 일정 조정"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 90,
+    "cost_aud": 33,
+    "best_time": "일몰 1~2시간 전",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/place/SkyPoint+Observation+Deck/@-28.0060685,153.4294129,15z"
+}

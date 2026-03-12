@@ -1,0 +1,68 @@
+{
+  "id": "bfa60aeb",
+  "name": "Bogey Hole",
+  "name_ko": "보기 홀",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Bogey Hole, Shortland Esplanade, Newcastle NSW 2300 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.7816528,
+      "lat": -32.9351306
+    },
+    "address": "Shortland Esplanade, Newcastle NSW 2300, Australia",
+    "region": "뉴캐슬/포트스테판스"
+  },
+  "collected_data": {
+    "rating": 4.5,
+    "total_reviews": 1800,
+    "price_level": null,
+    "opening_hours": "24시간 개방 (자연 암반 수영장)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "1819년 죄수들이 깎아 만든 역사적 해양 수영장",
+          "NSW 주 문화유산 등재",
+          "독특하고 아름다운 자연 경관"
+        ],
+        "negative": [
+          "파도가 갑자기 들이칠 수 있어 위험",
+          "바위가 미끄러움",
+          "화장실/탈의실/샤워시설 없음"
+        ],
+        "seasonal_notes": "5월 가을은 수온이 낮아 수영보다는 경관 감상용, 파도 상태를 반드시 확인 후 접근"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "뉴캐슬의 숨은 보석",
+          "사진 촬영 명소",
+          "무료 입장"
+        ],
+        "negative": [
+          "안전 시설이 없어 주의 필요",
+          "접근 경로가 가파름"
+        ],
+        "status_notes": "정상 운영 중 (자연 시설이므로 파도 상태에 따라 접근 제한)"
+      },
+      "tips": [
+        "파도가 잔잔한 날에만 수영 시도",
+        "미끄럼 방지 신발 착용 권장",
+        "어린이는 수영 지양, 경관 감상만 추천",
+        "Newcastle Memorial Walk와 연계 방문 가능 (도보 거리)"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 30,
+    "cost_aud": 0,
+    "best_time": "밀물 전후 (파도 잔잔할 때)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bogey+Hole,+King+Edward+Park,+Newcastle+NSW"
+}

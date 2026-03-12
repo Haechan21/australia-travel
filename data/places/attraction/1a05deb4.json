@@ -1,0 +1,67 @@
+{
+  "id": "1a05deb4",
+  "name": "Lincoln's Rock (Flat Rock)",
+  "name_ko": "링컨스 록",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Lincoln's Rock, 51 Little Switzerland Dr, Wentworth Falls NSW 2782 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 150.372104,
+      "lat": -33.7401395
+    },
+    "address": "51 Little Switzerland Dr, Wentworth Falls NSW 2782, Australia",
+    "region": "블루마운틴"
+  },
+  "collected_data": {
+    "rating": 4.5,
+    "total_reviews": 157,
+    "price_level": null,
+    "opening_hours": "24시간 개방",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "가을 석양 시 제이미슨 밸리의 절벽 색감 변화가 인상적",
+          "비교적 한적한 분위기"
+        ],
+        "negative": [
+          "안전 펜스 없음 - 절벽 끝 주의 필요",
+          "5월 저녁 기온 급격히 하락"
+        ],
+        "seasonal_notes": "5월 일몰이 빨라 오후 4시 이전 도착 권장"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "주차장에서 300m 평탄한 산책로로 쉬운 접근",
+          "제이미슨 밸리 파노라마 뷰 최고 명소",
+          "인스타그램 사진 명소"
+        ],
+        "negative": [
+          "안전 울타리 없어 어린이 동반 시 주의",
+          "화장실/편의시설 없음",
+          "피크 시간 주차 어려움"
+        ],
+        "status_notes": "정상 운영. 유료 주차($3/15분)"
+      },
+      "tips": [
+        "일몰 시간 방문 강력 추천",
+        "절벽 가장자리 주의 - 안전 난간 없음",
+        "주차 앱 미리 설치",
+        "일찍 도착하여 주차 자리 확보"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 30,
+    "cost_aud": 0,
+    "best_time": "일몰 시간대",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lincoln's+Rock&query_place_id=ChIJiw1LuThvEmsRKxQXIs_PhDQ"
+}

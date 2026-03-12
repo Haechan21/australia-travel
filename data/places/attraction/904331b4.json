@@ -1,0 +1,64 @@
+{
+  "id": "904331b4",
+  "name": "Palm Beach Rockpool",
+  "name_ko": "팜 비치 록풀",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "C87G+M6 Palm Beach Astro, Palm Beach NSW 2108 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.3256001,
+      "lat": -33.585827
+    },
+    "address": "Ocean Road, Palm Beach NSW 2108, Australia",
+    "region": "센트럴코스트"
+  },
+  "collected_data": {
+    "rating": 4.4,
+    "total_reviews": 250,
+    "price_level": null,
+    "opening_hours": "연중 24시간 개방 (무료)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "50m 길이의 자연 록풀에서 파도 걱정 없이 수영 가능",
+          "바렌조이 헤드랜드와 등대를 배경으로 한 절경",
+          "탈의실과 화장실 완비"
+        ],
+        "negative": [
+          "수온이 차가울 수 있음",
+          "간혹 해조류가 많을 때 있음"
+        ],
+        "seasonal_notes": "5월은 수온이 낮아 수영보다는 산책/사진 촬영에 적합"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "해식 암석의 독특한 패턴이 사진 촬영에 최적",
+          "가족 단위 방문에 안전한 수영 환경"
+        ],
+        "negative": [
+          "주차가 유료이며 성수기에 자리 부족"
+        ],
+        "status_notes": "정상 운영"
+      },
+      "tips": [
+        "만조(high tide) 때 방문하면 깨끗한 바닷물이 채워져 최적",
+        "바렌조이 등대 방문과 함께 코스로 묶으면 효율적",
+        "유료 주차장 이용 필요"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 45,
+    "cost_aud": 0,
+    "best_time": "만조 시간대 (tide chart 확인)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Palm+Beach+Rockpool+NSW"
+}

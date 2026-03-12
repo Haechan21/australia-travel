@@ -1,0 +1,3702 @@
+{
+  "scorer": "C",
+  "scored_at": "2026-03-12",
+  "results": [
+    {
+      "id": "213ea17d",
+      "name_ko": "케이프 바이런 (바이런베이 등대)",
+      "region": "바이런베이",
+      "total_score": 91.0,
+      "grade": "S",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 9,
+          "max": 10,
+          "reason": "약 9400개 리뷰"
+        },
+        "scenery": {
+          "score": 10,
+          "max": 10,
+          "reason": "호주 최동단 절벽 위 파노라마 해양 전망, 일출 명소로 압도적"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "주차가 매우 어려움, 일찍 도착 필수"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료 입장이면서 호주 대륙 최동단이라는 상징적 가치"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "1시간이면 등대와 전망 감상 충분"
+        },
+        "uniqueness": {
+          "score": 10,
+          "max": 10,
+          "reason": "호주 대륙 최동단이라는 절대적 희소성, 고래/돌고래 관찰 가능"
+        }
+      }
+    },
+    {
+      "id": "68c6f93e",
+      "name_ko": "블루마운틴스 국립공원",
+      "region": "블루마운틴",
+      "total_score": 89.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 10,
+          "max": 10,
+          "reason": "약 15000개 리뷰"
+        },
+        "scenery": {
+          "score": 10,
+          "max": 10,
+          "reason": "세계유산 지역, 5월 가을 단풍 절정기 압도적 자연경관"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "시드니에서 기차 2시간, 공원 내 넓어 이동 계획 필요"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료 입장에 세계유산급 자연 체험, 최고의 가성비"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "4시간+ 소요로 시간 투자 크나 그만큼 볼거리 풍부"
+        },
+        "uniqueness": {
+          "score": 9,
+          "max": 10,
+          "reason": "블루마운틴 유칼립투스 안개 경관은 전 세계에서 여기서만 볼 수 있음"
+        }
+      }
+    },
+    {
+      "id": "89376ce6",
+      "name_ko": "쓰리 시스터스",
+      "region": "블루마운틴",
+      "total_score": 88.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 9,
+          "max": 10,
+          "reason": "약 5000개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "블루마운틴 대표 랜드마크, 5월 석양에 황금빛으로 물드는 장관"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "에코포인트에서 쉽게 조망, 대중교통 접근 가능"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료, 블루마운틴 상징적 명소"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "45분이면 충분한 감상, 효율적"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "원주민 전설이 깃든 3개 암석은 블루마운틴 고유의 상징"
+        }
+      }
+    },
+    {
+      "id": "c7c5e692",
+      "name_ko": "그랜드 캐니언 워킹 트랙",
+      "region": "블루마운틴",
+      "total_score": 88.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.8점"
+        },
+        "review_count": {
+          "score": 9,
+          "max": 10,
+          "reason": "약 5986개 리뷰"
+        },
+        "scenery": {
+          "score": 10,
+          "max": 10,
+          "reason": "이끼 낀 사암벽, 양치류 협곡의 몰입감 있는 세계유산 트레킹"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "중급 난이도, 2.5시간+ 소요, 비 후 미끄러움"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 블루마운틴 최고의 트레킹 체험"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "2~4시간 소요이나 그만큼 깊이 있는 자연 체험"
+        },
+        "uniqueness": {
+          "score": 9,
+          "max": 10,
+          "reason": "사암 협곡 속 걸어들어가는 체험은 블루마운틴에서만 가능한 독특한 경험"
+        }
+      }
+    },
+    {
+      "id": "df63cd08",
+      "name_ko": "케이프 바이런 워킹 트랙",
+      "region": "바이런베이",
+      "total_score": 87.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.8점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 2800개 리뷰"
+        },
+        "scenery": {
+          "score": 10,
+          "max": 10,
+          "reason": "해안 절벽~열대우림~등대까지 연속 절경, 호주 최고 해안 산책로 중 하나"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "3.7km 루프, 일부 경사 구간, 불법주차 단속 엄격"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 호주 최동단 해안 트레킹 체험"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "2시간 루프 코스로 적절한 시간 투자"
+        },
+        "uniqueness": {
+          "score": 9,
+          "max": 10,
+          "reason": "호주 최동단 일출 워킹, 고래/돌고래 관찰 가능, 한국 불가 체험"
+        }
+      }
+    },
+    {
+      "id": "54678851",
+      "name_ko": "버레이 헤드 국립공원",
+      "region": "골드코스트",
+      "total_score": 85.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 3500개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "골드코스트 양방향 파노라마 뷰, 해안+열대우림 이중 경관"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "시내 접근 용이하나 주차 제한적, 경사 구간 있음"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 골드코스트 최고의 해안 산책 체험"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "1시간에 오션뷰+레인포레스트 두 트랙 모두 가능"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "야생 코알라 관찰 가능, 5월 고래 시즌 시작, 골드코스트 고유 경험"
+        }
+      }
+    },
+    {
+      "id": "034f4322",
+      "name_ko": "본다이 투 브론테 해안 산책로",
+      "region": "시드니",
+      "total_score": 85.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.8점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 887개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "3개 해변과 절벽 해안의 연속적 절경, 인스타 포토스팟 다수"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "대중교통 접근 용이, 잘 포장된 평탄한 트레일"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "완전 무료이면서 시드니 최고 해안 경험 제공"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "2.3km 1~1.5시간으로 효율적인 절경 감상"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "시드니 대표 해안 워크, 2000년 원주민 암각화 포함 독특한 문화 요소"
+        }
+      }
+    },
+    {
+      "id": "fdef9085",
+      "name_ko": "카툼바 폭포",
+      "region": "블루마운틴",
+      "total_score": 85.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 3412개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "야간 LED 조명 산책로가 환상적, 독특한 야간 경험"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "잘 정비된 보드워크, 접근 용이"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 야간 조명 산책이라는 독특한 체험"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "40분이면 충분, 야간 산책으로 효율적"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "400개 LED 야간 조명 산책로는 블루마운틴에서만 경험 가능한 독특한 체험"
+        }
+      }
+    },
+    {
+      "id": "ef2de137",
+      "name_ko": "에코 포인트 전망대 (쓰리 시스터스)",
+      "region": "블루마운틴",
+      "total_score": 84.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 9,
+          "max": 10,
+          "reason": "약 8000개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "블루마운틴 최고 전망 포인트, 쓰리시스터스 정면 조망"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "카툼바역에서 버스 20분, 주차비 시간당 $4"
+        },
+        "value_for_money": {
+          "score": 8,
+          "max": 10,
+          "reason": "무료 전망대이나 주차비 부담, 가성비 양호"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "45분이면 충분, 효율적 감상"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "쓰리시스터스 조망의 대표 포인트이나 에코포인트 자체는 전망대"
+        }
+      }
+    },
+    {
+      "id": "7c98c2bd",
+      "name_ko": "토마리 헤드 정상 산책로",
+      "region": "뉴캐슬/포트스테판스",
+      "total_score": 84.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.8점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 816개 리뷰"
+        },
+        "scenery": {
+          "score": 10,
+          "max": 10,
+          "reason": "포트스테판스 최고 파노라마 전망, NSW 최고 전망 중 하나"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "왕복 2.2km이나 경사 급하고 계단 많아 체력 필요"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 NSW 최고급 전망 체험"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "1시간이면 왕복 가능, 짧은 시간에 최고 전망"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "포트스테판스 해안 360도 전망은 호주 해안 특유의 경험"
+        }
+      }
+    },
+    {
+      "id": "05bd5b67",
+      "name_ko": "에보르 폭포",
+      "region": "기타",
+      "total_score": 84.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 7,
+          "max": 10,
+          "reason": "약 1500개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "100m 2단 폭포, 2024년 리뉴얼된 캔틸레버 전망대에서 장엄한 경관"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "360m 루프워크 유모차/휠체어 접근 가능, 잘 정비된 시설"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 최신 시설로 리뉴얼된 최고급 폭포 전망대"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "45분이면 핵심 감상 완료, 시간 대비 만족도 높음"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "호주 고원지대 폭포로 독특하나 폭포 자체는 세계적으로 보편적 경험"
+        }
+      }
+    },
+    {
+      "id": "98dc14f5",
+      "name_ko": "뉴캐슬 메모리얼 워크",
+      "region": "뉴캐슬/포트스테판스",
+      "total_score": 83.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.8점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 3500개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "뉴캐슬 해안 절벽의 숨막히는 경관, 일몰 포토스팟"
+        },
+        "accessibility": {
+          "score": 9,
+          "max": 10,
+          "reason": "450m 짧은 코스, 도보 접근 매우 용이"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 뉴캐슬 1위 관광지 체험"
+        },
+        "time_efficiency": {
+          "score": 9,
+          "max": 10,
+          "reason": "30분이면 충분, 시간 대비 최고의 만족도"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "1차 세계대전 기념 조형물 + 해안 절벽은 의미 있으나 독보적이진 않음"
+        }
+      }
+    },
+    {
+      "id": "1a05deb4",
+      "name_ko": "링컨스 록",
+      "region": "블루마운틴",
+      "total_score": 83.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 4,
+          "max": 10,
+          "reason": "약 157개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "제이미슨 밸리 파노라마 뷰, 인스타 사진 명소로 유명"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "주차장에서 300m 평탄 산책로, 쉬운 접근"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "무료이면서 블루마운틴 최고 포토스팟"
+        },
+        "time_efficiency": {
+          "score": 9,
+          "max": 10,
+          "reason": "30분이면 충분, 일몰 시 극적인 색감 변화"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "안전 펜스 없는 절벽 끝 포토스팟, SNS에서 인기 높은 호주 고유 장면"
+        }
+      }
+    },
+    {
+      "id": "472d62b4",
+      "name_ko": "갭 공원 (더 갭)",
+      "region": "시드니",
+      "total_score": 83.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 668개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "극적인 절벽과 바다 전망, 시드니 하버 파노라마가 압도적"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "왓슨스 베이 페리에서 도보 5분, 접근성 우수"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 극적인 해안 절벽 경험 제공"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "45분이면 충분히 감상, 효율적"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "시드니 해안 절벽의 극적 경관, 5월 고래 관찰 가능성"
+        }
+      }
+    },
+    {
+      "id": "30c337cf",
+      "name_ko": "크리스탈 샤워 폭포",
+      "region": "콥스하버",
+      "total_score": 83.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 660개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "폭포 뒤로 걸어갈 수 있는 독특한 구조, 열대우림 경관 환상적"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "왕복 2.8km, 복귀 시 가파른 오르막, 거머리 주의"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 폭포 뒤로 걸어가는 독특한 체험 제공"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "1~1.5시간 트레킹으로 적절한 소요시간"
+        },
+        "uniqueness": {
+          "score": 9,
+          "max": 10,
+          "reason": "폭포 뒤를 걸어가는 체험은 한국에서 거의 불가능한 독특한 경험"
+        }
+      }
+    },
+    {
+      "id": "e16a2fe5",
+      "name_ko": "룩 앳 미 나우 헤드랜드 워크",
+      "region": "콥스하버",
+      "total_score": 83.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.8점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 500개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "야생 캥거루 무리와 고래 관찰 가능한 해안 산책로"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "에메랄드 비치 주차장에서 출발, 쉬운 코스"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 캥거루+고래 동시 관찰 가능성"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "45분이면 충분, 짧은 시간에 야생동물 관찰"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "풀밭에서 풀 뜯는 캥거루 무리와 고래를 동시에 볼 수 있는 독특한 장소"
+        }
+      }
+    },
+    {
+      "id": "047c109a",
+      "name_ko": "포레스트 스카이 피어",
+      "region": "콥스하버",
+      "total_score": 81.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 2500개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "22m 캔틸레버에서 열대우림 위 15m 높이 파노라마 전망 압도적"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "콥스하버 시내에서 차로 10분, 주차 편리"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료 입장으로 최상급 전망대 체험 가능"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "1시간이면 충분히 즐길 수 있는 효율적 코스"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "열대우림 위 캔틸레버 구조물은 독특하나 유사 시설 다른 나라에도 존재"
+        }
+      }
+    },
+    {
+      "id": "3a3e43cf",
+      "name_ko": "레밍턴 국립공원",
+      "region": "골드코스트",
+      "total_score": 81.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 2500개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "세계유산 곤드와나 우림의 장엄한 경관, 트리탑 워크 절경"
+        },
+        "accessibility": {
+          "score": 5,
+          "max": 10,
+          "reason": "산악 도로 진입 험하고 오라일리스까지 운전 시간 소요"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료 입장에 트리탑 워크도 무료, 최상급 자연 체험"
+        },
+        "time_efficiency": {
+          "score": 5,
+          "max": 10,
+          "reason": "반나절~하루 소요로 시간 투자 큼"
+        },
+        "uniqueness": {
+          "score": 9,
+          "max": 10,
+          "reason": "곤드와나 세계유산 우림은 호주 고유, 트리탑 워크는 독특한 체험"
+        }
+      }
+    },
+    {
+      "id": "c92d2048",
+      "name_ko": "시닉 레일웨이",
+      "region": "블루마운틴",
+      "total_score": 81.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 3500개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "가을 숲 사이로 64도 경사 내려가는 스릴과 경관 동시 체험"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "시닉월드 내 위치, 비수기 대기 없음"
+        },
+        "value_for_money": {
+          "score": 4,
+          "max": 10,
+          "reason": "$62 시닉월드 통합 입장권 필요, 단독 구매 불가로 비쌈"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "탑승 자체 15분이나 시닉월드 통합 체험 고려"
+        },
+        "uniqueness": {
+          "score": 9,
+          "max": 10,
+          "reason": "세계에서 가장 가파른 케이블 레일웨이, 64도 경사는 전 세계 유일"
+        }
+      }
+    },
+    {
+      "id": "bfa60aeb",
+      "name_ko": "보기 홀",
+      "region": "뉴캐슬/포트스테판스",
+      "total_score": 80.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 7,
+          "max": 10,
+          "reason": "약 1800개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "1819년 죄수들이 깎아 만든 역사적 해양 수영장, 독특한 경관"
+        },
+        "accessibility": {
+          "score": 5,
+          "max": 10,
+          "reason": "바위 미끄럽고 파도 위험, 화장실/탈의실 없음"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료, 세계적으로 유니크한 역사적 록풀"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "30분이면 감상 충분, 5월은 수영보다 경관 감상"
+        },
+        "uniqueness": {
+          "score": 9,
+          "max": 10,
+          "reason": "1819년 죄수가 만든 해양 수영장은 세계적으로 독보적인 역사 유적"
+        }
+      }
+    },
+    {
+      "id": "c49e60e1",
+      "name_ko": "피츠로이 폭포 전망대",
+      "region": "기타",
+      "total_score": 80.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 4000개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "81m 낙차 폭포 장엄, 5월 수량 풍부"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "휠체어 접근 가능 150m 고가 보도, 방문자센터 우수"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "$3 주차비만으로 장엄한 폭포 감상, 최고 가성비"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "메인 전망 2분, 추가 산책 포함 1시간으로 효율적"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "폭포 전망대 자체는 보편적이나 방문자센터의 원주민 문화 학습은 부가가치"
+        }
+      }
+    },
+    {
+      "id": "ff4c6964",
+      "name_ko": "댕거 폭포",
+      "region": "콥스하버",
+      "total_score": 80.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 7,
+          "max": 10,
+          "reason": "약 1800개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "30m 현무암 폭포 장관, 전망대에서 정면 감상"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "도리고 타운에서 2km, 전망대 휠체어 접근 가능"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 장엄한 폭포 정면 감상"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "45분이면 충분, 효율적 폭포 감상"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "현무암 폭포는 독특하나 폭포 감상 자체는 보편적"
+        }
+      }
+    },
+    {
+      "id": "04cc52a2",
+      "name_ko": "서블라임 포인트 전망대",
+      "region": "블루마운틴",
+      "total_score": 79.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.8점"
+        },
+        "review_count": {
+          "score": 5,
+          "max": 10,
+          "reason": "약 343개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "카툼바보다 한적하면서 쓰리시스터스 뒷면까지 보이는 파노라마 뷰"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "주차장에서 175m 평탄 산책로, 다만 유료 주차 앱 필요"
+        },
+        "value_for_money": {
+          "score": 8,
+          "max": 10,
+          "reason": "무료 전망대이나 주차비 $3/15분이 부담될 수 있음"
+        },
+        "time_efficiency": {
+          "score": 9,
+          "max": 10,
+          "reason": "30분이면 충분, 짧은 시간에 블루마운틴 최고 전망 감상"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "블루마운틴 특유의 유칼립투스 안개 경관은 호주 고유"
+        }
+      }
+    },
+    {
+      "id": "64847f13",
+      "name_ko": "스카이포인트 전망대",
+      "region": "골드코스트",
+      "total_score": 79.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 9.3,
+          "max": 10,
+          "reason": "4.4점"
+        },
+        "review_count": {
+          "score": 9,
+          "max": 10,
+          "reason": "약 5000개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "77층에서 브리즈번~바이런베이 360도 파노라마, 야경 멋짐"
+        },
+        "accessibility": {
+          "score": 9,
+          "max": 10,
+          "reason": "서퍼스 파라다이스 중심가, 대중교통 접근 최상"
+        },
+        "value_for_money": {
+          "score": 6,
+          "max": 10,
+          "reason": "$33 입장료 다소 비싸나 하루종일 이용권으로 낮/야경 모두 가능"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "90분이면 충분히 즐기나 대기시간 가능"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "남반구 최고 높이 해변 전망대라는 타이틀은 독특"
+        }
+      }
+    },
+    {
+      "id": "a2a6451d",
+      "name_ko": "옵저버토리 힐 공원",
+      "region": "시드니",
+      "total_score": 79.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 3800개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "시드니 하버, 하버브리지, 루나파크 파노라마 뷰"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "시내 중심가 도보 접근 용이, 와이야드역 근처"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료, 시드니 최고의 일몰 포인트 중 하나"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "45분이면 충분, 일몰 시간 맞추면 최적"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "시드니 하버 뷰는 좋지만 전망대 공원 자체는 보편적"
+        }
+      }
+    },
+    {
+      "id": "1d375b4d",
+      "name_ko": "웬트워스 폴스 전망대",
+      "region": "블루마운틴",
+      "total_score": 79.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 7,
+          "max": 10,
+          "reason": "약 1422개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "폭포와 계곡의 웅장한 전경, 5월 수량 적절"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "주차장에서 도보 수분, 누구나 접근 가능"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 폭포+계곡 전경 감상 가능"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "전망대만 30분, 트레일 포함 1~2시간"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "블루마운틴 폭포 전망대로서 좋지만 독보적 체험은 아님"
+        }
+      }
+    },
+    {
+      "id": "efa3e922",
+      "name_ko": "다이아몬드 베이 보호지역",
+      "region": "시드니",
+      "total_score": 78.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 7,
+          "max": 10,
+          "reason": "약 1000개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "숨겨진 절벽 전망 명소, 보드워크 잘 관리됨"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "대중교통 접근 가능, 노상 주차만 가능"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료, 숨겨진 보석 같은 절벽 전망"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "30분이면 충분, 짧은 시간에 절벽 전망 감상"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "시드니 해안 절벽 전망이나 유사 명소 다수 존재"
+        }
+      }
+    },
+    {
+      "id": "010149dd",
+      "name_ko": "시드니 하버 국립공원",
+      "region": "시드니",
+      "total_score": 78.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 4500개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "하버 전망과 해안 트레일 경치 우수, 고래 관찰 시즌 시작"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "페리로 접근 용이하나 넓은 면적으로 이동 계획 필요"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "도보/페리 접근 시 실질 무료, 다양한 트레일 제공"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "3시간+ 소요로 시간 투자 대비 만족도 보통"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "시드니 하버 배경 국립공원은 독특하나 해안 트레일 자체는 보편적"
+        }
+      }
+    },
+    {
+      "id": "bbf82d69",
+      "name_ko": "머튼버드 아일랜드 자연보호지역",
+      "region": "콥스하버",
+      "total_score": 78.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 3200개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "해안 파노라마 전망 좋고 잘 정비된 산책로"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "콥스하버 마리나에서 도보 접근, 일부 구간 가파름"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료, 고래 관찰 가능성까지 포함"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "1시간이면 충분, 적절한 산책 코스"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "쐐기꼬리슴새 번식지이나 5월에는 새 떠나 있어 차별점 감소"
+        }
+      }
+    },
+    {
+      "id": "c8f5dd58",
+      "name_ko": "쿠링가이 체이스 국립공원",
+      "region": "시드니",
+      "total_score": 78.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 9,
+          "max": 10,
+          "reason": "약 6500개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "West Head Lookout 절경, 다양한 워킹 트랙과 원주민 암각화"
+        },
+        "accessibility": {
+          "score": 5,
+          "max": 10,
+          "reason": "시드니에서 차로 1시간, 대중교통 불편"
+        },
+        "value_for_money": {
+          "score": 8,
+          "max": 10,
+          "reason": "$12 차량 입장료로 호주 두 번째 오래된 국립공원 체험"
+        },
+        "time_efficiency": {
+          "score": 5,
+          "max": 10,
+          "reason": "반나절~종일 소요, 시간 투자 큼"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "호주 두 번째 국립공원, 원주민 암각화 등 문화 유산 독특"
+        }
+      }
+    },
+    {
+      "id": "795b5f58",
+      "name_ko": "아라쿤 국립공원 (트라이얼 베이 교도소)",
+      "region": "사우스웨스트록스/켐시",
+      "total_score": 78.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 5,
+          "max": 10,
+          "reason": "약 294개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "역사적 교도소 유적과 해안 절경의 독특한 조합"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "입장료 필요하나 시설 잘 정비됨"
+        },
+        "value_for_money": {
+          "score": 7,
+          "max": 10,
+          "reason": "$11 입장료로 역사+자연 복합 체험은 합리적"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "90분 소요로 역사와 자연 모두 체험"
+        },
+        "uniqueness": {
+          "score": 9,
+          "max": 10,
+          "reason": "해안가 교도소 유적은 호주 식민지 역사의 독특한 흔적, 캥거루 출몰"
+        }
+      }
+    },
+    {
+      "id": "b39fd373",
+      "name_ko": "시닉월드",
+      "region": "블루마운틴",
+      "total_score": 78.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 9.3,
+          "max": 10,
+          "reason": "4.4점"
+        },
+        "review_count": {
+          "score": 9,
+          "max": 10,
+          "reason": "약 7200개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "가을 단풍 속 스카이웨이 전망과 열대우림 산책 환상적"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "비수기 대기 짧음, 시설 잘 정비됨"
+        },
+        "value_for_money": {
+          "score": 4,
+          "max": 10,
+          "reason": "$62 비싼 입장료, 가격 대비 만족도 논쟁적"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "3시간으로 4개 어트랙션 모두 체험 가능"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "세계 최급경사 레일웨이 등 독특한 어트랙션은 호주 고유"
+        }
+      }
+    },
+    {
+      "id": "40947a39",
+      "name_ko": "무니 비치 자연보호지역",
+      "region": "콥스하버",
+      "total_score": 77.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.8점"
+        },
+        "review_count": {
+          "score": 5,
+          "max": 10,
+          "reason": "약 280개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "한적한 해변과 캥거루 관찰 가능한 자연 경관"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "콥스하버에서 차로 10분, 편의시설 구비"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 캥거루 관찰까지 가능"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "90분 산책으로 적절한 시간"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "해변에서 캥거루를 만나는 호주다운 경험이나 희소성은 중간"
+        }
+      }
+    },
+    {
+      "id": "d3a4be59",
+      "name_ko": "포트맥쿼리 해안 산책로",
+      "region": "포트맥쿼리",
+      "total_score": 77.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.8점"
+        },
+        "review_count": {
+          "score": 4,
+          "max": 10,
+          "reason": "약 133개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "9km 전 구간 잘 정비된 해안 산책로, 다양한 해변 연속 경치"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "4개 구간 선택 가능, 잘 정비되어 있음"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 호주 최고 해안 산책로 중 하나"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "전체 3~4시간 소요로 시간 투자 크나 구간별 선택 가능"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "호주 해안 산책로로서 우수하나 해안 트레일 자체는 보편적"
+        }
+      }
+    },
+    {
+      "id": "9e5bff5c",
+      "name_ko": "오크필드 랜치 낙타 라이드",
+      "region": "뉴캐슬/포트스테판스",
+      "total_score": 77.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 500개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "스톡턴 비치 모래언덕 위 낙타 타기, 배경이 압도적"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "날씨에 따라 취소, 선셋 라이드 예약 필수"
+        },
+        "value_for_money": {
+          "score": 6,
+          "max": 10,
+          "reason": "$45로 20분은 짧게 느껴질 수 있음"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "45분 체험이나 실제 탑승 20분"
+        },
+        "uniqueness": {
+          "score": 9,
+          "max": 10,
+          "reason": "남반구 최대 해안 사구에서 낙타 타기는 한국에서 절대 불가 체험"
+        }
+      }
+    },
+    {
+      "id": "b6b6c774",
+      "name_ko": "콰드 바이크 킹",
+      "region": "뉴캐슬/포트스테판스",
+      "total_score": 77.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 9,
+          "max": 10,
+          "reason": "약 7000개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "모래 사구 위 쿼드바이크 주행 중 해안 경관 인상적"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "사전 예약 필수, 예약/연락 어려울 때 있음"
+        },
+        "value_for_money": {
+          "score": 5,
+          "max": 10,
+          "reason": "$119로 가격 높으나 1.5시간 사파리+4WD 체험 포함"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "105분 체험으로 알찬 구성"
+        },
+        "uniqueness": {
+          "score": 9,
+          "max": 10,
+          "reason": "스톡턴 비치 모래사구에서 쿼드바이크는 한국에서 절대 불가 체험"
+        }
+      }
+    },
+    {
+      "id": "123aac43",
+      "name_ko": "엘렌버러 폭포",
+      "region": "기타",
+      "total_score": 76.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 900개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "NSW 최대 200m 단일 낙차 폭포의 압도적 스케일"
+        },
+        "accessibility": {
+          "score": 5,
+          "max": 10,
+          "reason": "외진 위치, 하부 641계단은 체력 소모 큼"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료이면서 호주 탑10 폭포급 경험 제공"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "상부만 30분이면 되지만 하부까지 포함 시 90분+ 소요"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "200m 단일 낙차는 인상적이나 폭포 경험 자체는 보편적"
+        }
+      }
+    },
+    {
+      "id": "54422111",
+      "name_ko": "태킹 포인트 등대",
+      "region": "포트맥쿼리",
+      "total_score": 76.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 7,
+          "max": 10,
+          "reason": "약 1161개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "해안 전망 좋고 고래 관찰 가능성 있으나 등대 자체는 소박"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "휠체어 접근 가능, 최근 시설 개선"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료, 짧은 시간에 해안 전망과 역사 체험"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "30분이면 충분, 효율적 방문"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "호주 13번째 오래된 등대이나 등대 전망대는 보편적 경험"
+        }
+      }
+    },
+    {
+      "id": "f04313c6",
+      "name_ko": "달링 하버",
+      "region": "시드니",
+      "total_score": 76.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 10,
+          "max": 10,
+          "reason": "약 35000개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "워터프론트 야경은 좋으나 자연 경관보다 도시 경관"
+        },
+        "accessibility": {
+          "score": 10,
+          "max": 10,
+          "reason": "시내 중심, 대중교통 접근 최상, 편의시설 완비"
+        },
+        "value_for_money": {
+          "score": 7,
+          "max": 10,
+          "reason": "무료 접근이나 주변 식당/명소 비쌈"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "2~3시간 산책+식사, 종합 관광지로 효율적"
+        },
+        "uniqueness": {
+          "score": 4,
+          "max": 10,
+          "reason": "도시 워터프론트 관광지는 전 세계 어디나 있는 보편적 경험"
+        }
+      }
+    },
+    {
+      "id": "fd81708b",
+      "name_ko": "타롱가 동물원 시드니",
+      "region": "시드니",
+      "total_score": 76.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 10,
+          "max": 10,
+          "reason": "약 28000개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "시드니 하버 전망이 배경인 동물원, 경치 좋음"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "서큘러키에서 페리 12분, 접근성 우수"
+        },
+        "value_for_money": {
+          "score": 5,
+          "max": 10,
+          "reason": "$51 비싼 입장료, 스카이사파리 중단으로 가치 감소"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "4시간 소요, 대형 동물원으로 시간 투자 큼"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "호주 고유 동물 관람은 독특하나 대형 동물원은 보편적"
+        }
+      }
+    },
+    {
+      "id": "621b0bb4",
+      "name_ko": "바렌조이 등대",
+      "region": "센트럴코스트",
+      "total_score": 75.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 702개 리뷰"
+        },
+        "scenery": {
+          "score": 9,
+          "max": 10,
+          "reason": "360도 파노라마 - 태평양, 핏워터, 쿠링가이 전경 환상적"
+        },
+        "accessibility": {
+          "score": 5,
+          "max": 10,
+          "reason": "1km 가파른 오르막 도보, 차량 접근 불가"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "무료이면서 360도 파노라마 전망 제공"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "등반 포함 2시간 소요, 체력 투자 대비 보상 큼"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "1881년 역사적 등대와 360도 전망은 인상적이나 등대 체험은 보편적"
+        }
+      }
+    },
+    {
+      "id": "b484de1d",
+      "name_ko": "바랑가루 보호지역",
+      "region": "시드니",
+      "total_score": 75.5,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 9,
+          "max": 10,
+          "reason": "약 5200개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "시드니 하버 전망 좋으나 특별히 압도적이진 않음"
+        },
+        "accessibility": {
+          "score": 9,
+          "max": 10,
+          "reason": "시내 중심가 도보 접근 매우 용이"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료, 산책과 피크닉에 좋음"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "1시간 산책이나 특별한 체험보다는 여유로운 시간 보내기"
+        },
+        "uniqueness": {
+          "score": 4,
+          "max": 10,
+          "reason": "잘 조성된 해변 공원이나 호주 고유 경험이라기보다 일반적 도시 공원"
+        }
+      }
+    },
+    {
+      "id": "d7b4e922",
+      "name_ko": "크라우디 헤드 등대",
+      "region": "포스터/해링턴",
+      "total_score": 75.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 395개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "해안 양방향 전망 좋고 역사적 등대 건물 아름다움"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "무료 주차, 접근 용이"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "완전 무료, 고래 관찰 가능성까지"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "30분이면 충분, 효율적"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "등대 전망대 체험은 보편적, 특별한 차별점 부족"
+        }
+      }
+    },
+    {
+      "id": "71c9aea1",
+      "name_ko": "야마 등대 (클래런스 리버 라이트)",
+      "region": "야마/그래프턴",
+      "total_score": 75.0,
+      "grade": "A",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 800개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "해안과 클래런스 강 전망 좋고 한적한 분위기"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "무료 주차, 접근 용이"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "완전 무료, 한적한 분위기의 역사적 등대"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "30분이면 충분, 피크닉 겸하면 더 좋음"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "100년 역사 등대이나 등대 전망대 경험은 보편적"
+        }
+      }
+    },
+    {
+      "id": "0020c012",
+      "name_ko": "포트 스테판스 캥거루 인카운터스",
+      "region": "뉴캐슬/포트스테판스",
+      "total_score": 74.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.9점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 350개 리뷰"
+        },
+        "scenery": {
+          "score": 6,
+          "max": 10,
+          "reason": "골프장 환경이라 대자연은 아니지만 야생 캥거루와 함께하는 독특한 장면"
+        },
+        "accessibility": {
+          "score": 5,
+          "max": 10,
+          "reason": "사전 예약 필수, 소규모 투어라 접근성 제한적"
+        },
+        "value_for_money": {
+          "score": 8,
+          "max": 10,
+          "reason": "$20로 야생 캥거루 체험치고 매우 합리적"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "1시간 투어로 알차게 캥거루 관찰 가능"
+        },
+        "uniqueness": {
+          "score": 9,
+          "max": 10,
+          "reason": "야생 캥거루를 자연 서식지에서 골프카트로 관찰하는 한국 불가 체험"
+        }
+      }
+    },
+    {
+      "id": "523a0b70",
+      "name_ko": "플라이 포인트 다이브 사이트",
+      "region": "뉴캐슬/포트스테판스",
+      "total_score": 74.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 600개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "수중 해양 생태계가 풍부하나 육상 경치는 보통"
+        },
+        "accessibility": {
+          "score": 5,
+          "max": 10,
+          "reason": "장비 별도 준비 필요, 바위 입수 주의, 밀물 때만 최적"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료 스노클링으로 블루 그루퍼, 해마 등 관찰 가능"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "90분 소요, 장비 준비와 조건 맞추기에 시간 소요"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "1983년부터 보호된 해양보호구역 스노클링은 한국에서 쉽게 못하는 체험"
+        }
+      }
+    },
+    {
+      "id": "fff3a505",
+      "name_ko": "블랙버트 자연보호지역",
+      "region": "뉴캐슬/포트스테판스",
+      "total_score": 74.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 4000개 리뷰"
+        },
+        "scenery": {
+          "score": 6,
+          "max": 10,
+          "reason": "산책로 잘 정비되어 있고 자연환경 쾌적"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "뉴캐슬 시내 접근 용이, 182헥타르 넓은 부지"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료 입장으로 코알라, 웜뱃, 왈라비 관람 가능"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "2시간 소요, 동물 관람과 산책 겸하기 적절"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "무료로 호주 토착 동물 관람은 좋으나 규모와 체험 깊이 제한적"
+        }
+      }
+    },
+    {
+      "id": "b7e6c92f",
+      "name_ko": "오스트레일리아 국립 해양 박물관",
+      "region": "시드니",
+      "total_score": 73.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 9.3,
+          "max": 10,
+          "reason": "4.4점"
+        },
+        "review_count": {
+          "score": 9,
+          "max": 10,
+          "reason": "약 8500개 리뷰"
+        },
+        "scenery": {
+          "score": 5,
+          "max": 10,
+          "reason": "수상 함대 외관은 인상적이나 경치 감상용은 아님"
+        },
+        "accessibility": {
+          "score": 9,
+          "max": 10,
+          "reason": "달링하버 중심가, 대중교통 접근 최상"
+        },
+        "value_for_money": {
+          "score": 7,
+          "max": 10,
+          "reason": "상설전시 무료, See It All $35로 잠수함/군함까지 관람"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "2.5시간 소요, 박물관 규모 대비 적절"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "잠수함 HMAS Onslow 내부 탐험 등 호주 해양 역사 체험은 독특"
+        }
+      }
+    },
+    {
+      "id": "a535b048",
+      "name_ko": "디 엔트런스 메모리얼 공원 (펠리컨 피딩)",
+      "region": "센트럴코스트",
+      "total_score": 73.0,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 8.7,
+          "max": 10,
+          "reason": "4.3점"
+        },
+        "review_count": {
+          "score": 7,
+          "max": 10,
+          "reason": "약 1200개 리뷰"
+        },
+        "scenery": {
+          "score": 5,
+          "max": 10,
+          "reason": "대형 펠리컨 군무가 볼만하나 경치 자체는 보통"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "무료 주차 충분, 공원 접근 용이"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "무료로 대형 펠리컨 피딩 관람 가능"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "15:30 피딩 기준 1시간이면 충분"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "대형 펠리컨 무리를 가까이서 보는 건 한국에서 불가능한 체험"
+        }
+      }
+    },
+    {
+      "id": "6c37b64f",
+      "name_ko": "시 에이커스 레인포레스트 센터",
+      "region": "포트맥쿼리",
+      "total_score": 73.0,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 500개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "열대우림 보드워크 산책은 평화롭고 분위기 좋음"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "1.3km 보드워크 잘 정비, 비 와도 이동 편리"
+        },
+        "value_for_money": {
+          "score": 7,
+          "max": 10,
+          "reason": "$10 입장료 적절, 카페 식사 가능"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "45분~1시간으로 효율적 산책"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "열대우림 보드워크는 좋지만 호주 외에도 유사 체험 가능"
+        }
+      }
+    },
+    {
+      "id": "4d611b52",
+      "name_ko": "탬보린 국립공원 (시더 크릭 폭포)",
+      "region": "골드코스트",
+      "total_score": 73.0,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 7,
+          "max": 10,
+          "reason": "약 1800개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "폭포와 록풀 경관 좋으나 5월 수량 줄어들 수 있음"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "500m 짧은 산책로이나 주말 주차 극심하게 부족"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "무료 입장, 록풀 수영까지 가능"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "1시간이면 충분, 짧은 산책으로 폭포 감상"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "록풀 수영 체험은 독특하나 5월 수온 낮아 실제 체험 제한적"
+        }
+      }
+    },
+    {
+      "id": "611a9b90",
+      "name_ko": "베넷츠 헤드 전망대",
+      "region": "포스터/해링턴",
+      "total_score": 72.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 3,
+          "max": 10,
+          "reason": "약 59개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "타스만해 전망 좋고 5월 고래 관찰 가능성"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "휠체어 접근 가능, 주차 무료"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료, 고래 관찰 포인트로 훌륭"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "30분이면 충분, 효율적 방문"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "고래 관찰 전망대이나 유사 전망대 다수 존재"
+        }
+      }
+    },
+    {
+      "id": "368a4e1c",
+      "name_ko": "데이비드 플레이 야생동물 공원",
+      "region": "골드코스트",
+      "total_score": 71.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 8.7,
+          "max": 10,
+          "reason": "4.3점"
+        },
+        "review_count": {
+          "score": 7,
+          "max": 10,
+          "reason": "약 1200개 리뷰"
+        },
+        "scenery": {
+          "score": 5,
+          "max": 10,
+          "reason": "야생동물 공원이라 경치보다는 동물 체험 중심"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "골드코스트 접근 용이, 시설 노후하나 관람 동선 양호"
+        },
+        "value_for_money": {
+          "score": 8,
+          "max": 10,
+          "reason": "$21.50으로 오리너구리, 화식조 등 희귀 동물 관람은 가성비 좋음"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "2시간 체류로 알찬 동물 체험 가능"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "골드코스트 유일 오리너구리 관람, 화식조/나무캥거루 등 희귀종은 호주 고유"
+        }
+      }
+    },
+    {
+      "id": "14d198ac",
+      "name_ko": "보암비 헤드랜드 전망대",
+      "region": "콥스하버",
+      "total_score": 71.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 5,
+          "max": 10,
+          "reason": "약 220개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "양방향 해안 전망 좋으나 특별히 압도적이진 않음"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "잘 정비된 산책로, 적당한 거리"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료, 잘 정비된 산책로와 전망대"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "30분~1시간 산책으로 적절한 체험"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "호주 해안 전망대 중 특별히 차별화되지 않는 일반적 코스"
+        }
+      }
+    },
+    {
+      "id": "58a28bc3",
+      "name_ko": "노라 헤드 등대",
+      "region": "센트럴코스트",
+      "total_score": 71.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 450개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "헤드랜드 바다 전망 좋고 등대 자체 아름다움"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "96개 계단이나 4단계로 나뉘어 관리 가능"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "$6 매우 저렴한 가이드 투어, 높은 만족도"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "1시간이면 등대 투어+전망 감상 충분"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "등대 투어는 좋지만 호주 고유라 하기엔 보편적 체험"
+        }
+      }
+    },
+    {
+      "id": "640b85a3",
+      "name_ko": "부디 국립공원 - 메이틀랜드 베이 트랙",
+      "region": "센트럴코스트",
+      "total_score": 71.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 5,
+          "max": 10,
+          "reason": "약 314개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "숨겨진 해변으로 내려가는 매력적 트랙, 보드워크 잘 정비"
+        },
+        "accessibility": {
+          "score": 5,
+          "max": 10,
+          "reason": "올라오는 길 가파르고 체력 소모, 모기 많음"
+        },
+        "value_for_money": {
+          "score": 8,
+          "max": 10,
+          "reason": "$8 차량입장료로 숨겨진 해변 체험은 합리적"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "90분 소요, 오르막 복귀가 부담"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "숨겨진 해변 발견의 매력이 있으나 해변 자체는 보편적"
+        }
+      }
+    },
+    {
+      "id": "642731d5",
+      "name_ko": "코알라 보존 병원 포트맥쿼리",
+      "region": "포트맥쿼리",
+      "total_score": 71.0,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 3500개 리뷰"
+        },
+        "scenery": {
+          "score": 3,
+          "max": 10,
+          "reason": "병원 시설이라 경치보다 교육적 체험 중심"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "원래 위치 폐쇄, Guulabaa로 이전하여 혼란 가능"
+        },
+        "value_for_money": {
+          "score": 8,
+          "max": 10,
+          "reason": "$12.50으로 호주 최초 코알라 병원 체험은 가성비 좋음"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "1시간이면 충분, 효율적 교육 체험"
+        },
+        "uniqueness": {
+          "score": 9,
+          "max": 10,
+          "reason": "호주 최초 코알라 전문 병원, 보존 활동 직접 관찰은 한국 불가 체험"
+        }
+      }
+    },
+    {
+      "id": "dec35b06",
+      "name_ko": "브리즈번 워터 국립공원 - 불간드리 원주민 암각화",
+      "region": "센트럴코스트",
+      "total_score": 70.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 5,
+          "max": 10,
+          "reason": "약 384개 리뷰"
+        },
+        "scenery": {
+          "score": 5,
+          "max": 10,
+          "reason": "원주민 암각화 자체는 문화적 가치 높으나 주변 경치는 보통"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "290m 평탄한 산책로, 휠체어 접근 가능"
+        },
+        "value_for_money": {
+          "score": 8,
+          "max": 10,
+          "reason": "$8 차량입장료로 200년+ 원주민 암각화 관람"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "90분 소요, 암각화만 보면 30분이면 충분"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "200년+ 원주민 암각화를 가까이서 보는 건 호주에서만 가능한 문화 체험"
+        }
+      }
+    },
+    {
+      "id": "904331b4",
+      "name_ko": "팜 비치 록풀",
+      "region": "센트럴코스트",
+      "total_score": 69.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 9.3,
+          "max": 10,
+          "reason": "4.4점"
+        },
+        "review_count": {
+          "score": 5,
+          "max": 10,
+          "reason": "약 250개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "바렌조이 헤드랜드 배경의 록풀, 해식 암석 패턴이 독특"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "탈의실/화장실 완비, 주차 유료"
+        },
+        "value_for_money": {
+          "score": 8,
+          "max": 10,
+          "reason": "무료, 자연 록풀 체험 가능"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "45분 소요이나 5월 수영 불가로 볼거리 제한"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "자연 록풀은 호주 해안 문화이나 5월 수영 불가로 체험 감소"
+        }
+      }
+    },
+    {
+      "id": "38c0546f",
+      "name_ko": "이루칸지 샤크 & 레이 인카운터스",
+      "region": "뉴캐슬/포트스테판스",
+      "total_score": 69.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 7,
+          "max": 10,
+          "reason": "약 1500개 리뷰"
+        },
+        "scenery": {
+          "score": 4,
+          "max": 10,
+          "reason": "실내 아쿠아리움이라 자연 경치와는 무관"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "실내 시설로 날씨 무관, 주차 공간 다소 제한"
+        },
+        "value_for_money": {
+          "score": 6,
+          "max": 10,
+          "reason": "$41 기본 입장 + 추가 체험 별도로 비용 쌓일 수 있음"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "2시간으로 알찬 체험 가능"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "상어/가오리 직접 만지고 먹이주기는 한국에서 쉽게 할 수 없는 체험"
+        }
+      }
+    },
+    {
+      "id": "669a240e",
+      "name_ko": "코알라 병원 (매쿼리 자연보호구역)",
+      "region": "포트맥쿼리",
+      "total_score": 69.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.6점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 3500개 리뷰"
+        },
+        "scenery": {
+          "score": 3,
+          "max": 10,
+          "reason": "병원/보호시설로 경치보다 교육 체험 중심"
+        },
+        "accessibility": {
+          "score": 5,
+          "max": 10,
+          "reason": "원래 위치 폐쇄, Guulabaa 임시 이전으로 접근 혼란"
+        },
+        "value_for_money": {
+          "score": 8,
+          "max": 10,
+          "reason": "$12.50으로 코알라 보존 활동 관찰, 합리적 가격"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "1시간 소요, 효율적 체험"
+        },
+        "uniqueness": {
+          "score": 9,
+          "max": 10,
+          "reason": "부상 코알라 치료 과정 관찰은 한국에서 절대 불가능한 체험"
+        }
+      }
+    },
+    {
+      "id": "b8c93251",
+      "name_ko": "오스트레일리안 보태닉 가든 마운트 아난",
+      "region": "기타",
+      "total_score": 69.0,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 3000개 리뷰"
+        },
+        "scenery": {
+          "score": 6,
+          "max": 10,
+          "reason": "416헥타르 규모이나 식물원 경치로서 특별히 압도적이진 않음"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "시드니 도심에서 먼 위치, 원내 넓어 도보 한계"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료 입장, 넓은 자연 공간"
+        },
+        "time_efficiency": {
+          "score": 5,
+          "max": 10,
+          "reason": "2.5시간 소요, 시간 투자 대비 특별한 체험 부족"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "호주 자생 식물 4000종은 교육적이나 여행자에게 임팩트 낮음"
+        }
+      }
+    },
+    {
+      "id": "dc92c808",
+      "name_ko": "노스 헤이븐 방파제",
+      "region": "포트맥쿼리",
+      "total_score": 68.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 3,
+          "max": 10,
+          "reason": "약 72개 리뷰"
+        },
+        "scenery": {
+          "score": 6,
+          "max": 10,
+          "reason": "산책로 깔끔, 펠리컨/돌고래 관찰 가능하나 특별한 경치는 아님"
+        },
+        "accessibility": {
+          "score": 9,
+          "max": 10,
+          "reason": "새로 포장된 산책로, 휠체어 접근, BBQ/화장실 완비"
+        },
+        "value_for_money": {
+          "score": 10,
+          "max": 10,
+          "reason": "무료, 편의시설 잘 갖춰진 해안 산책"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "45분 산책으로 적절"
+        },
+        "uniqueness": {
+          "score": 4,
+          "max": 10,
+          "reason": "방파제 산책은 어디서든 할 수 있는 보편적 체험"
+        }
+      }
+    },
+    {
+      "id": "c62c960b",
+      "name_ko": "포트맥쿼리 낙타 사파리",
+      "region": "포트맥쿼리",
+      "total_score": 68.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.8점"
+        },
+        "review_count": {
+          "score": 3,
+          "max": 10,
+          "reason": "약 66개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "해변에서의 낙타 탑승, 해안 배경 사진 좋음"
+        },
+        "accessibility": {
+          "score": 5,
+          "max": 10,
+          "reason": "예약 불가 선착순, 대기시간 불확실, 현금/EFTPOS만"
+        },
+        "value_for_money": {
+          "score": 7,
+          "max": 10,
+          "reason": "$40로 합리적이나 선착순으로 놓칠 위험"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "1시간 소요이나 대기 포함 시 길어질 수 있음"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "해변 낙타 탑승은 한국 불가 체험, 포토스팟으로 좋음"
+        }
+      }
+    },
+    {
+      "id": "d5fa343f",
+      "name_ko": "우룬가 웨트랜즈 보드워크",
+      "region": "콥스하버",
+      "total_score": 68.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 4,
+          "max": 10,
+          "reason": "약 120개 리뷰"
+        },
+        "scenery": {
+          "score": 6,
+          "max": 10,
+          "reason": "수련과 페이퍼바크 나무 숲 분위기 좋으나 규모 작음"
+        },
+        "accessibility": {
+          "score": 9,
+          "max": 10,
+          "reason": "평탄한 지형, 휠체어 접근 가능, 쉬운 코스"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "무료, 짧은 산책으로 습지 체험"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "30분이면 충분, 빠른 체험"
+        },
+        "uniqueness": {
+          "score": 4,
+          "max": 10,
+          "reason": "습지 보드워크는 한국에서도 유사 체험 가능, 차별성 낮음"
+        }
+      }
+    },
+    {
+      "id": "edbb0857",
+      "name_ko": "리틀 베이 피크닉 에어리어",
+      "region": "사우스웨스트록스/켐시",
+      "total_score": 68.0,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 4,
+          "max": 10,
+          "reason": "약 105개 리뷰"
+        },
+        "scenery": {
+          "score": 6,
+          "max": 10,
+          "reason": "캥거루 출몰하는 피크닉 에어리어, 시설 잘 정비됨"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "장애인 접근성 부족하나 BBQ/피크닉 시설 우수"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "무료, 전기BBQ와 피크닉 쉘터 완비"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "1시간 피크닉으로 적절"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "캥거루와 함께 피크닉은 호주다운 체험이나 피크닉 자체는 보편적"
+        }
+      }
+    },
+    {
+      "id": "5808639b",
+      "name_ko": "지그재그 레일웨이",
+      "region": "블루마운틴",
+      "total_score": 67.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 8.7,
+          "max": 10,
+          "reason": "4.3점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 800개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "블루마운틴 가을 단풍 속 증기기관차 풍경 로맨틱"
+        },
+        "accessibility": {
+          "score": 5,
+          "max": 10,
+          "reason": "격주 운행, 온라인 사전 예매 필수, 자주 매진"
+        },
+        "value_for_money": {
+          "score": 5,
+          "max": 10,
+          "reason": "$46.50으로 1.5시간 증기기관차 체험, 가격 적절"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "1.5시간 왕복이나 운행일 맞추기 어려워 일정 제약"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "역사적 증기기관차 체험은 한국에서 쉽게 못하는 독특한 경험"
+        }
+      }
+    },
+    {
+      "id": "5dc8e4b0",
+      "name_ko": "오스트레일리안 렙타일 파크 (호주 파충류 공원)",
+      "region": "센트럴코스트",
+      "total_score": 66.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 9.3,
+          "max": 10,
+          "reason": "4.4점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 3500개 리뷰"
+        },
+        "scenery": {
+          "score": 4,
+          "max": 10,
+          "reason": "동물원이라 자연 경치보다 동물 체험 중심"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "센트럴코스트 위치, 실내 전시 있어 날씨 무관"
+        },
+        "value_for_money": {
+          "score": 6,
+          "max": 10,
+          "reason": "$54.99 다소 비싸지만 핸즈온 체험 풍부"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "3.5시간 소요, 시간 투자 대비 체험은 알찬 편"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "코알라 만지기, 독사 시연 등 호주 고유 동물 체험이나 동물원은 보편적"
+        }
+      }
+    },
+    {
+      "id": "98c09a51",
+      "name_ko": "워크어바웃 와일드라이프 보호구역",
+      "region": "센트럴코스트",
+      "total_score": 66.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 5,
+          "max": 10,
+          "reason": "약 305개 리뷰"
+        },
+        "scenery": {
+          "score": 5,
+          "max": 10,
+          "reason": "80에이커 자연 서식지이나 대형 동물원 기대 시 실망"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "센트럴코스트 위치, 야외 산책 중심"
+        },
+        "value_for_money": {
+          "score": 6,
+          "max": 10,
+          "reason": "$33 입장료, 규모 대비 다소 비쌈"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "반나절 소요, 레인저 토크에 맞춰야 최적"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "자연 서식지에서 자유롭게 다니는 동물 관찰은 호주다운 체험"
+        }
+      }
+    },
+    {
+      "id": "e64dcb8e",
+      "name_ko": "가이 포크스 리버 국립공원",
+      "region": "기타",
+      "total_score": 66.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 9.3,
+          "max": 10,
+          "reason": "4.4점"
+        },
+        "review_count": {
+          "score": 5,
+          "max": 10,
+          "reason": "약 300개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "루시퍼스 썸 180도 협곡 뷰, 야생 자연경관 인상적"
+        },
+        "accessibility": {
+          "score": 3,
+          "max": 10,
+          "reason": "4WD 권장, 시설 제한, 휴대폰 불통, 외진 위치"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "무료이나 접근에 드는 시간과 노력 대비"
+        },
+        "time_efficiency": {
+          "score": 4,
+          "max": 10,
+          "reason": "3시간+ 소요, 접근 시간까지 하면 반나절 이상"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "야생 그대로의 협곡은 독특하나 접근성이 극히 떨어짐"
+        }
+      }
+    },
+    {
+      "id": "367b080f",
+      "name_ko": "펠리칸 포쇼어 파크",
+      "region": "뉴캐슬/포트스테판스",
+      "total_score": 66.0,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 6,
+          "max": 10,
+          "reason": "약 800개 리뷰"
+        },
+        "scenery": {
+          "score": 6,
+          "max": 10,
+          "reason": "호숫가 경치 좋으나 특별히 압도적이진 않음"
+        },
+        "accessibility": {
+          "score": 8,
+          "max": 10,
+          "reason": "주차 편리, 시설 잘 정비됨"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "무료, BBQ/피크닉 시설 완비"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "1시간 산책으로 적절하나 특별한 체험은 부족"
+        },
+        "uniqueness": {
+          "score": 3,
+          "max": 10,
+          "reason": "어디서든 볼 수 있는 평범한 호수공원, 한국 공원과 큰 차이 없음"
+        }
+      }
+    },
+    {
+      "id": "6ad0213c",
+      "name_ko": "다크 포인트 워킹 트랙",
+      "region": "뉴캐슬/포트스테판스",
+      "total_score": 66.0,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 9.3,
+          "max": 10,
+          "reason": "4.4점"
+        },
+        "review_count": {
+          "score": 2,
+          "max": 10,
+          "reason": "약 26개 리뷰"
+        },
+        "scenery": {
+          "score": 6,
+          "max": 10,
+          "reason": "모래 언덕과 해안, 브로턴 섬 조망 나쁘지 않음"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "표지판 부족, 야간 귀환 어려움, 편의시설 없음"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "무료, 원주민 문화 유적지 체험"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "왕복 2.4km 30~60분으로 적절"
+        },
+        "uniqueness": {
+          "score": 7,
+          "max": 10,
+          "reason": "워리미 원주민 문화 유적지로서의 역사적 의미는 독특"
+        }
+      }
+    },
+    {
+      "id": "3e54b21c",
+      "name_ko": "루나 파크 시드니",
+      "region": "시드니",
+      "total_score": 65.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 6.7,
+          "max": 10,
+          "reason": "4.0점"
+        },
+        "review_count": {
+          "score": 10,
+          "max": 10,
+          "reason": "약 12000개 리뷰"
+        },
+        "scenery": {
+          "score": 6,
+          "max": 10,
+          "reason": "하버브리지 아래 위치로 배경 사진은 좋으나 시설 자체 경관은 보통"
+        },
+        "accessibility": {
+          "score": 9,
+          "max": 10,
+          "reason": "시내 중심 위치, 대중교통 접근 매우 용이"
+        },
+        "value_for_money": {
+          "score": 5,
+          "max": 10,
+          "reason": "입장 무료이나 놀이기구 패스 $25~45, 시설 노후 대비 비쌈"
+        },
+        "time_efficiency": {
+          "score": 5,
+          "max": 10,
+          "reason": "비수기 운영일 제한적, 시간 대비 특별한 체험 부족"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "시드니 하버브리지 배경 놀이공원 사진은 독특하나 놀이기구 자체는 평범"
+        }
+      }
+    },
+    {
+      "id": "a5b06982",
+      "name_ko": "해링턴 비치 주립공원",
+      "region": "포스터/해링턴",
+      "total_score": 64.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 4,
+          "max": 10,
+          "reason": "약 100개 리뷰"
+        },
+        "scenery": {
+          "score": 7,
+          "max": 10,
+          "reason": "해안과 매닝강 어귀 풍경 좋으나 특별히 압도적이진 않음"
+        },
+        "accessibility": {
+          "score": 5,
+          "max": 10,
+          "reason": "비포장 도로 구간 있고 입장료 필요"
+        },
+        "value_for_money": {
+          "score": 8,
+          "max": 10,
+          "reason": "입장료 있으나 431헥타르 넓은 자연 공간"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "90분 소요, 볼거리 대비 적절"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "해안 주립공원은 보편적 경험, 특별한 차별점 부족"
+        }
+      }
+    },
+    {
+      "id": "59520c4f",
+      "name_ko": "빅 바나나 펀 파크",
+      "region": "콥스하버",
+      "total_score": 63.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 8.7,
+          "max": 10,
+          "reason": "4.3점"
+        },
+        "review_count": {
+          "score": 9,
+          "max": 10,
+          "reason": "약 6800개 리뷰"
+        },
+        "scenery": {
+          "score": 4,
+          "max": 10,
+          "reason": "놀이시설 중심이라 자연 경치와 무관"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "콥스하버 위치, 주차 무료, 접근 용이"
+        },
+        "value_for_money": {
+          "score": 5,
+          "max": 10,
+          "reason": "무료 입장이나 어트랙션별 비용 높음, 콤보패스 $52"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "3시간 소요로 시간 투자 큼"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "호주 Big Things 중 하나이고 다양한 시설이나 놀이공원 자체는 보편적"
+        }
+      }
+    },
+    {
+      "id": "fa50dcb3",
+      "name_ko": "백 크릭 다리",
+      "region": "사우스웨스트록스/켐시",
+      "total_score": 63.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 3,
+          "max": 10,
+          "reason": "약 80개 리뷰"
+        },
+        "scenery": {
+          "score": 5,
+          "max": 10,
+          "reason": "맹그로브 숲과 다리 경관 나쁘지 않으나 평범"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "접근 용이, 가족 친화적"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "무료, 맹그로브 산책과 수영 체험"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "45분 소요, 적절한 시간"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "맹그로브 산책은 호주다운 체험이나 독보적이진 않음"
+        }
+      }
+    },
+    {
+      "id": "6b8f267d",
+      "name_ko": "헌터 밸리 와일드라이프 파크",
+      "region": "뉴캐슬/포트스테판스",
+      "total_score": 61.0,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 8.7,
+          "max": 10,
+          "reason": "4.3점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 2686개 리뷰"
+        },
+        "scenery": {
+          "score": 4,
+          "max": 10,
+          "reason": "동물원이라 자연 경치보다 동물 체험 중심"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "헌터밸리 위치로 도심에서 거리 있음"
+        },
+        "value_for_money": {
+          "score": 5,
+          "max": 10,
+          "reason": "$49 입장료가 높은 편, 동물원 규모 대비 비쌈"
+        },
+        "time_efficiency": {
+          "score": 6,
+          "max": 10,
+          "reason": "2.5시간 소요, 적절한 체험량"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "캥거루 먹이주기/코알라 사진은 호주 동물원 공통 체험"
+        }
+      }
+    },
+    {
+      "id": "36dc1295",
+      "name_ko": "제놀란 케이브즈 (제놀란 동굴)",
+      "region": "블루마운틴",
+      "total_score": 60.5,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 8,
+          "max": 10,
+          "reason": "약 4000개 리뷰"
+        },
+        "scenery": {
+          "score": 8,
+          "max": 10,
+          "reason": "석회암 동굴 자체는 세계적 수준이나 현재 폐쇄 중"
+        },
+        "accessibility": {
+          "score": 1,
+          "max": 10,
+          "reason": "2024년 홍수로 폐쇄, 2026년 5월 방문 불가능할 가능성 매우 높음"
+        },
+        "value_for_money": {
+          "score": 3,
+          "max": 10,
+          "reason": "방문 자체가 불가능할 가능성이 높아 가치 평가 어려움"
+        },
+        "time_efficiency": {
+          "score": 1,
+          "max": 10,
+          "reason": "폐쇄 상태로 시간 낭비 위험"
+        },
+        "uniqueness": {
+          "score": 8,
+          "max": 10,
+          "reason": "호주 최고의 석회암 동굴이나 현재 폐쇄 중으로 체험 불가"
+        }
+      }
+    },
+    {
+      "id": "d2936dd7",
+      "name_ko": "빅 코알라 - 모든 코알라의 영혼",
+      "region": "포트맥쿼리",
+      "total_score": 60.0,
+      "grade": "B",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.5점"
+        },
+        "review_count": {
+          "score": 3,
+          "max": 10,
+          "reason": "약 50개 리뷰"
+        },
+        "scenery": {
+          "score": 3,
+          "max": 10,
+          "reason": "2.5m 코알라 조각품 외 특별한 경치 없음"
+        },
+        "accessibility": {
+          "score": 6,
+          "max": 10,
+          "reason": "시내에서 다소 떨어져 있으나 Guulabaa 방문 시 연계 가능"
+        },
+        "value_for_money": {
+          "score": 9,
+          "max": 10,
+          "reason": "무료, 포토스팟으로 잠깐 들르기 좋음"
+        },
+        "time_efficiency": {
+          "score": 8,
+          "max": 10,
+          "reason": "20분이면 충분, 매우 효율적"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "Hello Koalas 조각 트레일의 일부로 독특하나 깊이 있는 체험은 아님"
+        }
+      }
+    },
+    {
+      "id": "7ac4516b",
+      "name_ko": "울리 방파제",
+      "region": "야마/그래프턴",
+      "total_score": 57.0,
+      "grade": "C",
+      "breakdown": {
+        "google_rating": {
+          "score": 8.7,
+          "max": 10,
+          "reason": "4.3점"
+        },
+        "review_count": {
+          "score": 5,
+          "max": 10,
+          "reason": "약 200개 리뷰"
+        },
+        "scenery": {
+          "score": 5,
+          "max": 10,
+          "reason": "강과 바다 합류점 지형은 독특하나 경치 자체는 평범"
+        },
+        "accessibility": {
+          "score": 4,
+          "max": 10,
+          "reason": "외진 위치, 편의시설 최소한, 관광 인프라 부족"
+        },
+        "value_for_money": {
+          "score": 8,
+          "max": 10,
+          "reason": "무료, 낚시 체험 가능"
+        },
+        "time_efficiency": {
+          "score": 5,
+          "max": 10,
+          "reason": "2시간 소요, 낚시 아니면 할 게 별로 없음"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "한적한 어촌 분위기는 좋으나 특별히 호주 고유라 할 수 없음"
+        }
+      }
+    },
+    {
+      "id": "23d43404",
+      "name_ko": "빅 프론 (거대 새우 조형물)",
+      "region": "바이런베이",
+      "total_score": 56.5,
+      "grade": "C",
+      "breakdown": {
+        "google_rating": {
+          "score": 5.3,
+          "max": 10,
+          "reason": "3.8점"
+        },
+        "review_count": {
+          "score": 7,
+          "max": 10,
+          "reason": "약 1500개 리뷰"
+        },
+        "scenery": {
+          "score": 2,
+          "max": 10,
+          "reason": "거대 새우 조형물 외 경치 볼거리 없음"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "도로변 위치로 접근 용이, 번닝스 주차장 이용"
+        },
+        "value_for_money": {
+          "score": 8,
+          "max": 10,
+          "reason": "무료, 이동 중 잠깐 들르기 적합"
+        },
+        "time_efficiency": {
+          "score": 7,
+          "max": 10,
+          "reason": "5~10분이면 사진 찍고 출발, 매우 효율적"
+        },
+        "uniqueness": {
+          "score": 6,
+          "max": 10,
+          "reason": "호주 Big Things 문화의 일부로 독특하나 깊이 있는 체험은 아님"
+        }
+      }
+    },
+    {
+      "id": "551ff6a1",
+      "name_ko": "우룬가 보드워크",
+      "region": "콥스하버",
+      "total_score": 54.5,
+      "grade": "C",
+      "breakdown": {
+        "google_rating": {
+          "score": 10.0,
+          "max": 10,
+          "reason": "4.7점"
+        },
+        "review_count": {
+          "score": 7,
+          "max": 10,
+          "reason": "약 1849개 리뷰"
+        },
+        "scenery": {
+          "score": 6,
+          "max": 10,
+          "reason": "강변 경관 나쁘지 않으나 2026년 5월 공사 중일 가능성 높음"
+        },
+        "accessibility": {
+          "score": 3,
+          "max": 10,
+          "reason": "대부분 구간 공사 폐쇄 가능성으로 접근 제한"
+        },
+        "value_for_money": {
+          "score": 5,
+          "max": 10,
+          "reason": "무료이나 공사 중이면 체험 자체가 불가"
+        },
+        "time_efficiency": {
+          "score": 3,
+          "max": 10,
+          "reason": "공사 중이면 시간 낭비, 사전 확인 필수"
+        },
+        "uniqueness": {
+          "score": 4,
+          "max": 10,
+          "reason": "보드워크 자체는 보편적 경험, 공사로 체험 불가 위험"
+        }
+      }
+    },
+    {
+      "id": "8072c908",
+      "name_ko": "토보건 힐 파크",
+      "region": "뉴캐슬/포트스테판스",
+      "total_score": 52.5,
+      "grade": "C",
+      "breakdown": {
+        "google_rating": {
+          "score": 5.3,
+          "max": 10,
+          "reason": "3.8점"
+        },
+        "review_count": {
+          "score": 7,
+          "max": 10,
+          "reason": "약 1200개 리뷰"
+        },
+        "scenery": {
+          "score": 4,
+          "max": 10,
+          "reason": "자연 숲 속 위치이나 놀이시설이라 경치 감상과 무관"
+        },
+        "accessibility": {
+          "score": 7,
+          "max": 10,
+          "reason": "접근 용이, 주차 가능"
+        },
+        "value_for_money": {
+          "score": 4,
+          "max": 10,
+          "reason": "라이드별 별도 요금으로 비용 빠르게 쌓임"
+        },
+        "time_efficiency": {
+          "score": 5,
+          "max": 10,
+          "reason": "주말 대기시간 1~3시간으로 효율 낮음"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "토보건 라이드는 한국에도 유사 시설 많아 차별성 낮음"
+        }
+      }
+    },
+    {
+      "id": "01915bd7",
+      "name_ko": "포트맥쿼리 천문대",
+      "region": "포트맥쿼리",
+      "total_score": 45.5,
+      "grade": "C",
+      "breakdown": {
+        "google_rating": {
+          "score": 6.0,
+          "max": 10,
+          "reason": "3.9점"
+        },
+        "review_count": {
+          "score": 3,
+          "max": 10,
+          "reason": "약 72개 리뷰"
+        },
+        "scenery": {
+          "score": 3,
+          "max": 10,
+          "reason": "천문대 자체는 경치와 무관, 별 관측이 주목적"
+        },
+        "accessibility": {
+          "score": 5,
+          "max": 10,
+          "reason": "포트맥쿼리 시내에서 접근 가능하나 야간 방문 필요"
+        },
+        "value_for_money": {
+          "score": 5,
+          "max": 10,
+          "reason": "$35 비용 대비 리뷰 반응 혼재"
+        },
+        "time_efficiency": {
+          "score": 5,
+          "max": 10,
+          "reason": "90분 프로그램이나 기대 대비 아쉬울 수 있음"
+        },
+        "uniqueness": {
+          "score": 5,
+          "max": 10,
+          "reason": "남반구 별자리 관측은 독특하나 시설 수준이 특출나지 않음"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "05bd5b67",
+  "name": "Ebor Falls",
+  "name_ko": "에보르 폭포",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Ebor Falls, Ebor Walking Track, Ebor NSW 2453 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 152.342579,
+      "lat": -30.403344999999998
+    },
+    "address": "Ebor Falls, Waterfall Way, Ebor NSW 2453, Australia",
+    "region": "기타"
+  },
+  "collected_data": {
+    "rating": 4.6,
+    "total_reviews": 1500,
+    "price_level": null,
+    "opening_hours": "24시간 개방 (일출~일몰 권장)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "100m 높이 2단 폭포의 장엄한 경관",
+          "2024년 완료된 550만 달러 리뉴얼로 최신 전망대",
+          "360m 루프 워크로 유모차/휠체어 접근 가능"
+        ],
+        "negative": [
+          "아미데일에서 차로 거리 소요",
+          "간이 화장실 외 편의시설 제한적"
+        ],
+        "seasonal_notes": "5월은 여름 우기 이후 수량이 풍부한 시기로 폭포 감상 최적. 뉴잉글랜드 고원 지역이라 기온 낮으므로 방한 준비."
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "캔틸레버 전망대에서 4개 뷰포인트 제공",
+          "모든 체력 수준에 적합한 쉬운 산책",
+          "무료 주차 및 피크닉 시설"
+        ],
+        "negative": [
+          "워터폴 웨이 도로 일부 구간 험함",
+          "겨울철 안개/이슬로 시야 제한 가능"
+        ],
+        "status_notes": "2024년 5월 리뉴얼 완료, 정상 운영 중"
+      },
+      "tips": [
+        "상부/하부 폭포 전망대 모두 방문 추천",
+        "2km 왕복 코스로 6개 전망대 탐방 가능",
+        "가이 포크스 리버 국립공원과 연계 방문 추천",
+        "방한복 필수 (고원 지역)"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 45,
+    "cost_aud": 0,
+    "best_time": "오전 (빛 좋은 시간)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ebor+Falls,+Ebor+NSW"
+}

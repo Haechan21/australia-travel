@@ -1,0 +1,68 @@
+{
+  "id": "fdef9085",
+  "name": "Katoomba Falls",
+  "name_ko": "카툼바 폭포",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "Katoomba Falls, Blue Mountains Tourist Park, Katoomba NSW 2780 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 150.30431,
+      "lat": -33.727691199999995
+    },
+    "address": "Katoomba Falls Reserve, Katoomba NSW 2780, Australia",
+    "region": "블루마운틴"
+  },
+  "collected_data": {
+    "rating": 4.7,
+    "total_reviews": 3412,
+    "price_level": null,
+    "opening_hours": "24시간 개방 / 야간조명: 일몰~22:30 (투광등), ~23:00 (보행등)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "5월 일몰 이후 야간 조명 산책 분위기 최고",
+          "가을 저녁 서늘한 공기 속 조명 산책 로맨틱"
+        ],
+        "negative": [
+          "폭포 수량이 많지 않을 수 있음",
+          "야간 일부 조명 구간 고장 가능"
+        ],
+        "seasonal_notes": "5월은 해가 일찍 져서 야간 조명 산책을 일찍 즐길 수 있음"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "400개 이상 LED로 조명된 야간 산책로",
+          "쓰리시스터스, Orphan Rock, Witches Leap 야간 조망",
+          "1.3km 안전한 보드워크",
+          "무료 관람",
+          "15분 쉬운 산책"
+        ],
+        "negative": [
+          "폭포 자체는 대부분 수량이 적어 볼거리 부족할 수 있음",
+          "일부 조명 구간 우천 후 작동 안 될 수 있음"
+        ],
+        "status_notes": "정상 운영. 일부 조명 구간 우천 영향으로 부분 점검 중"
+      },
+      "tips": [
+        "야간 조명 산책(Night-lit Walk) 꼭 체험 추천",
+        "일몰 후 방문이 가장 분위기 좋음",
+        "폭포 전망대까지 도보 15분",
+        "Orphan Rock과 Witches Leap도 함께 감상"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 40,
+    "cost_aud": 0,
+    "best_time": "일몰 직후 (야간 조명 산책)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Katoomba+Falls&query_place_id=ChIJQU5GAahuEmsRN8UlPwUm3SY"
+}

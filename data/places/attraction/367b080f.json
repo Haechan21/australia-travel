@@ -1,0 +1,65 @@
+{
+  "id": "367b080f",
+  "name": "Pelican Foreshore Park",
+  "name_ko": "펠리칸 포쇼어 파크",
+  "category": "attraction",
+  "source_file": "2026-03-11.json",
+  "address_raw": "펠리칸 포쇼어 Lakeview Parade, Pelican NSW 2281 오스트레일리아",
+  "location": {
+    "coordinates": {
+      "lng": 151.64247079999998,
+      "lat": -33.0704154
+    },
+    "address": "Lakeview Parade, Pelican NSW 2281, Australia",
+    "region": "뉴캐슬/포트스테판스"
+  },
+  "collected_data": {
+    "rating": 4.5,
+    "total_reviews": 800,
+    "price_level": null,
+    "opening_hours": "24시간 개방 (공원)",
+    "review_summary": {
+      "same_month_last_year": {
+        "period": "2025-05",
+        "count": null,
+        "positive": [
+          "레이크 맥쿼리 호숫가의 아름다운 경치",
+          "어린이 놀이터가 잘 정비되어 있음",
+          "BBQ 시설과 피크닉 공간 우수"
+        ],
+        "negative": [
+          "수영 시 조류가 강해질 수 있어 주의 필요",
+          "주차 공간이 성수기에 부족할 수 있음"
+        ],
+        "seasonal_notes": "5월은 가을로 날씨가 선선하여 피크닉과 산책에 적합, 수영은 다소 쌀쌀할 수 있음"
+      },
+      "recent_6_months": {
+        "period": "2025-09 ~ 2026-03",
+        "count": null,
+        "positive": [
+          "깨끗하게 관리되는 공원",
+          "가족 단위 방문에 최적",
+          "무료 BBQ 시설 이용 가능"
+        ],
+        "negative": [
+          "화장실 시설 개선 필요 의견 있음"
+        ],
+        "status_notes": "정상 운영 중"
+      },
+      "tips": [
+        "어린 아이가 있다면 울타리가 있는 놀이터 구역 추천",
+        "호수 수영 시 수심이 갑자기 깊어지는 구간 주의",
+        "무료 주차 가능하나 주말에는 일찍 도착 권장"
+      ]
+    },
+    "collected_at": "2026-03-12T00:00:00Z"
+  },
+  "metadata": {
+    "estimated_visit_duration_min": 60,
+    "cost_aud": 0,
+    "best_time": "오전~오후 (피크닉/산책)",
+    "weather_dependent": true,
+    "reservation_required": false
+  },
+  "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pelican+Foreshore+Park,+Lakeview+Parade,+Pelican+NSW+2281&query_place_id=ChIJQVbLjrcjc2sRy3n8pQKZa4Q"
+}
