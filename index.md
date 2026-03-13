@@ -11,10 +11,10 @@ layout: default
 <br/>
 
 <div align="center" class="cta-links">
-<a href="ITINERARY.html" class="btn">확정 일정</a>
+<a href="docs/ITINERARY.html" class="btn">확정 일정</a>
 <a href="rankings.html" class="btn">관광지 랭킹</a>
 <a href="routes.html" class="btn">루트 비교</a>
-<a href="META.html" class="btn">여행 개요</a>
+<a href="docs/META.html" class="btn">여행 개요</a>
 </div>
 
 <br/>
