@@ -552,8 +552,363 @@
   }
 }
 
-// Mobile
+// ── Routes map page ──
+.routes-page {
+  h1 { margin-bottom: 0.2em; }
+}
+
+.routes-subtitle {
+  color: #586069;
+  font-size: 0.95em;
+  margin-bottom: 1em;
+}
+
+.route-controls {
+  margin-bottom: 1em;
+}
+
+.route-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-bottom: 0.6em;
+}
+
+.route-btn {
+  padding: 0.4em 0.9em;
+  border: 2px solid #d1d5db;
+  border-radius: 6px;
+  background: #fff;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.82em;
+  transition: all 0.15s;
+  color: #24292e;
+
+  &:hover { background: #f6f8fa; }
+
+  &.active {
+    background: #24292e;
+    color: #fff;
+    border-color: #24292e;
+  }
+}
+
+.route-day-filter {
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
+  flex-wrap: wrap;
+}
+
+.day-label {
+  font-size: 0.82em;
+  color: #586069;
+  font-weight: 600;
+}
+
+.day-buttons {
+  display: flex;
+  gap: 0.3em;
+}
+
+.day-btn {
+  padding: 0.25em 0.7em;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+  background: #fff;
+  cursor: pointer;
+  font-size: 0.78em;
+  transition: all 0.15s;
+
+  &:hover { background: #f6f8fa; }
+  &.active { background: #24292e; color: #fff; border-color: #24292e; }
+}
+
+// Score comparison bar
+.score-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35em;
+  margin-bottom: 1em;
+  padding: 0.8em;
+  background: #f6f8fa;
+  border-radius: 8px;
+}
+
+.score-bar-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  font-size: 0.72em;
+  color: #8c8c8c;
+  margin-bottom: 0.1em;
+  padding-left: 3em;
+}
+
+.score-item {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  cursor: pointer;
+  transition: opacity 0.15s;
+
+  &:hover { opacity: 0.8; }
+}
+
+.score-label {
+  width: 2.5em;
+  font-size: 0.8em;
+  font-weight: 700;
+  text-align: right;
+  color: #24292e;
+  flex-shrink: 0;
+  margin-right: 0.3em;
+}
+
+.score-break {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+
+  svg { display: block; width: 100%; height: 100%; }
+}
+
+.score-track {
+  flex: 1;
+  height: 18px;
+  background: #e9ecef;
+  border-radius: 0 4px 4px 0;
+  overflow: hidden;
+  margin-right: 0.5em;
+}
+
+.score-fill {
+  height: 100%;
+  border-radius: 0 4px 4px 0;
+  transition: width 0.5s ease;
+}
+
+.score-num {
+  font-size: 0.82em;
+  font-weight: 700;
+  color: #586069;
+  min-width: 2.5em;
+  flex-shrink: 0;
+}
+
+// Map
+#map {
+  width: 100%;
+  height: 500px;
+  border-radius: 10px;
+  border: 1px solid #e1e4e8;
+  margin-bottom: 1em;
+  z-index: 1;
+}
+
+// Route info panel
+.route-info-panel {
+  background: #fff;
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 1em;
+  margin-bottom: 1em;
+
+  h3 { margin: 0 0 0.3em; font-size: 1.1em; }
+}
+
+.info-placeholder {
+  color: #8c8c8c;
+  font-size: 0.9em;
+  text-align: center;
+  margin: 0;
+}
+
+.route-stats {
+  display: flex;
+  gap: 1.2em;
+  margin-bottom: 0.8em;
+
+  span {
+    font-size: 0.88em;
+    background: #f6f8fa;
+    padding: 0.2em 0.7em;
+    border-radius: 4px;
+    color: #586069;
+    font-weight: 600;
+  }
+}
+
+.day-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4em;
+}
+
+.day-item {
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 0.6em 0.8em;
+  cursor: pointer;
+  transition: all 0.15s;
+
+  &:hover { border-color: #888; background: #fafbfc; }
+  &.active { border-color: #159957; background: #f0fff4; }
+}
+
+.day-header {
+  font-weight: 600;
+  font-size: 0.9em;
+  margin-bottom: 0.3em;
+  color: #24292e;
+
+  small { color: #586069; font-weight: 400; }
+}
+
+.day-stops {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3em;
+}
+
+.stop-row {
+  font-size: 0.8em;
+  color: #586069;
+  background: #f6f8fa;
+  padding: 0.15em 0.5em;
+  border-radius: 3px;
+}
+
+.stop-row .grade-badge {
+  font-size: 0.75em;
+  padding: 0.1em 0.35em;
+  vertical-align: middle;
+}
+
+.stay-badge { background: #34c759 !important; }
+.start-badge { background: #1a1a2e !important; }
+
+// Map legend
+.map-legend {
+  background: #f6f8fa;
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 0.8em 1em;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.6em;
+  align-items: center;
+
+  h4 { margin: 0; font-size: 0.85em; color: #586069; }
+}
+
+.legend-row {
+  display: flex;
+  align-items: center;
+  gap: 0.3em;
+  font-size: 0.8em;
+  color: #586069;
+}
+
+.legend-icon {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 1px #ccc;
+
+  &.marker-start { background: #1a1a2e; }
+  &.marker-s { background: #ff2d55; }
+  &.marker-a { background: #ff9500; }
+  &.marker-b { background: #007aff; }
+  &.marker-stay { background: #34c759; }
+}
+
+// Leaflet divIcon override
+.custom-marker { background: transparent !important; border: none !important; }
+
+// Map + Info split layout
+.map-split {
+  display: flex;
+  gap: 1em;
+  margin-top: 0.5em;
+}
+
+.map-split-left {
+  flex: 1;
+  min-width: 0;
+}
+
+.map-split-right {
+  width: 280px;
+  flex-shrink: 0;
+}
+
+// Route plans section (below map)
+.route-plans-section {
+  margin-top: 1em;
+}
+
+.plan-card {
+  padding: 0.8em;
+  border-left: 4px solid transparent;
+  border-radius: 4px;
+  transition: border-color 0.2s, background 0.2s;
+
+  &.active {
+    border-left-color: #159957;
+    background: #f0faf4;
+  }
+
+  h2 {
+    margin-top: 0;
+    &:hover { opacity: 0.8; }
+  }
+
+  details {
+    margin-top: 0.5em;
+  }
+
+  .plan-content {
+    padding: 0.5em 0;
+    font-size: 0.92em;
+    line-height: 1.6;
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 0.5em 0;
+
+      td, th {
+        border: 1px solid #e1e4e8;
+        padding: 0.3em 0.6em;
+        font-size: 0.9em;
+      }
+    }
+  }
+}
+
+// Mobile (routes)
 @media screen and (max-width: 42em) {
+  #map { height: 350px; }
+
+  .route-buttons { gap: 0.3em; }
+  .route-btn { padding: 0.3em 0.6em; font-size: 0.75em; }
+  .score-bar { padding: 0.5em; }
+  .day-stops { gap: 0.2em; }
+
+  .map-split {
+    flex-direction: column;
+  }
+
+  .map-split-right {
+    width: 100%;
+  }
+
   .modal-scorers {
     grid-template-columns: repeat(3, 1fr);
     gap: 0.3em;

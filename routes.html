@@ -1,0 +1,269 @@
+---
+layout: default
+title: 로드트립 루트 비교
+---
+
+<div class="routes-page">
+  <h1>로드트립 루트 비교</h1>
+  <p class="routes-subtitle">5개 안의 이동 경로를 지도에서 비교하고, 상세 일정과 평가를 확인하세요.</p>
+
+  <!-- Route selector -->
+  <div class="route-controls">
+    <div class="route-buttons" id="routeButtons">
+      <button class="route-btn active" data-route="all" style="border-color:#888">전체 보기</button>
+      <button class="route-btn" data-route="A" style="border-color:#e74c3c">A안</button>
+      <button class="route-btn" data-route="B" style="border-color:#2ecc71">B안</button>
+      <button class="route-btn" data-route="C" style="border-color:#3498db">C안</button>
+      <button class="route-btn" data-route="D" style="border-color:#f39c12">D안</button>
+      <button class="route-btn" data-route="E" style="border-color:#9b59b6">E안</button>
+    </div>
+    <div class="route-day-filter" id="dayFilter" style="display:none;">
+      <span class="day-label">일별 보기:</span>
+      <div class="day-buttons" id="dayButtons"></div>
+    </div>
+  </div>
+
+  <!-- Map + Info split -->
+  <div class="map-split">
+    <div class="map-split-left">
+      <!-- Score comparison bar -->
+      <div class="score-bar" id="scoreBar">
+        <div class="score-bar-header"><span>50</span><span style="flex:1"></span><span>점수</span></div>
+        <div class="score-item" data-route="B"><span class="score-label">B안</span><div class="score-break"><svg viewBox="0 0 18 18"><path d="M0,0 L8,0 Q12,4.5 8,9 Q4,13.5 8,18 L0,18 Z" fill="#e9ecef"/><path d="M8,0 L18,0 L18,18 L8,18 Q4,13.5 8,9 Q12,4.5 8,0 Z" fill="#e9ecef"/><path d="M8,0 Q12,4.5 8,9 Q4,13.5 8,18" fill="none" stroke="#c9cdd1" stroke-width="1.5"/></svg></div><div class="score-track"><div class="score-fill" style="width:50%;background:#2ecc71"></div></div><span class="score-num">77.3</span></div>
+        <div class="score-item" data-route="D"><span class="score-label">D안</span><div class="score-break"><svg viewBox="0 0 18 18"><path d="M0,0 L8,0 Q12,4.5 8,9 Q4,13.5 8,18 L0,18 Z" fill="#e9ecef"/><path d="M8,0 L18,0 L18,18 L8,18 Q4,13.5 8,9 Q12,4.5 8,0 Z" fill="#e9ecef"/><path d="M8,0 Q12,4.5 8,9 Q4,13.5 8,18" fill="none" stroke="#c9cdd1" stroke-width="1.5"/></svg></div><div class="score-track"><div class="score-fill" style="width:50%;background:#f39c12"></div></div><span class="score-num">76.0</span></div>
+        <div class="score-item" data-route="C"><span class="score-label">C안</span><div class="score-break"><svg viewBox="0 0 18 18"><path d="M0,0 L8,0 Q12,4.5 8,9 Q4,13.5 8,18 L0,18 Z" fill="#e9ecef"/><path d="M8,0 L18,0 L18,18 L8,18 Q4,13.5 8,9 Q12,4.5 8,0 Z" fill="#e9ecef"/><path d="M8,0 Q12,4.5 8,9 Q4,13.5 8,18" fill="none" stroke="#c9cdd1" stroke-width="1.5"/></svg></div><div class="score-track"><div class="score-fill" style="width:50%;background:#3498db"></div></div><span class="score-num">75.0</span></div>
+        <div class="score-item" data-route="E"><span class="score-label">E안</span><div class="score-break"><svg viewBox="0 0 18 18"><path d="M0,0 L8,0 Q12,4.5 8,9 Q4,13.5 8,18 L0,18 Z" fill="#e9ecef"/><path d="M8,0 L18,0 L18,18 L8,18 Q4,13.5 8,9 Q12,4.5 8,0 Z" fill="#e9ecef"/><path d="M8,0 Q12,4.5 8,9 Q4,13.5 8,18" fill="none" stroke="#c9cdd1" stroke-width="1.5"/></svg></div><div class="score-track"><div class="score-fill" style="width:50%;background:#9b59b6"></div></div><span class="score-num">73.3</span></div>
+        <div class="score-item" data-route="A"><span class="score-label">A안</span><div class="score-break"><svg viewBox="0 0 18 18"><path d="M0,0 L8,0 Q12,4.5 8,9 Q4,13.5 8,18 L0,18 Z" fill="#e9ecef"/><path d="M8,0 L18,0 L18,18 L8,18 Q4,13.5 8,9 Q12,4.5 8,0 Z" fill="#e9ecef"/><path d="M8,0 Q12,4.5 8,9 Q4,13.5 8,18" fill="none" stroke="#c9cdd1" stroke-width="1.5"/></svg></div><div class="score-track"><div class="score-fill" style="width:50%;background:#e74c3c"></div></div><span class="score-num">63.7</span></div>
+      </div>
+
+      <div id="map"></div>
+
+      <!-- Legend -->
+      <div class="map-legend">
+        <h4>범례</h4>
+        <div class="legend-row"><span class="legend-icon marker-start"></span> 출발/도착</div>
+        <div class="legend-row"><span class="legend-icon marker-s"></span> S등급 관광지</div>
+        <div class="legend-row"><span class="legend-icon marker-a"></span> A등급 관광지</div>
+        <div class="legend-row"><span class="legend-icon marker-b"></span> B등급 관광지</div>
+        <div class="legend-row"><span class="legend-icon marker-stay"></span> 숙박지</div>
+      </div>
+    </div>
+
+    <!-- Route info panel (day stops) -->
+    <div class="map-split-right">
+      <div class="route-info-panel" id="routeInfo">
+        <p class="info-placeholder">루트를 선택하면 일별 경유지를 확인할 수 있습니다.</p>
+      </div>
+    </div>
+  </div>
+
+  <hr style="margin:2em 0"/>
+
+  <!-- ── 루트 후보 상세 ── -->
+  <div class="route-plans-section" id="routePlans">
+    <h2>종합 순위</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th style="text-align:center">순위</th>
+          <th>안</th>
+          <th style="text-align:center">평균</th>
+          <th style="text-align:center">효율(A)</th>
+          <th style="text-align:center">감성(B)</th>
+          <th style="text-align:center">현실(C)</th>
+          <th style="text-align:center">거리</th>
+          <th style="text-align:center">S등급</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style="text-align:center;font-weight:700">1</td><td><a href="#plan-b">B안 남쪽해안+블루마운틴</a></td><td style="text-align:center;font-weight:700;color:#2ecc71">77.3</td><td style="text-align:center">76</td><td style="text-align:center">82</td><td style="text-align:center">74</td><td style="text-align:center">~750km</td><td style="text-align:center">2곳</td></tr>
+        <tr><td style="text-align:center;font-weight:700">2</td><td><a href="#plan-d">D안 콥스하버 절충</a></td><td style="text-align:center;font-weight:700;color:#f39c12">76.0</td><td style="text-align:center">78</td><td style="text-align:center">74</td><td style="text-align:center">76</td><td style="text-align:center">~1,370km</td><td style="text-align:center">3곳</td></tr>
+        <tr><td style="text-align:center;font-weight:700">3</td><td><a href="#plan-c">C안 중북부 집중</a></td><td style="text-align:center;font-weight:700;color:#3498db">75.0</td><td style="text-align:center">78</td><td style="text-align:center">72</td><td style="text-align:center">75</td><td style="text-align:center">~630km</td><td style="text-align:center">3곳</td></tr>
+        <tr><td style="text-align:center;font-weight:700">4</td><td><a href="#plan-e">E안 남북 하이브리드</a></td><td style="text-align:center;font-weight:700;color:#9b59b6">73.3</td><td style="text-align:center">72</td><td style="text-align:center">80</td><td style="text-align:center">68</td><td style="text-align:center">~900km</td><td style="text-align:center">4곳</td></tr>
+        <tr><td style="text-align:center;font-weight:700">5</td><td><a href="#plan-a">A안 북쪽 풀코스</a></td><td style="text-align:center;font-weight:700;color:#e74c3c">63.7</td><td style="text-align:center">62</td><td style="text-align:center">71</td><td style="text-align:center">58</td><td style="text-align:center">~2,130km</td><td style="text-align:center">4곳</td></tr>
+      </tbody>
+    </table>
+
+    <br/>
+
+    <h2>페르소나별 추천</h2>
+
+    <blockquote>
+      <strong>효율 전략가 김도현</strong>: C안 또는 D안 (78점). "이동이 적어 관광 밀도가 높다."
+    </blockquote>
+    <blockquote>
+      <strong>감성 탐험가 이서아</strong>: B안 (82점). "바다→산 서사 구조가 완벽하다."
+    </blockquote>
+    <blockquote>
+      <strong>현실주의 비평가 박지우</strong>: D안 (76점). "3인 점수 편차가 가장 적어 리스크가 분산되어 있다."
+    </blockquote>
+
+    <br/>
+
+    <h2>결정 포인트</h2>
+
+    <table>
+      <thead><tr><th>질문</th><th>선택지</th></tr></thead>
+      <tbody>
+        <tr><td>바이런베이/골드코스트 꼭 필요?</td><td>예 → A안 / 아니오 → B·C·D·E안</td></tr>
+        <tr><td>해안 절벽 vs 열대우림 폭포?</td><td>해안 → B안 / 폭포 → D안</td></tr>
+        <tr><td>하루 운전 시간?</td><td>1~2시간 → C·B안 / 3~4시간 → D·E안</td></tr>
+        <tr><td>S등급 전부 커버?</td><td>4곳 전부 → E안 / 핵심만 → B·C·D안</td></tr>
+      </tbody>
+    </table>
+
+    <br/>
+    <hr/>
+
+    <!-- 각 안 상세 -->
+    <div class="plan-card" id="plan-b" data-route="B">
+      <h2 style="color:#2ecc71">B안: 남쪽 해안 + 블루마운틴 — 77.3점 (1위)</h2>
+      <p><strong>시드니 → 그랜드퍼시픽 → 울릉공/키아마 → 저비스베이 → 블루마운틴 → 시드니</strong></p>
+      <p>최고 평균점. 바다→산 서사, 이동거리 최소급(~750km). 감성파 82점.</p>
+      <details>
+        <summary><strong>상세 일정 & 평가 보기</strong></summary>
+        <div class="plan-content" data-plan="B">로딩 중...</div>
+      </details>
+    </div>
+
+    <hr/>
+
+    <div class="plan-card" id="plan-d" data-route="D">
+      <h2 style="color:#f39c12">D안: 콥스하버 절충 — 76.0점</h2>
+      <p><strong>시드니 → 포트맥쿼리 → 콥스하버 → 뉴캐슬/포트스테판스 → 시드니</strong></p>
+      <p>GC/바이런 생략, 콥스하버까지만 북상. 해안+폭포+열대우림 다양성. 3인 점수 편차 최소.</p>
+      <details>
+        <summary><strong>상세 일정 & 평가 보기</strong></summary>
+        <div class="plan-content" data-plan="D">로딩 중...</div>
+      </details>
+    </div>
+
+    <hr/>
+
+    <div class="plan-card" id="plan-c" data-route="C">
+      <h2 style="color:#3498db">C안: 중북부 집중 — 75.0점</h2>
+      <p><strong>시드니 → 뉴캐슬 → 포트스테판스 → 센트럴코스트 → 블루마운틴 → 시드니</strong></p>
+      <p>최단거리(~630km). 하루 평균 1.5시간 운전. 블루마운틴 2일 집중.</p>
+      <details>
+        <summary><strong>상세 일정 & 평가 보기</strong></summary>
+        <div class="plan-content" data-plan="C">로딩 중...</div>
+      </details>
+    </div>
+
+    <hr/>
+
+    <div class="plan-card" id="plan-e" data-route="E">
+      <h2 style="color:#9b59b6">E안: 남북 하이브리드 — 73.3점</h2>
+      <p><strong>시드니 → 뉴캐슬(북) → 시드니 → 그랜드퍼시픽(남) → 블루마운틴 → 시드니</strong></p>
+      <p>S등급 4곳 전부 포함. 시드니 허브앤스포크. 감성파 80점. 로드트립 서사 약함.</p>
+      <details>
+        <summary><strong>상세 일정 & 평가 보기</strong></summary>
+        <div class="plan-content" data-plan="E">로딩 중...</div>
+      </details>
+    </div>
+
+    <hr/>
+
+    <div class="plan-card" id="plan-a" data-route="A">
+      <h2 style="color:#e74c3c">A안: 북쪽 풀코스 — 63.7점</h2>
+      <p><strong>시드니 → 골드코스트/바이런베이(900km 북상) → 해안 남하 → 시드니</strong></p>
+      <p>가장 넓은 범위, S등급 4곳. 대신 첫날 900km 야간 운전, 총 2,130km. 이동이 여행을 잡아먹는 루트.</p>
+      <details>
+        <summary><strong>상세 일정 & 평가 보기</strong></summary>
+        <div class="plan-content" data-plan="A">로딩 중...</div>
+      </details>
+    </div>
+  </div>
+</div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="assets/js/routes.js"></script>
+<script>
+// 마크다운 파일 로딩
+var planFiles = {
+  A: 'research/route-plans/A안_북쪽풀코스.md',
+  B: 'research/route-plans/B안_남쪽해안_블루마운틴.md',
+  C: 'research/route-plans/C안_중북부집중.md',
+  D: 'research/route-plans/D안_콥스하버절충.md',
+  E: 'research/route-plans/E안_남북하이브리드.md'
+};
+
+function simpleMarkdown(md) {
+  return md
+    .replace(/^### (.+)$/gm, '<h4>$1</h4>')
+    .replace(/^## (.+)$/gm, '<h3>$1</h3>')
+    .replace(/^# (.+)$/gm, '<h3>$1</h3>')
+    .replace(/^> (.+)$/gm, '<blockquote>$1</blockquote>')
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/^\| (.+)$/gm, function(match) {
+      var cells = match.split('|').filter(function(c) { return c.trim(); });
+      var row = cells.map(function(c) { return '<td>' + c.trim() + '</td>'; }).join('');
+      return '<tr>' + row + '</tr>';
+    })
+    .replace(/^- (.+)$/gm, '<li>$1</li>')
+    .replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>')
+    .replace(/(<tr>.*<\/tr>\n?)+/g, '<table>$&</table>')
+    .replace(/^---$/gm, '<hr/>')
+    .replace(/\n\n/g, '<br/>')
+    .replace(/\n/g, '\n');
+}
+
+document.querySelectorAll('details').forEach(function(el) {
+  el.addEventListener('toggle', function() {
+    if (!this.open) return;
+    var div = this.querySelector('.plan-content');
+    if (div.dataset.loaded) return;
+    var key = div.dataset.plan;
+    var url = planFiles[key];
+    if (!url) return;
+    fetch(url)
+      .then(function(r) { return r.text(); })
+      .then(function(text) {
+        div.innerHTML = simpleMarkdown(text);
+        div.dataset.loaded = 'true';
+      })
+      .catch(function() {
+        div.innerHTML = '<p style="color:#e74c3c">파일을 불러올 수 없습니다.</p>';
+      });
+  });
+});
+
+// 루트 선택 시 해당 plan-card 하이라이트
+function highlightPlanCard(key) {
+  document.querySelectorAll('.plan-card').forEach(function(el) {
+    el.classList.remove('active');
+  });
+  if (key && key !== 'all') {
+    var card = document.querySelector('.plan-card[data-route="' + key + '"]');
+    if (card) card.classList.add('active');
+  }
+}
+
+// route-btn 클릭 시 plan-card 하이라이트 연동
+document.querySelectorAll('.route-btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    highlightPlanCard(this.getAttribute('data-route'));
+  });
+});
+document.querySelectorAll('.score-item').forEach(function(el) {
+  el.addEventListener('click', function() {
+    highlightPlanCard(this.getAttribute('data-route'));
+  });
+});
+
+// plan-card 클릭 시 지도 연동
+document.querySelectorAll('.plan-card h2').forEach(function(h2) {
+  h2.style.cursor = 'pointer';
+  h2.addEventListener('click', function() {
+    var card = this.closest('.plan-card');
+    var key = card.getAttribute('data-route');
+    // 루트 버튼 클릭을 시뮬레이션
+    var btn = document.querySelector('.route-btn[data-route="' + key + '"]');
+    if (btn) btn.click();
+    // 지도 영역으로 스크롤
+    document.getElementById('map').scrollIntoView({ behavior: 'smooth', block: 'center' });
+  });
+});
+</script>

@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/Phase_4-일정_생성_중-yellow?style=for-the-badge" alt="Status" />
+<img src="https://img.shields.io/badge/Phase_4-루트_후보_5개_비교_중-yellow?style=for-the-badge" alt="Status" />
 <img src="https://img.shields.io/badge/관광지-109곳_평가_완료-blue?style=for-the-badge" alt="Places" />
 <img src="https://img.shields.io/badge/기간-9일_(활동_7일)-green?style=for-the-badge" alt="Duration" />
 </div>
@@ -13,6 +13,7 @@ layout: default
 <div align="center" class="cta-links">
 <a href="ITINERARY.html" class="btn">확정 일정</a>
 <a href="rankings.html" class="btn">관광지 랭킹</a>
+<a href="routes.html" class="btn">루트 비교</a>
 <a href="META.html" class="btn">여행 개요</a>
 </div>
 
@@ -30,6 +31,20 @@ layout: default
 | 5/31 (일) | 시드니 → 인천 | ✅ |
 
 > ✅ 확정 &nbsp;&nbsp; 🔄 미정 — 상세 일정은 <a href="docs/ITINERARY.html">ITINERARY.md</a> 참조
+
+<br/>
+
+## 루트 후보 (5개 안 비교 중)
+
+| 순위 | 안 | 점수 | 특징 |
+|:----:|:---|-----:|:-----|
+| 1 | **B안** 남쪽해안+블루마운틴 | **77.3** | 바다→산 서사, 최단거리 |
+| 2 | **D안** 콥스하버 절충 | **76.0** | 해안+폭포+열대우림 다양성 |
+| 3 | **C안** 중북부 집중 | **75.0** | 최단거리, 피로 최소 |
+| 4 | **E안** 남북 하이브리드 | **73.3** | S등급 4곳 전부 커버 |
+| 5 | **A안** 북쪽 풀코스 | **63.7** | 2,130km, 피로도 최대 |
+
+> 상세 비교 → <a href="routes.html">루트 비교 (지도 + 상세)</a>
 
 <br/>
 
