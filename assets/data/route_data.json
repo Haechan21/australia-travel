@@ -1,1394 +1,415 @@
 {
   "routes": {
-    "A": {
-      "name": "A안: 북쪽 풀코스",
+    "1": {
+      "name": "1조: GC직행 + 남하해안",
       "color": "#e74c3c",
-      "total_km": 2130,
-      "score": 63.7,
-      "days": [
-        {
-          "day": 1,
-          "date": "5/24",
-          "label": "시드니→골드코스트",
-          "stops": [
-            {
-              "name": "시드니공항",
-              "lng": 151.1772,
-              "lat": -33.9461,
-              "type": "start"
-            },
-            {
-              "name": "골드코스트",
-              "lng": 153.43,
-              "lat": -28.0023,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "date": "5/25",
-          "label": "골드코스트+바이런베이",
-          "stops": [
-            {
-              "name": "골드코스트",
-              "lng": 153.43,
-              "lat": -28.0023,
-              "type": "start"
-            },
-            {
-              "name": "버레이 헤드 국립공원",
-              "lng": 153.459174,
-              "lat": -28.091821,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "케이프 바이런 등대",
-              "lng": 153.636145,
-              "lat": -28.638394,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "바이런베이 타운",
-              "lng": 153.615,
-              "lat": -28.6474,
-              "type": "waypoint"
-            },
-            {
-              "name": "케이프 바이런 워킹 트랙",
-              "lng": 153.636021,
-              "lat": -28.634968,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "골드코스트",
-              "lng": 153.43,
-              "lat": -28.0023,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "date": "5/26",
-          "label": "골드코스트→콥스하버",
-          "stops": [
-            {
-              "name": "골드코스트",
-              "lng": 153.43,
-              "lat": -28.0023,
-              "type": "start"
-            },
-            {
-              "name": "야마 등대",
-              "lng": 153.363997,
-              "lat": -29.43247,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "룩 앳 미 나우 헤드랜드 워크",
-              "lng": 153.186688,
-              "lat": -30.175687,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "머튼버드 아일랜드",
-              "lng": 153.151571,
-              "lat": -30.305395,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "보암비 헤드랜드 전망대",
-              "lng": 153.105525,
-              "lat": -30.356423,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "무니 비치",
-              "lng": 153.174486,
-              "lat": -30.184418,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "콥스하버",
-              "lng": 153.1136,
-              "lat": -30.2963,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "date": "5/27",
-          "label": "콥스하버→포트맥쿼리",
-          "stops": [
-            {
-              "name": "콥스하버",
-              "lng": 153.1136,
-              "lat": -30.2963,
-              "type": "start"
-            },
-            {
-              "name": "아라쿤 국립공원",
-              "lng": 153.070092,
-              "lat": -30.884556,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "태킹 포인트 등대",
-              "lng": 152.937357,
-              "lat": -31.475515,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "포트맥쿼리 해안 산책로",
-              "lng": 152.906813,
-              "lat": -31.428437,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "코알라 보존 병원",
-              "lng": 152.919353,
-              "lat": -31.442709,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "포트맥쿼리",
-              "lng": 152.909,
-              "lat": -31.431,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "date": "5/28",
-          "label": "포트맥쿼리→뉴캐슬",
-          "stops": [
-            {
-              "name": "포트맥쿼리",
-              "lng": 152.909,
-              "lat": -31.431,
-              "type": "start"
-            },
-            {
-              "name": "크라우디 헤드 등대",
-              "lng": 152.753572,
-              "lat": -31.843442,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "베넷츠 헤드 전망대",
-              "lng": 152.533947,
-              "lat": -32.182305,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "토마리 헤드 정상 산책로",
-              "lng": 152.187238,
-              "lat": -32.716833,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "포트스테판스 캥거루 인카운터스",
-              "lng": 152.146025,
-              "lat": -32.724438,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "뉴캐슬",
-              "lng": 151.7817,
-              "lat": -32.9283,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "date": "5/29",
-          "label": "뉴캐슬→시드니",
-          "stops": [
-            {
-              "name": "뉴캐슬",
-              "lng": 151.7817,
-              "lat": -32.9283,
-              "type": "start"
-            },
-            {
-              "name": "뉴캐슬 메모리얼 워크",
-              "lng": 151.777038,
-              "lat": -32.936708,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "보기 홀",
-              "lng": 151.781653,
-              "lat": -32.935131,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "노라 헤드 등대",
-              "lng": 151.576354,
-              "lat": -33.281715,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "바렌조이 등대",
-              "lng": 151.329853,
-              "lat": -33.580213,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "시드니 시내",
-              "lng": 151.2093,
-              "lat": -33.8688,
-              "type": "stay"
-            }
-          ]
-        }
-      ]
-    },
-    "B": {
-      "name": "B안: 남쪽 해안+블루마운틴",
-      "color": "#3498db",
-      "total_km": 650,
+      "total_km": 1990,
       "score": 77.3,
       "days": [
         {
           "day": 1,
           "date": "5/24",
-          "label": "시드니→울릉공/키아마",
+          "label": "시드니→골드코스트 (882km)",
           "stops": [
-            {
-              "name": "시드니공항",
-              "lng": 151.1772,
-              "lat": -33.9461,
-              "type": "start"
-            },
-            {
-              "name": "케이프 솔랜더 전망대",
-              "lng": 151.227535,
-              "lat": -34.009437,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "이글 록 전망대",
-              "lng": 151.099543,
-              "lat": -34.153593,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "스탠웰 탑스 전망대",
-              "lng": 150.997482,
-              "lat": -34.223732,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "그랜드 퍼시픽 드라이브",
-              "lng": 150.996104,
-              "lat": -34.224236,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "시 클리프 브릿지",
-              "lng": 150.973328,
-              "lat": -34.25449,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "봄보 헤드랜드 채석장",
-              "lng": 150.862417,
-              "lat": -34.651459,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "플래그스태프 포인트 등대",
-              "lng": 150.90973,
-              "lat": -34.421886,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "키아마 블로우홀",
-              "lng": 150.865867,
-              "lat": -34.671344,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "리틀 블로우홀",
-              "lng": 150.858899,
-              "lat": -34.686801,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "키아마",
-              "lng": 150.8544,
-              "lat": -34.671,
-              "type": "stay"
-            }
+            { "name": "시드니공항", "lng": 151.1772, "lat": -33.9461, "type": "start" },
+            { "name": "헤더브레이", "lng": 151.7333, "lat": -32.7667, "type": "waypoint" },
+            { "name": "포트맥쿼리", "lng": 152.9089, "lat": -31.4333, "type": "waypoint" },
+            { "name": "울굴가", "lng": 153.2333, "lat": -30.1167, "type": "waypoint" },
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "stay" }
           ]
         },
         {
           "day": 2,
           "date": "5/25",
-          "label": "키아마→저비스베이→서던하이랜드",
+          "label": "골드코스트 풀데이 + 반딧불이",
           "stops": [
-            {
-              "name": "키아마",
-              "lng": 150.8544,
-              "lat": -34.671,
-              "type": "start"
-            },
-            {
-              "name": "블렌하임 비치",
-              "lng": 150.691391,
-              "lat": -35.083068,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "피츠로이 폭포 전망대",
-              "lng": 150.483068,
-              "lat": -34.646991,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "캐링턴 폭포",
-              "lng": 150.654736,
-              "lat": -34.623791,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "서던하이랜드",
-              "lng": 150.45,
-              "lat": -34.45,
-              "type": "stay"
-            }
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "start" },
+            { "name": "버레이 헤드 국립공원", "lng": 153.459, "lat": -28.092, "type": "attraction", "grade": "A" },
+            { "name": "스프링브룩 Natural Bridge", "lng": 153.243, "lat": -28.231, "type": "attraction" },
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "stay" }
           ]
         },
         {
           "day": 3,
           "date": "5/26",
-          "label": "서던하이랜드→블루마운틴",
+          "label": "골드코스트→바이런베이→콥스하버",
           "stops": [
-            {
-              "name": "서던하이랜드",
-              "lng": 150.45,
-              "lat": -34.45,
-              "type": "start"
-            },
-            {
-              "name": "에코 포인트 전망대",
-              "lng": 150.312045,
-              "lat": -33.732583,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "쓰리 시스터스",
-              "lng": 150.314841,
-              "lat": -33.735323,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "시닉 레일웨이",
-              "lng": 150.301425,
-              "lat": -33.729139,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "카툼바 폭포",
-              "lng": 150.30431,
-              "lat": -33.727691,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "웬트워스 폴스 전망대",
-              "lng": 150.371998,
-              "lat": -33.726015,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "링컨스 록",
-              "lng": 150.372104,
-              "lat": -33.740139,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "카툼바",
-              "lng": 150.312,
-              "lat": -33.715,
-              "type": "stay"
-            }
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "start" },
+            { "name": "케이프 바이런 등대", "lng": 153.636, "lat": -28.638, "type": "attraction", "grade": "S" },
+            { "name": "바이런베이 타운", "lng": 153.615, "lat": -28.647, "type": "waypoint" },
+            { "name": "룩앳미나우 헤드랜드", "lng": 153.167, "lat": -30.190, "type": "attraction", "grade": "S" },
+            { "name": "머튼버드 아일랜드", "lng": 153.148, "lat": -30.289, "type": "attraction", "grade": "A" },
+            { "name": "콥스하버", "lng": 153.114, "lat": -30.296, "type": "stay" }
           ]
         },
         {
           "day": 4,
           "date": "5/27",
-          "label": "블루마운틴 서쪽",
+          "label": "Waterfall Way: 콥스→도리고→포트맥쿼리",
           "stops": [
-            {
-              "name": "카툼바",
-              "lng": 150.312,
-              "lat": -33.715,
-              "type": "start"
-            },
-            {
-              "name": "고벳츠 리프 전망대",
-              "lng": 150.311508,
-              "lat": -33.628006,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "그랜드 캐니언 워킹 트랙",
-              "lng": 150.321416,
-              "lat": -33.649376,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "서블라임 포인트 전망대",
-              "lng": 150.343118,
-              "lat": -33.729391,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "엠프레스 폭포",
-              "lng": 150.359019,
-              "lat": -33.720471,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "하산스 월즈 전망대",
-              "lng": 150.15119,
-              "lat": -33.515283,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "카툼바",
-              "lng": 150.312,
-              "lat": -33.715,
-              "type": "stay"
-            }
+            { "name": "콥스하버", "lng": 153.114, "lat": -30.296, "type": "start" },
+            { "name": "벨링겐 마을", "lng": 152.900, "lat": -30.450, "type": "waypoint" },
+            { "name": "포레스트 스카이 피어", "lng": 152.740, "lat": -30.360, "type": "attraction", "grade": "A" },
+            { "name": "크리스탈 샤워 폭포", "lng": 152.740, "lat": -30.370, "type": "attraction", "grade": "B" },
+            { "name": "댕거 폭포", "lng": 152.720, "lat": -30.340, "type": "attraction", "grade": "A" },
+            { "name": "태킹 포인트 등대", "lng": 152.923, "lat": -31.475, "type": "attraction", "grade": "A" },
+            { "name": "포트맥쿼리", "lng": 152.909, "lat": -31.433, "type": "stay" }
           ]
         },
         {
           "day": 5,
           "date": "5/28",
-          "label": "블루마운틴→시드니",
+          "label": "포트맥쿼리→포트스테판스 (샌드보딩+은하수)",
           "stops": [
-            {
-              "name": "카툼바",
-              "lng": 150.312,
-              "lat": -33.715,
-              "type": "start"
-            },
-            {
-              "name": "블루마운틴스 국립공원",
-              "lng": 150.273886,
-              "lat": -33.849285,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "글로우 웜 터널",
-              "lng": 150.992818,
-              "lat": -34.179025,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "시드니 시내",
-              "lng": 151.2093,
-              "lat": -33.8688,
-              "type": "stay"
-            }
+            { "name": "포트맥쿼리", "lng": 152.909, "lat": -31.433, "type": "start" },
+            { "name": "스톡턴 사막 (샌드보딩)", "lng": 152.083, "lat": -32.783, "type": "attraction" },
+            { "name": "토마리 헤드", "lng": 152.183, "lat": -32.717, "type": "attraction", "grade": "S" },
+            { "name": "넬슨베이", "lng": 152.067, "lat": -32.717, "type": "stay" }
           ]
         },
         {
           "day": 6,
           "date": "5/29",
-          "label": "시드니+렌터카 반납",
+          "label": "포트스테판스→뉴캐슬→시드니공항",
           "stops": [
-            {
-              "name": "시드니 시내",
-              "lng": 151.2093,
-              "lat": -33.8688,
-              "type": "start"
-            },
-            {
-              "name": "시드니공항",
-              "lng": 151.1772,
-              "lat": -33.9461,
-              "type": "end"
-            }
+            { "name": "넬슨베이", "lng": 152.067, "lat": -32.717, "type": "start" },
+            { "name": "뉴캐슬 메모리얼 워크", "lng": 151.783, "lat": -32.933, "type": "attraction", "grade": "S" },
+            { "name": "보기 홀", "lng": 151.790, "lat": -32.935, "type": "attraction", "grade": "A" },
+            { "name": "시드니공항", "lng": 151.1772, "lat": -33.9461, "type": "end" }
           ]
         }
       ]
     },
-    "C": {
-      "name": "C안: 중북부 집중",
-      "color": "#2ecc71",
+    "2": {
+      "name": "2조: 남쪽해안 + 블루마운틴",
+      "color": "#3498db",
       "total_km": 630,
+      "score": 83.0,
+      "days": [
+        {
+          "day": 1,
+          "date": "5/24",
+          "label": "시드니→그랜드퍼시픽→키아마",
+          "stops": [
+            { "name": "시드니공항", "lng": 151.1772, "lat": -33.9461, "type": "start" },
+            { "name": "스탠웰 탑스 전망대", "lng": 150.979, "lat": -34.223, "type": "attraction", "grade": "A" },
+            { "name": "시 클리프 브릿지", "lng": 150.963, "lat": -34.255, "type": "attraction", "grade": "A" },
+            { "name": "봄보 헤드랜드 채석장", "lng": 150.860, "lat": -34.640, "type": "attraction", "grade": "A" },
+            { "name": "키아마 블로우홀", "lng": 150.854, "lat": -34.672, "type": "attraction", "grade": "B" },
+            { "name": "키아마", "lng": 150.853, "lat": -34.673, "type": "stay" }
+          ]
+        },
+        {
+          "day": 2,
+          "date": "5/25",
+          "label": "키아마→서던하이랜드→블루마운틴",
+          "stops": [
+            { "name": "키아마", "lng": 150.853, "lat": -34.673, "type": "start" },
+            { "name": "피츠로이 폭포", "lng": 150.474, "lat": -34.652, "type": "attraction", "grade": "B" },
+            { "name": "보랄(Bowral)", "lng": 150.418, "lat": -34.478, "type": "waypoint" },
+            { "name": "에코 포인트 (쓰리 시스터스)", "lng": 150.312, "lat": -33.732, "type": "attraction", "grade": "A" },
+            { "name": "카툼바 폭포", "lng": 150.305, "lat": -33.718, "type": "attraction", "grade": "A" },
+            { "name": "카툼바", "lng": 150.312, "lat": -33.714, "type": "stay" }
+          ]
+        },
+        {
+          "day": 3,
+          "date": "5/26",
+          "label": "블루마운틴 서쪽 (핵심 트레킹)",
+          "stops": [
+            { "name": "카툼바", "lng": 150.312, "lat": -33.714, "type": "start" },
+            { "name": "고벳츠 리프 전망대", "lng": 150.311, "lat": -33.629, "type": "attraction", "grade": "S" },
+            { "name": "그랜드 캐니언 워킹 트랙", "lng": 150.324, "lat": -33.660, "type": "attraction", "grade": "A" },
+            { "name": "서블라임 포인트 전망대", "lng": 150.277, "lat": -33.697, "type": "attraction", "grade": "A" },
+            { "name": "웬트워스 폴스 전망대", "lng": 150.376, "lat": -33.719, "type": "attraction", "grade": "A" },
+            { "name": "카툼바", "lng": 150.312, "lat": -33.714, "type": "stay" }
+          ]
+        },
+        {
+          "day": 4,
+          "date": "5/27",
+          "label": "블루마운틴 마무리→시드니",
+          "stops": [
+            { "name": "카툼바", "lng": 150.312, "lat": -33.714, "type": "start" },
+            { "name": "시닉 레일웨이", "lng": 150.302, "lat": -33.712, "type": "attraction", "grade": "B" },
+            { "name": "갭 공원 (더 갭)", "lng": 151.278, "lat": -33.858, "type": "attraction", "grade": "A" },
+            { "name": "본다이 투 브론테", "lng": 151.274, "lat": -33.892, "type": "attraction", "grade": "A" },
+            { "name": "시드니 시내", "lng": 151.209, "lat": -33.868, "type": "stay" }
+          ]
+        },
+        {
+          "day": 5,
+          "date": "5/28",
+          "label": "시드니 차량 관광",
+          "stops": [
+            { "name": "시드니 시내", "lng": 151.209, "lat": -33.868, "type": "start" },
+            { "name": "쿠링가이 체이스 국립공원", "lng": 151.150, "lat": -33.620, "type": "attraction", "grade": "B" },
+            { "name": "바랑가루 보호지역", "lng": 151.201, "lat": -33.860, "type": "attraction", "grade": "B" },
+            { "name": "시드니 시내", "lng": 151.209, "lat": -33.868, "type": "stay" }
+          ]
+        },
+        {
+          "day": 6,
+          "date": "5/29",
+          "label": "렌터카 반납 + 시드니 도보",
+          "stops": [
+            { "name": "시드니 시내", "lng": 151.209, "lat": -33.868, "type": "start" },
+            { "name": "시드니공항 (반납)", "lng": 151.1772, "lat": -33.9461, "type": "end" }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "name": "3조: 해안+내륙 폭포 루프",
+      "color": "#2ecc71",
+      "total_km": 2050,
+      "score": 83.0,
+      "days": [
+        {
+          "day": 1,
+          "date": "5/24",
+          "label": "시드니→골드코스트 (882km)",
+          "stops": [
+            { "name": "시드니공항", "lng": 151.1772, "lat": -33.9461, "type": "start" },
+            { "name": "헤더브레이", "lng": 151.7333, "lat": -32.7667, "type": "waypoint" },
+            { "name": "포트맥쿼리", "lng": 152.9089, "lat": -31.4333, "type": "waypoint" },
+            { "name": "울굴가", "lng": 153.2333, "lat": -30.1167, "type": "waypoint" },
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "stay" }
+          ]
+        },
+        {
+          "day": 2,
+          "date": "5/25",
+          "label": "골드코스트 종일 + 반딧불이",
+          "stops": [
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "start" },
+            { "name": "버레이 헤드 국립공원", "lng": 153.459, "lat": -28.092, "type": "attraction", "grade": "A" },
+            { "name": "스프링브룩 Natural Bridge", "lng": 153.243, "lat": -28.231, "type": "attraction" },
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "stay" }
+          ]
+        },
+        {
+          "day": 3,
+          "date": "5/26",
+          "label": "골드코스트→바이런베이→콥스하버",
+          "stops": [
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "start" },
+            { "name": "케이프 바이런 등대", "lng": 153.636, "lat": -28.638, "type": "attraction", "grade": "S" },
+            { "name": "바이런베이 타운", "lng": 153.615, "lat": -28.647, "type": "waypoint" },
+            { "name": "룩앳미나우 헤드랜드", "lng": 153.167, "lat": -30.190, "type": "attraction", "grade": "S" },
+            { "name": "머튼버드 아일랜드", "lng": 153.148, "lat": -30.289, "type": "attraction", "grade": "A" },
+            { "name": "콥스하버", "lng": 153.114, "lat": -30.296, "type": "stay" }
+          ]
+        },
+        {
+          "day": 4,
+          "date": "5/27",
+          "label": "Waterfall Way: 콥스→도리고→포트맥쿼리",
+          "stops": [
+            { "name": "콥스하버", "lng": 153.114, "lat": -30.296, "type": "start" },
+            { "name": "벨링겐 마을", "lng": 152.900, "lat": -30.450, "type": "waypoint" },
+            { "name": "포레스트 스카이 피어", "lng": 152.740, "lat": -30.360, "type": "attraction", "grade": "A" },
+            { "name": "크리스탈 샤워 폭포", "lng": 152.740, "lat": -30.370, "type": "attraction", "grade": "B" },
+            { "name": "댕거 폭포", "lng": 152.720, "lat": -30.340, "type": "attraction", "grade": "A" },
+            { "name": "태킹 포인트 등대", "lng": 152.923, "lat": -31.475, "type": "attraction", "grade": "A" },
+            { "name": "포트맥쿼리", "lng": 152.909, "lat": -31.433, "type": "stay" }
+          ]
+        },
+        {
+          "day": 5,
+          "date": "5/28",
+          "label": "포트맥쿼리→포트스테판스 + 은하수",
+          "stops": [
+            { "name": "포트맥쿼리", "lng": 152.909, "lat": -31.433, "type": "start" },
+            { "name": "스톡턴 사막 (샌드보딩)", "lng": 152.083, "lat": -32.783, "type": "attraction" },
+            { "name": "토마리 헤드", "lng": 152.183, "lat": -32.717, "type": "attraction", "grade": "S" },
+            { "name": "뉴캐슬 메모리얼 워크", "lng": 151.783, "lat": -32.933, "type": "attraction", "grade": "S" },
+            { "name": "넬슨베이", "lng": 152.067, "lat": -32.717, "type": "stay" }
+          ]
+        },
+        {
+          "day": 6,
+          "date": "5/29",
+          "label": "포트스테판스→시드니공항 반납",
+          "stops": [
+            { "name": "넬슨베이", "lng": 152.067, "lat": -32.717, "type": "start" },
+            { "name": "본다이 투 브론테", "lng": 151.274, "lat": -33.892, "type": "attraction", "grade": "A" },
+            { "name": "갭 공원", "lng": 151.278, "lat": -33.858, "type": "attraction", "grade": "A" },
+            { "name": "시드니공항 (반납)", "lng": 151.1772, "lat": -33.9461, "type": "end" }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "name": "4조: 스타라이트 루프",
+      "color": "#f1c40f",
+      "total_km": 2607,
+      "score": 88.0,
+      "days": [
+        {
+          "day": 1,
+          "date": "5/24",
+          "label": "시드니→골드코스트 (882km)",
+          "stops": [
+            { "name": "시드니공항", "lng": 151.1772, "lat": -33.9461, "type": "start" },
+            { "name": "헤더브레이", "lng": 151.7333, "lat": -32.7667, "type": "waypoint" },
+            { "name": "포트맥쿼리", "lng": 152.9089, "lat": -31.4333, "type": "waypoint" },
+            { "name": "울굴가", "lng": 153.2333, "lat": -30.1167, "type": "waypoint" },
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "stay" }
+          ]
+        },
+        {
+          "day": 2,
+          "date": "5/25",
+          "label": "바이런베이 + 스프링브룩 은하수",
+          "stops": [
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "start" },
+            { "name": "케이프 바이런 등대", "lng": 153.636, "lat": -28.638, "type": "attraction", "grade": "S" },
+            { "name": "케이프 바이런 워킹 트랙", "lng": 153.636, "lat": -28.635, "type": "attraction", "grade": "A" },
+            { "name": "바이런베이 타운", "lng": 153.615, "lat": -28.647, "type": "waypoint" },
+            { "name": "버레이 헤드 국립공원", "lng": 153.459, "lat": -28.092, "type": "attraction", "grade": "A" },
+            { "name": "스프링브룩 은하수 촬영", "lng": 153.243, "lat": -28.231, "type": "attraction" },
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "stay" }
+          ]
+        },
+        {
+          "day": 3,
+          "date": "5/26",
+          "label": "GC→콥스하버→Waterfall Way→포트맥쿼리",
+          "stops": [
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "start" },
+            { "name": "룩앳미나우 헤드랜드", "lng": 153.167, "lat": -30.190, "type": "attraction", "grade": "S" },
+            { "name": "머튼버드 아일랜드", "lng": 153.148, "lat": -30.289, "type": "attraction", "grade": "A" },
+            { "name": "벨링겐 마을", "lng": 152.900, "lat": -30.450, "type": "waypoint" },
+            { "name": "포레스트 스카이 피어", "lng": 152.740, "lat": -30.360, "type": "attraction", "grade": "A" },
+            { "name": "크리스탈 샤워 폭포", "lng": 152.740, "lat": -30.370, "type": "attraction", "grade": "B" },
+            { "name": "댕거 폭포", "lng": 152.720, "lat": -30.340, "type": "attraction", "grade": "A" },
+            { "name": "포트맥쿼리", "lng": 152.909, "lat": -31.433, "type": "stay" }
+          ]
+        },
+        {
+          "day": 4,
+          "date": "5/27",
+          "label": "포트맥쿼리→포트스테판스→블루마운틴",
+          "stops": [
+            { "name": "포트맥쿼리", "lng": 152.909, "lat": -31.433, "type": "start" },
+            { "name": "태킹 포인트 등대", "lng": 152.923, "lat": -31.475, "type": "attraction", "grade": "A" },
+            { "name": "스톡턴 사막 (샌드보딩)", "lng": 152.083, "lat": -32.783, "type": "attraction" },
+            { "name": "토마리 헤드", "lng": 152.183, "lat": -32.717, "type": "attraction", "grade": "S" },
+            { "name": "뉴캐슬 메모리얼 워크", "lng": 151.783, "lat": -32.933, "type": "attraction", "grade": "S" },
+            { "name": "블루마운틴 (카툼바)", "lng": 150.312, "lat": -33.714, "type": "stay" }
+          ]
+        },
+        {
+          "day": 5,
+          "date": "5/28",
+          "label": "블루마운틴 풀데이 + 별밤",
+          "stops": [
+            { "name": "카툼바", "lng": 150.312, "lat": -33.714, "type": "start" },
+            { "name": "에코 포인트 (쓰리 시스터스)", "lng": 150.312, "lat": -33.732, "type": "attraction", "grade": "A" },
+            { "name": "그랜드 캐니언 워킹 트랙", "lng": 150.324, "lat": -33.660, "type": "attraction", "grade": "A" },
+            { "name": "카툼바 폭포", "lng": 150.305, "lat": -33.718, "type": "attraction", "grade": "A" },
+            { "name": "고벳츠 리프 전망대", "lng": 150.311, "lat": -33.629, "type": "attraction", "grade": "S" },
+            { "name": "서블라임 포인트 전망대", "lng": 150.277, "lat": -33.697, "type": "attraction", "grade": "A" },
+            { "name": "웬트워스 폴스 전망대", "lng": 150.376, "lat": -33.719, "type": "attraction", "grade": "A" },
+            { "name": "카툼바", "lng": 150.312, "lat": -33.714, "type": "stay" }
+          ]
+        },
+        {
+          "day": 6,
+          "date": "5/29",
+          "label": "블루마운틴→그랜드퍼시픽→시드니공항",
+          "stops": [
+            { "name": "카툼바", "lng": 150.312, "lat": -33.714, "type": "start" },
+            { "name": "스탠웰 탑스 전망대", "lng": 150.979, "lat": -34.223, "type": "attraction", "grade": "A" },
+            { "name": "시 클리프 브릿지", "lng": 150.963, "lat": -34.255, "type": "attraction", "grade": "A" },
+            { "name": "봄보 헤드랜드 채석장", "lng": 150.860, "lat": -34.640, "type": "attraction", "grade": "A" },
+            { "name": "키아마 블로우홀", "lng": 150.854, "lat": -34.672, "type": "attraction", "grade": "B" },
+            { "name": "시드니공항 (반납)", "lng": 151.1772, "lat": -33.9461, "type": "end" }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "name": "5조: 풀 스윙",
+      "color": "#9b59b6",
+      "total_km": 2240,
       "score": 75.0,
       "days": [
         {
           "day": 1,
           "date": "5/24",
-          "label": "시드니→뉴캐슬",
+          "label": "시드니→골드코스트 (882km)",
           "stops": [
-            {
-              "name": "시드니공항",
-              "lng": 151.1772,
-              "lat": -33.9461,
-              "type": "start"
-            },
-            {
-              "name": "블랙버트 자연보호지역",
-              "lng": 151.697537,
-              "lat": -32.937368,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "보기 홀",
-              "lng": 151.781653,
-              "lat": -32.935131,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "뉴캐슬 메모리얼 워크",
-              "lng": 151.777038,
-              "lat": -32.936708,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "뉴캐슬",
-              "lng": 151.7817,
-              "lat": -32.9283,
-              "type": "stay"
-            }
+            { "name": "시드니공항", "lng": 151.1772, "lat": -33.9461, "type": "start" },
+            { "name": "헤더브레이", "lng": 151.7333, "lat": -32.7667, "type": "waypoint" },
+            { "name": "포트맥쿼리", "lng": 152.9089, "lat": -31.4333, "type": "waypoint" },
+            { "name": "울굴가", "lng": 153.2333, "lat": -30.1167, "type": "waypoint" },
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "stay" }
           ]
         },
         {
           "day": 2,
           "date": "5/25",
-          "label": "포트스테판스 종일",
+          "label": "골드코스트 + 반딧불이 + 은하수",
           "stops": [
-            {
-              "name": "뉴캐슬",
-              "lng": 151.7817,
-              "lat": -32.9283,
-              "type": "start"
-            },
-            {
-              "name": "토마리 헤드 정상 산책로",
-              "lng": 152.187238,
-              "lat": -32.716833,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "오크필드 랜치 낙타 라이드",
-              "lng": 152.074151,
-              "lat": -32.782399,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "플라이 포인트",
-              "lng": 152.15164,
-              "lat": -32.71445,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "포트스테판스 캥거루 인카운터스",
-              "lng": 152.146025,
-              "lat": -32.724438,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "뉴캐슬",
-              "lng": 151.7817,
-              "lat": -32.9283,
-              "type": "stay"
-            }
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "start" },
+            { "name": "버레이 헤드 국립공원", "lng": 153.459, "lat": -28.092, "type": "attraction", "grade": "A" },
+            { "name": "커럼빈 야생동물 보호구역", "lng": 153.476, "lat": -28.146, "type": "attraction" },
+            { "name": "스프링브룩 은하수 촬영", "lng": 153.243, "lat": -28.231, "type": "attraction" },
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "stay" }
           ]
         },
         {
           "day": 3,
           "date": "5/26",
-          "label": "뉴캐슬→센트럴코스트",
+          "label": "골드코스트→바이런베이→콥스하버",
           "stops": [
-            {
-              "name": "뉴캐슬",
-              "lng": 151.7817,
-              "lat": -32.9283,
-              "type": "start"
-            },
-            {
-              "name": "노라 헤드 등대",
-              "lng": 151.576354,
-              "lat": -33.281715,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "바렌조이 등대",
-              "lng": 151.329853,
-              "lat": -33.580213,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "쿠링가이 체이스 국립공원",
-              "lng": 151.224358,
-              "lat": -33.627221,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "시드니 북부",
-              "lng": 151.2093,
-              "lat": -33.8688,
-              "type": "stay"
-            }
+            { "name": "골드코스트", "lng": 153.43, "lat": -28.0023, "type": "start" },
+            { "name": "케이프 바이런 등대", "lng": 153.636, "lat": -28.638, "type": "attraction", "grade": "S" },
+            { "name": "바이런베이 타운", "lng": 153.615, "lat": -28.647, "type": "waypoint" },
+            { "name": "룩앳미나우 헤드랜드", "lng": 153.167, "lat": -30.190, "type": "attraction", "grade": "S" },
+            { "name": "머튼버드 아일랜드", "lng": 153.148, "lat": -30.289, "type": "attraction", "grade": "A" },
+            { "name": "콥스하버", "lng": 153.114, "lat": -30.296, "type": "stay" }
           ]
         },
         {
           "day": 4,
           "date": "5/27",
-          "label": "블루마운틴 북부",
+          "label": "Waterfall Way: 콥스→도리고→포트맥쿼리",
           "stops": [
-            {
-              "name": "시드니 시내",
-              "lng": 151.2093,
-              "lat": -33.8688,
-              "type": "start"
-            },
-            {
-              "name": "고벳츠 리프 전망대",
-              "lng": 150.311508,
-              "lat": -33.628006,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "그랜드 캐니언 워킹 트랙",
-              "lng": 150.321416,
-              "lat": -33.649376,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "서블라임 포인트 전망대",
-              "lng": 150.343118,
-              "lat": -33.729391,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "웬트워스 폴스 전망대",
-              "lng": 150.371998,
-              "lat": -33.726015,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "에코 포인트 전망대",
-              "lng": 150.312045,
-              "lat": -33.732583,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "쓰리 시스터스",
-              "lng": 150.314841,
-              "lat": -33.735323,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "카툼바",
-              "lng": 150.312,
-              "lat": -33.715,
-              "type": "stay"
-            }
+            { "name": "콥스하버", "lng": 153.114, "lat": -30.296, "type": "start" },
+            { "name": "벨링겐 마을", "lng": 152.900, "lat": -30.450, "type": "waypoint" },
+            { "name": "포레스트 스카이 피어", "lng": 152.740, "lat": -30.360, "type": "attraction", "grade": "A" },
+            { "name": "크리스탈 샤워 폭포", "lng": 152.740, "lat": -30.370, "type": "attraction", "grade": "B" },
+            { "name": "댕거 폭포", "lng": 152.720, "lat": -30.340, "type": "attraction", "grade": "A" },
+            { "name": "태킹 포인트 등대", "lng": 152.923, "lat": -31.475, "type": "attraction", "grade": "A" },
+            { "name": "포트맥쿼리", "lng": 152.909, "lat": -31.433, "type": "stay" }
           ]
         },
         {
           "day": 5,
           "date": "5/28",
-          "label": "블루마운틴 남부",
+          "label": "포트맥쿼리→포트스테판스",
           "stops": [
-            {
-              "name": "카툼바",
-              "lng": 150.312,
-              "lat": -33.715,
-              "type": "start"
-            },
-            {
-              "name": "카툼바 폭포",
-              "lng": 150.30431,
-              "lat": -33.727691,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "시닉 레일웨이",
-              "lng": 150.301425,
-              "lat": -33.729139,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "링컨스 록",
-              "lng": 150.372104,
-              "lat": -33.740139,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "블루마운틴스 국립공원",
-              "lng": 150.273886,
-              "lat": -33.849285,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "카툼바",
-              "lng": 150.312,
-              "lat": -33.715,
-              "type": "stay"
-            }
+            { "name": "포트맥쿼리", "lng": 152.909, "lat": -31.433, "type": "start" },
+            { "name": "스톡턴 사막 (샌드보딩)", "lng": 152.083, "lat": -32.783, "type": "attraction" },
+            { "name": "토마리 헤드", "lng": 152.183, "lat": -32.717, "type": "attraction", "grade": "S" },
+            { "name": "넬슨베이", "lng": 152.067, "lat": -32.717, "type": "stay" }
           ]
         },
         {
           "day": 6,
           "date": "5/29",
-          "label": "블루마운틴→시드니 반납",
+          "label": "포트스테판스→블루마운틴→그랜드퍼시픽→시드니",
           "stops": [
-            {
-              "name": "카툼바",
-              "lng": 150.312,
-              "lat": -33.715,
-              "type": "start"
-            },
-            {
-              "name": "시드니공항",
-              "lng": 151.1772,
-              "lat": -33.9461,
-              "type": "end"
-            }
-          ]
-        }
-      ]
-    },
-    "D": {
-      "name": "D안: 콥스하버 절충",
-      "color": "#9b59b6",
-      "total_km": 1370,
-      "score": 76.0,
-      "days": [
-        {
-          "day": 1,
-          "date": "5/24",
-          "label": "시드니→포트맥쿼리",
-          "stops": [
-            {
-              "name": "시드니공항",
-              "lng": 151.1772,
-              "lat": -33.9461,
-              "type": "start"
-            },
-            {
-              "name": "태킹 포인트 등대",
-              "lng": 152.937357,
-              "lat": -31.475515,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "포트맥쿼리 해안 산책로",
-              "lng": 152.906813,
-              "lat": -31.428437,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "포트맥쿼리",
-              "lng": 152.909,
-              "lat": -31.431,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "date": "5/25",
-          "label": "포트맥쿼리→콥스하버",
-          "stops": [
-            {
-              "name": "포트맥쿼리",
-              "lng": 152.909,
-              "lat": -31.431,
-              "type": "start"
-            },
-            {
-              "name": "코알라 보존 병원",
-              "lng": 152.919353,
-              "lat": -31.442709,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "아라쿤 국립공원",
-              "lng": 153.070092,
-              "lat": -30.884556,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "룩 앳 미 나우 헤드랜드 워크",
-              "lng": 153.186688,
-              "lat": -30.175687,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "머튼버드 아일랜드",
-              "lng": 153.151571,
-              "lat": -30.305395,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "보암비 헤드랜드 전망대",
-              "lng": 153.105525,
-              "lat": -30.356423,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "콥스하버",
-              "lng": 153.1136,
-              "lat": -30.2963,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "date": "5/26",
-          "label": "콥스하버 심화 (연박)",
-          "stops": [
-            {
-              "name": "콥스하버",
-              "lng": 153.1136,
-              "lat": -30.2963,
-              "type": "start"
-            },
-            {
-              "name": "댕거 폭포",
-              "lng": 152.714343,
-              "lat": -30.323302,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "크리스탈 샤워 폭포",
-              "lng": 152.729782,
-              "lat": -30.380528,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "에보르 폭포",
-              "lng": 152.342579,
-              "lat": -30.403345,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "포레스트 스카이 피어",
-              "lng": 153.109529,
-              "lat": -30.266478,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "무니 비치",
-              "lng": 153.174486,
-              "lat": -30.184418,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "콥스하버",
-              "lng": 153.1136,
-              "lat": -30.2963,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "date": "5/27",
-          "label": "콥스하버→포트스테판스",
-          "stops": [
-            {
-              "name": "콥스하버",
-              "lng": 153.1136,
-              "lat": -30.2963,
-              "type": "start"
-            },
-            {
-              "name": "크라우디 헤드 등대",
-              "lng": 152.753572,
-              "lat": -31.843442,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "포트스테판스 캥거루 인카운터스",
-              "lng": 152.146025,
-              "lat": -32.724438,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "포트스테판스",
-              "lng": 152.1872,
-              "lat": -32.7168,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "date": "5/28",
-          "label": "포트스테판스→뉴캐슬",
-          "stops": [
-            {
-              "name": "포트스테판스",
-              "lng": 152.1872,
-              "lat": -32.7168,
-              "type": "start"
-            },
-            {
-              "name": "토마리 헤드 정상 산책로",
-              "lng": 152.187238,
-              "lat": -32.716833,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "보기 홀",
-              "lng": 151.781653,
-              "lat": -32.935131,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "뉴캐슬 메모리얼 워크",
-              "lng": 151.777038,
-              "lat": -32.936708,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "뉴캐슬",
-              "lng": 151.7817,
-              "lat": -32.9283,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "date": "5/29",
-          "label": "뉴캐슬→시드니 반납",
-          "stops": [
-            {
-              "name": "뉴캐슬",
-              "lng": 151.7817,
-              "lat": -32.9283,
-              "type": "start"
-            },
-            {
-              "name": "노라 헤드 등대",
-              "lng": 151.576354,
-              "lat": -33.281715,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "바렌조이 등대",
-              "lng": 151.329853,
-              "lat": -33.580213,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "시드니공항",
-              "lng": 151.1772,
-              "lat": -33.9461,
-              "type": "end"
-            }
-          ]
-        }
-      ]
-    },
-    "E": {
-      "name": "E안: 남북 하이브리드",
-      "color": "#f39c12",
-      "total_km": 1040,
-      "score": 73.3,
-      "days": [
-        {
-          "day": 1,
-          "date": "5/24",
-          "label": "시드니→센트럴코스트→뉴캐슬",
-          "stops": [
-            {
-              "name": "시드니공항",
-              "lng": 151.1772,
-              "lat": -33.9461,
-              "type": "start"
-            },
-            {
-              "name": "바렌조이 등대",
-              "lng": 151.329853,
-              "lat": -33.580213,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "노라 헤드 등대",
-              "lng": 151.576354,
-              "lat": -33.281715,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "쿠링가이 체이스 국립공원",
-              "lng": 151.224358,
-              "lat": -33.627221,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "뉴캐슬 메모리얼 워크",
-              "lng": 151.777038,
-              "lat": -32.936708,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "뉴캐슬",
-              "lng": 151.7817,
-              "lat": -32.9283,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 2,
-          "date": "5/25",
-          "label": "뉴캐슬→포트스테판스→시드니",
-          "stops": [
-            {
-              "name": "뉴캐슬",
-              "lng": 151.7817,
-              "lat": -32.9283,
-              "type": "start"
-            },
-            {
-              "name": "토마리 헤드 정상 산책로",
-              "lng": 152.187238,
-              "lat": -32.716833,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "포트스테판스 캥거루 인카운터스",
-              "lng": 152.146025,
-              "lat": -32.724438,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "보기 홀",
-              "lng": 151.781653,
-              "lat": -32.935131,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "시드니 남부",
-              "lng": 151.2093,
-              "lat": -33.8688,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 3,
-          "date": "5/26",
-          "label": "그랜드퍼시픽→울릉공→키아마",
-          "stops": [
-            {
-              "name": "시드니 시내",
-              "lng": 151.2093,
-              "lat": -33.8688,
-              "type": "start"
-            },
-            {
-              "name": "케이프 솔랜더 전망대",
-              "lng": 151.227535,
-              "lat": -34.009437,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "로열 국립공원",
-              "lng": 151.063687,
-              "lat": -34.118437,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "스탠웰 탑스 전망대",
-              "lng": 150.997482,
-              "lat": -34.223732,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "그랜드 퍼시픽 드라이브",
-              "lng": 150.996104,
-              "lat": -34.224236,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "시 클리프 브릿지",
-              "lng": 150.973328,
-              "lat": -34.25449,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "이글 록 전망대",
-              "lng": 151.099543,
-              "lat": -34.153593,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "플래그스태프 포인트 등대",
-              "lng": 150.90973,
-              "lat": -34.421886,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "봄보 헤드랜드 채석장",
-              "lng": 150.862417,
-              "lat": -34.651459,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "키아마 블로우홀",
-              "lng": 150.865867,
-              "lat": -34.671344,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "리틀 블로우홀",
-              "lng": 150.858899,
-              "lat": -34.686801,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "키아마",
-              "lng": 150.8544,
-              "lat": -34.671,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 4,
-          "date": "5/27",
-          "label": "키아마→서던하이랜드→블루마운틴",
-          "stops": [
-            {
-              "name": "키아마",
-              "lng": 150.8544,
-              "lat": -34.671,
-              "type": "start"
-            },
-            {
-              "name": "피츠로이 폭포 전망대",
-              "lng": 150.483068,
-              "lat": -34.646991,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "글로우 웜 터널",
-              "lng": 150.992818,
-              "lat": -34.179025,
-              "type": "attraction",
-              "grade": "B"
-            },
-            {
-              "name": "에코 포인트 전망대",
-              "lng": 150.312045,
-              "lat": -33.732583,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "쓰리 시스터스",
-              "lng": 150.314841,
-              "lat": -33.735323,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "카툼바 폭포",
-              "lng": 150.30431,
-              "lat": -33.727691,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "카툼바",
-              "lng": 150.312,
-              "lat": -33.715,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 5,
-          "date": "5/28",
-          "label": "블루마운틴 종일",
-          "stops": [
-            {
-              "name": "카툼바",
-              "lng": 150.312,
-              "lat": -33.715,
-              "type": "start"
-            },
-            {
-              "name": "고벳츠 리프 전망대",
-              "lng": 150.311508,
-              "lat": -33.628006,
-              "type": "attraction",
-              "grade": "S"
-            },
-            {
-              "name": "그랜드 캐니언 워킹 트랙",
-              "lng": 150.321416,
-              "lat": -33.649376,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "웬트워스 폴스 전망대",
-              "lng": 150.371998,
-              "lat": -33.726015,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "서블라임 포인트 전망대",
-              "lng": 150.343118,
-              "lat": -33.729391,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "블루마운틴스 국립공원",
-              "lng": 150.273886,
-              "lat": -33.849285,
-              "type": "attraction",
-              "grade": "A"
-            },
-            {
-              "name": "시드니 시내",
-              "lng": 151.2093,
-              "lat": -33.8688,
-              "type": "stay"
-            }
-          ]
-        },
-        {
-          "day": 6,
-          "date": "5/29",
-          "label": "시드니+렌터카 반납",
-          "stops": [
-            {
-              "name": "시드니 시내",
-              "lng": 151.2093,
-              "lat": -33.8688,
-              "type": "start"
-            },
-            {
-              "name": "시드니공항",
-              "lng": 151.1772,
-              "lat": -33.9461,
-              "type": "end"
-            }
+            { "name": "넬슨베이", "lng": 152.067, "lat": -32.717, "type": "start" },
+            { "name": "뉴캐슬 메모리얼 워크", "lng": 151.783, "lat": -32.933, "type": "attraction", "grade": "S" },
+            { "name": "고벳츠 리프 전망대", "lng": 150.311, "lat": -33.629, "type": "attraction", "grade": "S" },
+            { "name": "에코 포인트 (쓰리 시스터스)", "lng": 150.312, "lat": -33.732, "type": "attraction", "grade": "A" },
+            { "name": "그랜드 캐니언 워킹 트랙", "lng": 150.324, "lat": -33.660, "type": "attraction", "grade": "A" },
+            { "name": "시 클리프 브릿지", "lng": 150.963, "lat": -34.255, "type": "attraction", "grade": "A" },
+            { "name": "시드니공항 (반납)", "lng": 151.1772, "lat": -33.9461, "type": "end" }
           ]
         }
       ]

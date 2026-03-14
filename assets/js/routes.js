@@ -7,8 +7,8 @@
 
   /* ── 색상/아이콘 설정 ── */
   const ROUTE_COLORS = {
-    A: '#e74c3c', B: '#2ecc71', C: '#3498db',
-    D: '#f39c12', E: '#9b59b6'
+    '1': '#e74c3c', '2': '#3498db', '3': '#2ecc71',
+    '4': '#f1c40f', '5': '#9b59b6'
   };
 
   const GRADE_COLORS = {
@@ -85,7 +85,7 @@
           var popupHtml = '<strong>' + stop.name + '</strong>';
           if (stop.grade) popupHtml += ' <span style="color:' + (GRADE_COLORS[stop.grade] || '#888') + ';font-weight:bold">' + stop.grade + '등급</span>';
           if (stop.type === 'stay') popupHtml += ' 🏨';
-          popupHtml += '<br><small>' + key + '안 Day ' + day.day + ' (' + day.date + ')</small>';
+          popupHtml += '<br><small>' + key + '조 Day ' + day.day + ' (' + day.date + ')</small>';
 
           var marker = L.marker(ll, { icon: markerIcon(stop) }).bindPopup(popupHtml);
           dayMarkers.push(marker);
