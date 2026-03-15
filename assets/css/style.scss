@@ -557,6 +557,58 @@
   h1 { margin-bottom: 0.2em; }
 }
 
+// 탭 네비게이션
+.route-tabs {
+  display: flex;
+  gap: 0;
+  border-bottom: 2px solid #e1e4e8;
+  margin-bottom: 1.5em;
+}
+
+.route-tab {
+  padding: 0.7em 1.5em;
+  border: none;
+  border-bottom: 3px solid transparent;
+  background: none;
+  cursor: pointer;
+  font-size: 0.95em;
+  font-weight: 600;
+  color: #586069;
+  transition: all 0.2s;
+  margin-bottom: -2px;
+
+  &:hover {
+    color: #24292e;
+    background: #f6f8fa;
+  }
+
+  &.active {
+    color: #159957;
+    border-bottom-color: #159957;
+  }
+}
+
+// 탭 패널
+.tab-panel {
+  display: none;
+
+  &.active {
+    display: block;
+  }
+}
+
+// 클릭 가능한 stop
+.stop-clickable {
+  cursor: pointer;
+  transition: all 0.15s;
+
+  &:hover {
+    background: #e8f5e9 !important;
+    border-color: #159957 !important;
+    transform: scale(1.02);
+  }
+}
+
 .routes-subtitle {
   color: #586069;
   font-size: 0.95em;

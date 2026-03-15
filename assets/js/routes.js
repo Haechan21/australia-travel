@@ -46,12 +46,17 @@
     return makeIcon(GRADE_COLORS.C || '#aaa', 9);
   }
 
+  /* ── 지도를 외부에서 접근 가능하게 노출 ── */
+  // (탭 전환 시 invalidateSize 호출 용도)
+
   /* ── 지도 초기화 ── */
   var map = L.map('map', {
     center: [-31.5, 152.0],
     zoom: 7,
     scrollWheelZoom: true
   });
+
+  window._routeMap = map;
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors',
@@ -229,7 +234,8 @@
         if (stop.grade) badge = '<span class="grade-badge grade-' + stop.grade + '">' + stop.grade + '</span> ';
         if (stop.type === 'stay') badge = '<span class="grade-badge stay-badge">숙박</span> ';
         if (stop.type === 'start' || stop.type === 'end') badge = '<span class="grade-badge start-badge">출발</span> ';
-        html += '<div class="stop-row">' + badge + stop.name + '</div>';
+        var clickable = stop.grade ? ' stop-clickable" data-stop-name="' + stop.name : '';
+        html += '<div class="stop-row' + clickable + '">' + badge + stop.name + '</div>';
       });
       html += '</div></div>';
     });
@@ -249,6 +255,16 @@
         dayBtns.forEach(function (b) { b.classList.remove('active'); });
         var matchBtn = document.querySelector('#dayButtons .day-btn[data-day="' + d + '"]');
         if (matchBtn) matchBtn.classList.add('active');
+      });
+    });
+
+    // 등급이 있는 stop 클릭 시 모달 오픈
+    panel.querySelectorAll('.stop-row[data-stop-name]').forEach(function (el) {
+      el.addEventListener('click', function (e) {
+        e.stopPropagation();
+        var name = this.dataset.stopName;
+        var place = findPlaceByName(name);
+        if (place) openPlaceModal(place);
       });
     });
   }
@@ -332,5 +348,145 @@
       });
     });
   }
+
+  /* ── place_data.json 로드 + 모달 ── */
+  var placeData = null;
+  fetch('assets/data/place_data.json')
+    .then(function (r) { return r.json(); })
+    .then(function (d) { placeData = d; });
+
+  var criteriaInfo = {
+    scenery: { name: '경치/포토스팟', icon: '\uD83C\uDFDE' },
+    uniqueness: { name: '유니크함', icon: '\u2728' },
+    google_rating: { name: '구글 평점', icon: '\u2B50' },
+    accessibility: { name: '접근성', icon: '\uD83D\uDE97' },
+    review_count: { name: '리뷰 수', icon: '\uD83D\uDCAC' },
+    value_for_money: { name: '가성비', icon: '\uD83D\uDCB0' },
+    time_efficiency: { name: '시간효율', icon: '\u23F1' }
+  };
+  var criteriaOrder = ['scenery','uniqueness','google_rating','accessibility','review_count','value_for_money','time_efficiency'];
+
+  function findPlaceByName(stopName) {
+    if (!placeData) return null;
+    var sn = stopName.replace(/[()（）]/g, ' ').trim();
+    var best = null;
+    var bestScore = 0;
+    for (var id in placeData.places) {
+      var p = placeData.places[id];
+      var pn = p.name_ko.replace(/[()（）]/g, ' ').trim();
+      // exact match
+      if (pn === sn) return p;
+      // substring match
+      if (sn.indexOf(pn) >= 0 || pn.indexOf(sn) >= 0) return p;
+      // word overlap: split by spaces and count matching words
+      var sWords = sn.split(/\s+/);
+      var pWords = pn.split(/\s+/);
+      var overlap = 0;
+      for (var i = 0; i < sWords.length; i++) {
+        for (var j = 0; j < pWords.length; j++) {
+          if (sWords[i].length >= 2 && sWords[i] === pWords[j]) overlap++;
+        }
+      }
+      if (overlap > bestScore) {
+        bestScore = overlap;
+        best = p;
+      }
+    }
+    return bestScore >= 2 ? best : null;
+  }
+
+  function barColor(score) {
+    if (score >= 9) return 'linear-gradient(90deg, #159957, #1ecf7a)';
+    if (score >= 7) return 'linear-gradient(90deg, #1890ff, #69c0ff)';
+    if (score >= 5) return 'linear-gradient(90deg, #faad14, #ffd666)';
+    return 'linear-gradient(90deg, #ff4d4f, #ff7875)';
+  }
+
+  function openPlaceModal(place) {
+    var p = place;
+    var overlay = document.getElementById('placeModal');
+
+    var html = '<h2 class="modal-title">' + p.name_ko + '</h2>';
+    if (p.name && p.name !== p.name_ko) html += '<p class="modal-name-en">' + p.name + '</p>';
+    if (p.google_maps_url) html += '<div class="modal-map-wrap"><a href="' + p.google_maps_url + '" target="_blank" class="modal-map-link">Google Maps\uC5D0\uC11C \uBCF4\uAE30</a></div>';
+
+    html += '<div class="modal-meta">';
+    html += '<span class="modal-grade grade-' + p.grade + '">' + p.grade + '\uB4F1\uAE09</span>';
+    html += '<span><strong>' + p.average_score.toFixed(1) + '\uC810</strong></span>';
+    html += '<span>\uD83D\uDCCD ' + p.region + '</span>';
+    if (p.controversial) html += '<span class="modal-controversy">\u26A1 \uB17C\uC7C1 (\uD3B8\uCC28 ' + p.spread.toFixed(1) + ')</span>';
+    html += '</div>';
+
+    // 3인 점수 카드
+    html += '<div class="modal-scorers">';
+    var personas = placeData.personas;
+    var labels = ['A','B','C'];
+    var nums = ['\u2460','\u2461','\u2462'];
+    for (var i = 0; i < 3; i++) {
+      var s = labels[i];
+      html += '<div class="scorer-card"><div class="scorer-label">' + nums[i] + ' ' + personas[s].name + '</div>';
+      html += '<div class="scorer-score">' + p.scores[s].toFixed(1) + '</div>';
+      html += '<div class="scorer-focus">' + personas[s].focus + '</div></div>';
+    }
+    html += '</div>';
+
+    // 기준별 브레이크다운
+    html += '<div class="modal-breakdown">';
+    for (var j = 0; j < criteriaOrder.length; j++) {
+      var key = criteriaOrder[j];
+      var bd = p.breakdown[key];
+      if (!bd) continue;
+      var ci = criteriaInfo[key];
+      var avgPct = (bd.avg / 10) * 100;
+      var spread = Math.max(bd.A, bd.B, bd.C) - Math.min(bd.A, bd.B, bd.C);
+      var criControv = spread >= 3;
+
+      html += '<div class="breakdown-row' + (criControv ? ' breakdown-controversial' : '') + '">';
+      html += '<div class="breakdown-header"><span class="breakdown-label">' + ci.icon + ' ' + ci.name;
+      if (criControv) html += ' <span class="criterion-controversy">\u26A1\uD3B8\uCC28 ' + spread + '</span>';
+      html += '</span><span class="breakdown-avg">' + bd.avg.toFixed(1) + '</span></div>';
+      html += '<div class="breakdown-bar-wrap"><div class="breakdown-bar-track"><div class="breakdown-bar" style="width:' + avgPct + '%;background:' + barColor(bd.avg) + '"></div></div></div>';
+      html += '<div class="breakdown-abc">';
+      html += '<span class="abc-score abc-a">\u2460\uD6A8\uC728:' + bd.A + '</span>';
+      html += '<span class="abc-score abc-b">\u2461\uAC10\uC131:' + bd.B + '</span>';
+      html += '<span class="abc-score abc-c">\u2462\uD604\uC2E4:' + bd.C + '</span>';
+      html += '</div>';
+      html += '<details class="breakdown-reasons"><summary>\uD3C9\uAC00 \uADFC\uAC70</summary><div class="reason-list">';
+      html += '<div class="reason-item"><strong>\u2460\uD6A8\uC728:</strong> ' + (bd.reasons.A || '-') + '</div>';
+      html += '<div class="reason-item"><strong>\u2461\uAC10\uC131:</strong> ' + (bd.reasons.B || '-') + '</div>';
+      html += '<div class="reason-item"><strong>\u2462\uD604\uC2E4:</strong> ' + (bd.reasons.C || '-') + '</div>';
+      html += '</div></details></div>';
+    }
+    html += '</div>';
+
+    overlay.querySelector('.modal-body').innerHTML = html;
+    overlay.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  }
+
+  // 모달 닫기 이벤트
+  document.getElementById('placeModal').querySelector('.modal-close').addEventListener('click', function () {
+    document.getElementById('placeModal').classList.remove('active');
+    document.body.style.overflow = '';
+  });
+  document.getElementById('placeModal').addEventListener('click', function (e) {
+    if (e.target === this) {
+      this.classList.remove('active');
+      document.body.style.overflow = '';
+    }
+  });
+
+  /* ── 탭 전환 ── */
+  document.querySelectorAll('.route-tab').forEach(function (tab) {
+    tab.addEventListener('click', function () {
+      document.querySelectorAll('.route-tab').forEach(function (t) { t.classList.remove('active'); });
+      document.querySelectorAll('.tab-panel').forEach(function (p) { p.classList.remove('active'); });
+      this.classList.add('active');
+      document.getElementById('tab-' + this.dataset.tab).classList.add('active');
+      if (this.dataset.tab === 'map') {
+        setTimeout(function () { window._routeMap.invalidateSize(); }, 100);
+      }
+    });
+  });
 
 })();

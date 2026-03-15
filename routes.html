@@ -7,6 +7,15 @@ title: 로드트립 루트 비교
   <h1>로드트립 루트 비교</h1>
   <p class="routes-subtitle">5개 안의 이동 경로를 지도에서 비교하고, 상세 일정과 평가를 확인하세요.</p>
 
+  <!-- 탭 네비게이션 -->
+  <div class="route-tabs">
+    <button class="route-tab active" data-tab="map">지도 비교</button>
+    <button class="route-tab" data-tab="detail">상세 평가</button>
+  </div>
+
+  <!-- 탭 1: 지도 비교 -->
+  <div class="tab-panel active" id="tab-map">
+
   <!-- Route selector -->
   <div class="route-controls">
     <div class="route-buttons" id="routeButtons">
@@ -57,7 +66,10 @@ title: 로드트립 루트 비교
     </div>
   </div>
 
-  <hr style="margin:2em 0"/>
+  </div><!-- /tab-map -->
+
+  <!-- 탭 2: 상세 평가 -->
+  <div class="tab-panel" id="tab-detail">
 
   <!-- ── 루트 후보 상세 ── -->
   <div class="route-plans-section" id="routePlans">
@@ -163,6 +175,16 @@ title: 로드트립 루트 비교
       </details>
     </div>
   </div>
+
+  </div><!-- /tab-detail -->
+</div>
+
+<!-- 장소 상세 모달 -->
+<div class="modal-overlay" id="placeModal">
+  <div class="modal-content">
+    <button class="modal-close">&times;</button>
+    <div class="modal-body"></div>
+  </div>
 </div>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -247,6 +269,9 @@ document.querySelectorAll('.plan-card h2').forEach(function(h2) {
   h2.addEventListener('click', function() {
     var card = this.closest('.plan-card');
     var key = card.getAttribute('data-route');
+    // 지도 탭으로 전환
+    var mapTab = document.querySelector('.route-tab[data-tab="map"]');
+    if (mapTab) mapTab.click();
     // 루트 버튼 클릭을 시뮬레이션
     var btn = document.querySelector('.route-btn[data-route="' + key + '"]');
     if (btn) btn.click();
